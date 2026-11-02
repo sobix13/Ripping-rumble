@@ -818,8 +818,8 @@
       "sha256": "25e26db5a4d842e39a609bf0abd748c9d8e653ae1296f963a9b032b4d69f0924"
     },
     "tests/test_durable_results.py": {
-      "bytes": 17774,
-      "sha256": "8b6cc1746810c914dc4949c91283e6b41c56ef7a4e101ade6537e3b543817b2e"
+      "bytes": 17976,
+      "sha256": "604ffb7be50a97a2567b27023b231e78ef9df7a20aab3ab8e4090a47a4c58108"
     },
     "tests/test_fixes.py": {
       "bytes": 5557,
