@@ -1,0 +1,90 @@
+{
+  "version": "1.2.0",
+  "aggregation": "6 worlds, 200 games per world and size, 1200 per size",
+  "by_players": {
+    "2": {
+      "mean_rounds": 2,
+      "max_rounds": 2,
+      "second_chance_rate": 0.0,
+      "item_recall_rate": 0.8432203389830508,
+      "mean_scripted_seconds": 18.336
+    },
+    "3": {
+      "mean_rounds": 2,
+      "max_rounds": 2,
+      "second_chance_rate": 0.0,
+      "item_recall_rate": 1.0,
+      "mean_scripted_seconds": 19.668
+    },
+    "4": {
+      "mean_rounds": 3.054,
+      "max_rounds": 4,
+      "second_chance_rate": 0.0,
+      "item_recall_rate": 0.8353174603174603,
+      "mean_scripted_seconds": 36.459
+    },
+    "5": {
+      "mean_rounds": 3.248,
+      "max_rounds": 4,
+      "second_chance_rate": 0.0,
+      "item_recall_rate": 0.7657142857142857,
+      "mean_scripted_seconds": 43.718
+    },
+    "8": {
+      "mean_rounds": 5.303,
+      "max_rounds": 6,
+      "second_chance_rate": 0.6683333333333333,
+      "item_recall_rate": 0.7461368653421634,
+      "mean_scripted_seconds": 88.642
+    },
+    "12": {
+      "mean_rounds": 5.508,
+      "max_rounds": 6,
+      "second_chance_rate": 0.7533333333333333,
+      "item_recall_rate": 0.7274633123689728,
+      "mean_scripted_seconds": 108.276
+    },
+    "20": {
+      "mean_rounds": 6.562,
+      "max_rounds": 7,
+      "second_chance_rate": 0.8741666666666666,
+      "item_recall_rate": 0.7421808960270498,
+      "mean_scripted_seconds": 141.46
+    },
+    "35": {
+      "mean_rounds": 8.381,
+      "max_rounds": 9,
+      "second_chance_rate": 0.8233333333333334,
+      "item_recall_rate": 0.7272284461763273,
+      "mean_scripted_seconds": 192.386
+    },
+    "60": {
+      "mean_rounds": 9.424,
+      "max_rounds": 10,
+      "second_chance_rate": 0.8666666666666667,
+      "item_recall_rate": 0.7215743440233237,
+      "mean_scripted_seconds": 226.085
+    },
+    "100": {
+      "mean_rounds": 10.459,
+      "max_rounds": 11,
+      "second_chance_rate": 0.8941666666666667,
+      "item_recall_rate": 0.6989935956084172,
+      "mean_scripted_seconds": 258.449
+    },
+    "150": {
+      "mean_rounds": 11.584,
+      "max_rounds": 12,
+      "second_chance_rate": 0.93,
+      "item_recall_rate": 0.7044619422572178,
+      "mean_scripted_seconds": 293.275
+    },
+    "250": {
+      "mean_rounds": 12.867,
+      "max_rounds": 13,
+      "second_chance_rate": 0.9833333333333333,
+      "item_recall_rate": 0.6933701657458563,
+      "mean_scripted_seconds": 338.493
+    }
+  }
+}

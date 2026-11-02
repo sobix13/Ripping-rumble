@@ -1,0 +1,6379 @@
+{
+  "matrix": [
+    {
+      "games": 200,
+      "rounds": {
+        "mean": 2,
+        "min": 2,
+        "p50": 2,
+        "p95": 2,
+        "max": 2
+      },
+      "scripted_seconds": {
+        "mean": 18.26,
+        "min": 15,
+        "p50": 18,
+        "p95": 24,
+        "max": 26
+      },
+      "fixed_10s_seconds": {
+        "mean": 15,
+        "min": 15,
+        "p50": 15,
+        "p95": 15,
+        "max": 15
+      },
+      "reading_seconds_per_round": {
+        "mean": 11.13,
+        "min": 5.0,
+        "p50": 10.67,
+        "p95": 17.0,
+        "max": 21.0
+      },
+      "round_chars": {
+        "mean": 234.24,
+        "min": 124,
+        "p50": 230,
+        "p95": 335,
+        "max": 418
+      },
+      "eliminations_per_round": {
+        "mean": 0.5,
+        "min": 0,
+        "p50": 0,
+        "p95": 1,
+        "max": 1
+      },
+      "kinds": {
+        "find": 74,
+        "survive": 206,
+        "duel": 200,
+        "ambient": 213,
+        "moment": 60
+      },
+      "second_chance_games": 0,
+      "second_chance_round": null,
+      "revives": {
+        "mean": 0,
+        "min": 0,
+        "p50": 0,
+        "p95": 0,
+        "max": 0
+      },
+      "quiet_rounds": 200,
+      "items_found": 74,
+      "items_recalled": 66,
+      "item_recall_rate": 0.8919,
+      "item_finals": 66,
+      "items_dropped_without_recall": 8,
+      "recent_hits": 0,
+      "repeats": 0,
+      "world": "garage",
+      "players": 2
+    },
+    {
+      "games": 200,
+      "rounds": {
+        "mean": 2,
+        "min": 2,
+        "p50": 2,
+        "p95": 2,
+        "max": 2
+      },
+      "scripted_seconds": {
+        "mean": 19.765,
+        "min": 15,
+        "p50": 20,
+        "p95": 23,
+        "max": 28
+      },
+      "fixed_10s_seconds": {
+        "mean": 15,
+        "min": 15,
+        "p50": 15,
+        "p95": 15,
+        "max": 15
+      },
+      "reading_seconds_per_round": {
+        "mean": 12.106,
+        "min": 7.0,
+        "p50": 11.67,
+        "p95": 17.33,
+        "max": 23.0
+      },
+      "round_chars": {
+        "mean": 257.488,
+        "min": 153,
+        "p50": 248,
+        "p95": 358,
+        "max": 455
+      },
+      "eliminations_per_round": {
+        "mean": 1,
+        "min": 1,
+        "p50": 1,
+        "p95": 1,
+        "max": 1
+      },
+      "kinds": {
+        "ambient": 186,
+        "kill": 117,
+        "survive": 135,
+        "duel": 200,
+        "wipe": 83,
+        "moment": 26,
+        "find": 39
+      },
+      "second_chance_games": 0,
+      "second_chance_round": null,
+      "revives": {
+        "mean": 0,
+        "min": 0,
+        "p50": 0,
+        "p95": 0,
+        "max": 0
+      },
+      "quiet_rounds": 0,
+      "items_found": 39,
+      "items_recalled": 39,
+      "item_recall_rate": 1.0,
+      "item_finals": 39,
+      "items_dropped_without_recall": 0,
+      "recent_hits": 0,
+      "repeats": 0,
+      "world": "garage",
+      "players": 3
+    },
+    {
+      "games": 200,
+      "rounds": {
+        "mean": 3.06,
+        "min": 3,
+        "p50": 3,
+        "p95": 4,
+        "max": 4
+      },
+      "scripted_seconds": {
+        "mean": 37.135,
+        "min": 27,
+        "p50": 36,
+        "p95": 50,
+        "max": 64
+      },
+      "fixed_10s_seconds": {
+        "mean": 25.6,
+        "min": 25,
+        "p50": 25,
+        "p95": 35,
+        "max": 35
+      },
+      "reading_seconds_per_round": {
+        "mean": 13.537,
+        "min": 6.33,
+        "p50": 13.33,
+        "p95": 19.33,
+        "max": 24.67
+      },
+      "round_chars": {
+        "mean": 288.507,
+        "min": 151,
+        "p50": 288,
+        "p95": 400,
+        "max": 517
+      },
+      "eliminations_per_round": {
+        "mean": 1.02,
+        "min": 1,
+        "p50": 1,
+        "p95": 1,
+        "max": 2
+      },
+      "kinds": {
+        "kill": 239,
+        "survive": 225,
+        "wipe": 175,
+        "find": 82,
+        "ambient": 294,
+        "duel": 200,
+        "moment": 92,
+        "revive": 24,
+        "call": 8,
+        "transfer": 1,
+        "multi": 1
+      },
+      "second_chance_games": 0,
+      "second_chance_round": null,
+      "revives": {
+        "mean": 0.12,
+        "min": 0,
+        "p50": 0,
+        "p95": 1,
+        "max": 1
+      },
+      "quiet_rounds": 0,
+      "items_found": 82,
+      "items_recalled": 67,
+      "item_recall_rate": 0.8171,
+      "item_finals": 64,
+      "items_dropped_without_recall": 15,
+      "recent_hits": 0,
+      "repeats": 0,
+      "world": "garage",
+      "players": 4
+    },
+    {
+      "games": 200,
+      "rounds": {
+        "mean": 3.205,
+        "min": 3,
+        "p50": 3,
+        "p95": 4,
+        "max": 4
+      },
+      "scripted_seconds": {
+        "mean": 42.65,
+        "min": 30,
+        "p50": 42,
+        "p95": 57,
+        "max": 67
+      },
+      "fixed_10s_seconds": {
+        "mean": 27.05,
+        "min": 25,
+        "p50": 25,
+        "p95": 35,
+        "max": 35
+      },
+      "reading_seconds_per_round": {
+        "mean": 14.656,
+        "min": 6.33,
+        "p50": 14.0,
+        "p95": 22.0,
+        "max": 26.67
+      },
+      "round_chars": {
+        "mean": 314.22,
+        "min": 151,
+        "p50": 305,
+        "p95": 461,
+        "max": 562
+      },
+      "eliminations_per_round": {
+        "mean": 1.285,
+        "min": 1,
+        "p50": 1,
+        "p95": 2,
+        "max": 3
+      },
+      "kinds": {
+        "wipe": 241,
+        "kill": 308,
+        "survive": 249,
+        "find": 89,
+        "ambient": 248,
+        "duel": 200,
+        "moment": 82,
+        "multi": 23,
+        "double": 8,
+        "call": 13,
+        "revive": 24,
+        "transfer": 2
+      },
+      "second_chance_games": 0,
+      "second_chance_round": null,
+      "revives": {
+        "mean": 0.12,
+        "min": 0,
+        "p50": 0,
+        "p95": 1,
+        "max": 1
+      },
+      "quiet_rounds": 0,
+      "items_found": 89,
+      "items_recalled": 70,
+      "item_recall_rate": 0.7865,
+      "item_finals": 67,
+      "items_dropped_without_recall": 19,
+      "recent_hits": 0,
+      "repeats": 0,
+      "world": "garage",
+      "players": 5
+    },
+    {
+      "games": 200,
+      "rounds": {
+        "mean": 5.295,
+        "min": 4,
+        "p50": 5,
+        "p95": 6,
+        "max": 6
+      },
+      "scripted_seconds": {
+        "mean": 87.135,
+        "min": 57,
+        "p50": 85,
+        "p95": 111,
+        "max": 123
+      },
+      "fixed_10s_seconds": {
+        "mean": 47.95,
+        "min": 35,
+        "p50": 45,
+        "p95": 55,
+        "max": 55
+      },
+      "reading_seconds_per_round": {
+        "mean": 17.22,
+        "min": 6.33,
+        "p50": 17.33,
+        "p95": 26.33,
+        "max": 38.0
+      },
+      "round_chars": {
+        "mean": 375.557,
+        "min": 151,
+        "p50": 373,
+        "p95": 565,
+        "max": 802
+      },
+      "eliminations_per_round": {
+        "mean": 1.502,
+        "min": 1,
+        "p50": 1,
+        "p95": 3,
+        "max": 3
+      },
+      "kinds": {
+        "kill": 683,
+        "survive": 451,
+        "wipe": 470,
+        "revive": 57,
+        "multi": 50,
+        "moment": 229,
+        "ambient": 320,
+        "duel": 200,
+        "find": 148,
+        "call": 74,
+        "double": 32,
+        "transfer": 7
+      },
+      "second_chance_games": 134,
+      "second_chance_round": {
+        "mean": 2.582,
+        "min": 2,
+        "p50": 3,
+        "p95": 3,
+        "max": 4
+      },
+      "revives": {
+        "mean": 0.955,
+        "min": 0,
+        "p50": 1,
+        "p95": 2,
+        "max": 2
+      },
+      "quiet_rounds": 0,
+      "items_found": 148,
+      "items_recalled": 118,
+      "item_recall_rate": 0.7973,
+      "item_finals": 84,
+      "items_dropped_without_recall": 30,
+      "recent_hits": 0,
+      "repeats": 0,
+      "world": "garage",
+      "players": 8
+    },
+    {
+      "games": 200,
+      "rounds": {
+        "mean": 5.49,
+        "min": 5,
+        "p50": 5,
+        "p95": 6,
+        "max": 6
+      },
+      "scripted_seconds": {
+        "mean": 107.33,
+        "min": 81,
+        "p50": 107,
+        "p95": 127,
+        "max": 136
+      },
+      "fixed_10s_seconds": {
+        "mean": 49.9,
+        "min": 45,
+        "p50": 45,
+        "p95": 55,
+        "max": 55
+      },
+      "reading_seconds_per_round": {
+        "mean": 21.035,
+        "min": 6.33,
+        "p50": 20.33,
+        "p95": 36.33,
+        "max": 46.67
+      },
+      "round_chars": {
+        "mean": 461.129,
+        "min": 152,
+        "p50": 442,
+        "p95": 802,
+        "max": 1038
+      },
+      "eliminations_per_round": {
+        "mean": 2.208,
+        "min": 1,
+        "p50": 2,
+        "p95": 5,
+        "max": 5
+      },
+      "kinds": {
+        "kill": 1074,
+        "wipe": 713,
+        "find": 152,
+        "survive": 442,
+        "call": 71,
+        "moment": 243,
+        "ambient": 232,
+        "duel": 200,
+        "double": 86,
+        "revive": 72,
+        "multi": 97,
+        "transfer": 4
+      },
+      "second_chance_games": 152,
+      "second_chance_round": {
+        "mean": 2.724,
+        "min": 2,
+        "p50": 3,
+        "p95": 4,
+        "max": 4
+      },
+      "revives": {
+        "mean": 1.12,
+        "min": 0,
+        "p50": 1,
+        "p95": 2,
+        "max": 2
+      },
+      "quiet_rounds": 0,
+      "items_found": 152,
+      "items_recalled": 107,
+      "item_recall_rate": 0.7039,
+      "item_finals": 80,
+      "items_dropped_without_recall": 45,
+      "recent_hits": 0,
+      "repeats": 0,
+      "world": "garage",
+      "players": 12
+    },
+    {
+      "games": 200,
+      "rounds": {
+        "mean": 6.575,
+        "min": 6,
+        "p50": 7,
+        "p95": 7,
+        "max": 7
+      },
+      "scripted_seconds": {
+        "mean": 142.035,
+        "min": 115,
+        "p50": 141,
+        "p95": 161,
+        "max": 168
+      },
+      "fixed_10s_seconds": {
+        "mean": 60.75,
+        "min": 55,
+        "p50": 65,
+        "p95": 65,
+        "max": 65
+      },
+      "reading_seconds_per_round": {
+        "mean": 25.705,
+        "min": 6.33,
+        "p50": 23.67,
+        "p95": 48.67,
+        "max": 66.0
+      },
+      "round_chars": {
+        "mean": 555.525,
+        "min": 151,
+        "p50": 523,
+        "p95": 1016,
+        "max": 1356
+      },
+      "eliminations_per_round": {
+        "mean": 3.085,
+        "min": 1,
+        "p50": 2,
+        "p95": 8,
+        "max": 9
+      },
+      "kinds": {
+        "hazard": 55,
+        "kill": 1669,
+        "multi": 207,
+        "survive": 642,
+        "wipe": 1161,
+        "ambient": 221,
+        "moment": 367,
+        "duel": 200,
+        "find": 197,
+        "call": 119,
+        "revive": 86,
+        "double": 137,
+        "transfer": 2
+      },
+      "second_chance_games": 171,
+      "second_chance_round": {
+        "mean": 3.029,
+        "min": 2,
+        "p50": 3,
+        "p95": 5,
+        "max": 5
+      },
+      "revives": {
+        "mean": 1.285,
+        "min": 0,
+        "p50": 1,
+        "p95": 2,
+        "max": 2
+      },
+      "quiet_rounds": 0,
+      "items_found": 197,
+      "items_recalled": 137,
+      "item_recall_rate": 0.6954,
+      "item_finals": 83,
+      "items_dropped_without_recall": 60,
+      "recent_hits": 0,
+      "repeats": 0,
+      "world": "garage",
+      "players": 20
+    },
+    {
+      "games": 200,
+      "rounds": {
+        "mean": 8.385,
+        "min": 8,
+        "p50": 8,
+        "p95": 9,
+        "max": 9
+      },
+      "scripted_seconds": {
+        "mean": 191.555,
+        "min": 165,
+        "p50": 191,
+        "p95": 212,
+        "max": 223
+      },
+      "fixed_10s_seconds": {
+        "mean": 78.85,
+        "min": 75,
+        "p50": 75,
+        "p95": 85,
+        "max": 85
+      },
+      "reading_seconds_per_round": {
+        "mean": 32.111,
+        "min": 6.33,
+        "p50": 27.0,
+        "p95": 72.0,
+        "max": 84.67
+      },
+      "round_chars": {
+        "mean": 684.401,
+        "min": 151,
+        "p50": 591,
+        "p95": 1482,
+        "max": 1728
+      },
+      "eliminations_per_round": {
+        "mean": 4.218,
+        "min": 1,
+        "p50": 3,
+        "p95": 12,
+        "max": 14
+      },
+      "kinds": {
+        "double": 288,
+        "kill": 2742,
+        "wipe": 1931,
+        "moment": 616,
+        "survive": 999,
+        "find": 314,
+        "revive": 111,
+        "call": 243,
+        "ambient": 239,
+        "duel": 200,
+        "multi": 428,
+        "hazard": 106,
+        "transfer": 19
+      },
+      "second_chance_games": 163,
+      "second_chance_round": {
+        "mean": 4.638,
+        "min": 3,
+        "p50": 5,
+        "p95": 7,
+        "max": 7
+      },
+      "revives": {
+        "mean": 1.37,
+        "min": 0,
+        "p50": 1,
+        "p95": 2,
+        "max": 2
+      },
+      "quiet_rounds": 0,
+      "items_found": 314,
+      "items_recalled": 223,
+      "item_recall_rate": 0.7102,
+      "item_finals": 88,
+      "items_dropped_without_recall": 91,
+      "recent_hits": 0,
+      "repeats": 0,
+      "world": "garage",
+      "players": 35
+    },
+    {
+      "games": 200,
+      "rounds": {
+        "mean": 9.415,
+        "min": 9,
+        "p50": 9,
+        "p95": 10,
+        "max": 10
+      },
+      "scripted_seconds": {
+        "mean": 225.595,
+        "min": 199,
+        "p50": 224,
+        "p95": 249,
+        "max": 262
+      },
+      "fixed_10s_seconds": {
+        "mean": 89.15,
+        "min": 85,
+        "p50": 85,
+        "p95": 95,
+        "max": 95
+      },
+      "reading_seconds_per_round": {
+        "mean": 39.073,
+        "min": 7.0,
+        "p50": 32.0,
+        "p95": 79.33,
+        "max": 90.33
+      },
+      "round_chars": {
+        "mean": 838.217,
+        "min": 154,
+        "p50": 709,
+        "p95": 1710,
+        "max": 1968
+      },
+      "eliminations_per_round": {
+        "mean": 6.441,
+        "min": 1,
+        "p50": 4,
+        "p95": 21,
+        "max": 25
+      },
+      "kinds": {
+        "multi": 1516,
+        "double": 982,
+        "wipe": 2270,
+        "kill": 3341,
+        "survive": 1037,
+        "moment": 716,
+        "revive": 157,
+        "ambient": 233,
+        "duel": 200,
+        "hazard": 165,
+        "find": 359,
+        "call": 301,
+        "transfer": 15
+      },
+      "second_chance_games": 172,
+      "second_chance_round": {
+        "mean": 4.948,
+        "min": 3,
+        "p50": 5,
+        "p95": 7,
+        "max": 8
+      },
+      "revives": {
+        "mean": 1.645,
+        "min": 0,
+        "p50": 2,
+        "p95": 3,
+        "max": 3
+      },
+      "quiet_rounds": 0,
+      "items_found": 359,
+      "items_recalled": 261,
+      "item_recall_rate": 0.727,
+      "item_finals": 97,
+      "items_dropped_without_recall": 98,
+      "recent_hits": 0,
+      "repeats": 1,
+      "world": "garage",
+      "players": 60
+    },
+    {
+      "games": 200,
+      "rounds": {
+        "mean": 10.425,
+        "min": 10,
+        "p50": 10,
+        "p95": 11,
+        "max": 11
+      },
+      "scripted_seconds": {
+        "mean": 257.665,
+        "min": 229,
+        "p50": 257,
+        "p95": 277,
+        "max": 284
+      },
+      "fixed_10s_seconds": {
+        "mean": 99.25,
+        "min": 95,
+        "p50": 95,
+        "p95": 105,
+        "max": 105
+      },
+      "reading_seconds_per_round": {
+        "mean": 44.653,
+        "min": 6.33,
+        "p50": 38.0,
+        "p95": 84.33,
+        "max": 93.33
+      },
+      "round_chars": {
+        "mean": 981.582,
+        "min": 152,
+        "p50": 827,
+        "p95": 2020,
+        "max": 2176
+      },
+      "eliminations_per_round": {
+        "mean": 9.671,
+        "min": 1,
+        "p50": 5,
+        "p95": 34,
+        "max": 36
+      },
+      "kinds": {
+        "hazard": 549,
+        "multi": 3138,
+        "double": 1864,
+        "kill": 3220,
+        "wipe": 2319,
+        "find": 361,
+        "revive": 189,
+        "call": 296,
+        "moment": 654,
+        "survive": 1022,
+        "ambient": 228,
+        "duel": 200,
+        "transfer": 28
+      },
+      "second_chance_games": 175,
+      "second_chance_round": {
+        "mean": 5.503,
+        "min": 3,
+        "p50": 5,
+        "p95": 8,
+        "max": 9
+      },
+      "revives": {
+        "mean": 1.82,
+        "min": 0,
+        "p50": 2,
+        "p95": 3,
+        "max": 3
+      },
+      "quiet_rounds": 0,
+      "items_found": 361,
+      "items_recalled": 252,
+      "item_recall_rate": 0.6981,
+      "item_finals": 94,
+      "items_dropped_without_recall": 109,
+      "recent_hits": 0,
+      "repeats": 126,
+      "world": "garage",
+      "players": 100
+    },
+    {
+      "games": 200,
+      "rounds": {
+        "mean": 11.61,
+        "min": 11,
+        "p50": 12,
+        "p95": 12,
+        "max": 12
+      },
+      "scripted_seconds": {
+        "mean": 293.3,
+        "min": 265,
+        "p50": 293,
+        "p95": 313,
+        "max": 323
+      },
+      "fixed_10s_seconds": {
+        "mean": 111.1,
+        "min": 105,
+        "p50": 115,
+        "p95": 115,
+        "max": 115
+      },
+      "reading_seconds_per_round": {
+        "mean": 49.531,
+        "min": 6.33,
+        "p50": 46.67,
+        "p95": 86.67,
+        "max": 92.67
+      },
+      "round_chars": {
+        "mean": 1116.232,
+        "min": 151,
+        "p50": 991,
+        "p95": 2093,
+        "max": 2233
+      },
+      "eliminations_per_round": {
+        "mean": 12.991,
+        "min": 1,
+        "p50": 7,
+        "p95": 36,
+        "max": 36
+      },
+      "kinds": {
+        "hazard": 1101,
+        "double": 2992,
+        "multi": 4816,
+        "revive": 181,
+        "kill": 3244,
+        "survive": 985,
+        "wipe": 2255,
+        "moment": 580,
+        "duel": 200,
+        "find": 338,
+        "ambient": 233,
+        "call": 253,
+        "transfer": 17
+      },
+      "second_chance_games": 185,
+      "second_chance_round": {
+        "mean": 6.832,
+        "min": 4,
+        "p50": 7,
+        "p95": 10,
+        "max": 10
+      },
+      "revives": {
+        "mean": 1.83,
+        "min": 0,
+        "p50": 2,
+        "p95": 3,
+        "max": 3
+      },
+      "quiet_rounds": 0,
+      "items_found": 338,
+      "items_recalled": 230,
+      "item_recall_rate": 0.6805,
+      "item_finals": 104,
+      "items_dropped_without_recall": 108,
+      "recent_hits": 0,
+      "repeats": 381,
+      "world": "garage",
+      "players": 150
+    },
+    {
+      "games": 200,
+      "rounds": {
+        "mean": 12.865,
+        "min": 12,
+        "p50": 13,
+        "p95": 13,
+        "max": 13
+      },
+      "scripted_seconds": {
+        "mean": 338.045,
+        "min": 313,
+        "p50": 340,
+        "p95": 354,
+        "max": 361
+      },
+      "fixed_10s_seconds": {
+        "mean": 123.65,
+        "min": 115,
+        "p50": 125,
+        "p95": 125,
+        "max": 125
+      },
+      "reading_seconds_per_round": {
+        "mean": 59.053,
+        "min": 6.33,
+        "p50": 76.67,
+        "p95": 88.33,
+        "max": 94.33
+      },
+      "round_chars": {
+        "mean": 1379.059,
+        "min": 152,
+        "p50": 1654,
+        "p95": 2135,
+        "max": 2266
+      },
+      "eliminations_per_round": {
+        "mean": 19.515,
+        "min": 1,
+        "p50": 18,
+        "p95": 36,
+        "max": 36
+      },
+      "kinds": {
+        "hazard": 2330,
+        "double": 5185,
+        "multi": 8287,
+        "revive": 213,
+        "kill": 2657,
+        "wipe": 1751,
+        "moment": 364,
+        "find": 231,
+        "survive": 691,
+        "duel": 200,
+        "call": 133,
+        "ambient": 208,
+        "transfer": 10
+      },
+      "second_chance_games": 199,
+      "second_chance_round": {
+        "mean": 7.241,
+        "min": 4,
+        "p50": 7,
+        "p95": 11,
+        "max": 11
+      },
+      "revives": {
+        "mean": 2.06,
+        "min": 1,
+        "p50": 2,
+        "p95": 3,
+        "max": 3
+      },
+      "quiet_rounds": 0,
+      "items_found": 231,
+      "items_recalled": 157,
+      "item_recall_rate": 0.6797,
+      "item_finals": 86,
+      "items_dropped_without_recall": 74,
+      "recent_hits": 0,
+      "repeats": 806,
+      "world": "garage",
+      "players": 250
+    },
+    {
+      "games": 200,
+      "rounds": {
+        "mean": 2,
+        "min": 2,
+        "p50": 2,
+        "p95": 2,
+        "max": 2
+      },
+      "scripted_seconds": {
+        "mean": 18.02,
+        "min": 15,
+        "p50": 18,
+        "p95": 23,
+        "max": 27
+      },
+      "fixed_10s_seconds": {
+        "mean": 15,
+        "min": 15,
+        "p50": 15,
+        "p95": 15,
+        "max": 15
+      },
+      "reading_seconds_per_round": {
+        "mean": 10.871,
+        "min": 5.0,
+        "p50": 10.67,
+        "p95": 16.67,
+        "max": 21.67
+      },
+      "round_chars": {
+        "mean": 230.667,
+        "min": 118,
+        "p50": 232,
+        "p95": 323,
+        "max": 391
+      },
+      "eliminations_per_round": {
+        "mean": 0.5,
+        "min": 0,
+        "p50": 0,
+        "p95": 1,
+        "max": 1
+      },
+      "kinds": {
+        "find": 83,
+        "survive": 193,
+        "ambient": 221,
+        "duel": 200,
+        "moment": 62
+      },
+      "second_chance_games": 0,
+      "second_chance_round": null,
+      "revives": {
+        "mean": 0,
+        "min": 0,
+        "p50": 0,
+        "p95": 0,
+        "max": 0
+      },
+      "quiet_rounds": 200,
+      "items_found": 83,
+      "items_recalled": 68,
+      "item_recall_rate": 0.8193,
+      "item_finals": 68,
+      "items_dropped_without_recall": 15,
+      "recent_hits": 0,
+      "repeats": 0,
+      "world": "redline",
+      "players": 2
+    },
+    {
+      "games": 200,
+      "rounds": {
+        "mean": 2,
+        "min": 2,
+        "p50": 2,
+        "p95": 2,
+        "max": 2
+      },
+      "scripted_seconds": {
+        "mean": 19.395,
+        "min": 15,
+        "p50": 19,
+        "p95": 23,
+        "max": 25
+      },
+      "fixed_10s_seconds": {
+        "mean": 15,
+        "min": 15,
+        "p50": 15,
+        "p95": 15,
+        "max": 15
+      },
+      "reading_seconds_per_round": {
+        "mean": 11.987,
+        "min": 6.33,
+        "p50": 11.33,
+        "p95": 17.33,
+        "max": 20.0
+      },
+      "round_chars": {
+        "mean": 255.695,
+        "min": 151,
+        "p50": 247,
+        "p95": 361,
+        "max": 404
+      },
+      "eliminations_per_round": {
+        "mean": 1,
+        "min": 1,
+        "p50": 1,
+        "p95": 1,
+        "max": 1
+      },
+      "kinds": {
+        "ambient": 205,
+        "wipe": 87,
+        "survive": 123,
+        "duel": 200,
+        "moment": 32,
+        "kill": 113,
+        "find": 45
+      },
+      "second_chance_games": 0,
+      "second_chance_round": null,
+      "revives": {
+        "mean": 0,
+        "min": 0,
+        "p50": 0,
+        "p95": 0,
+        "max": 0
+      },
+      "quiet_rounds": 0,
+      "items_found": 45,
+      "items_recalled": 45,
+      "item_recall_rate": 1.0,
+      "item_finals": 45,
+      "items_dropped_without_recall": 0,
+      "recent_hits": 0,
+      "repeats": 0,
+      "world": "redline",
+      "players": 3
+    },
+    {
+      "games": 200,
+      "rounds": {
+        "mean": 3.055,
+        "min": 3,
+        "p50": 3,
+        "p95": 4,
+        "max": 4
+      },
+      "scripted_seconds": {
+        "mean": 35.885,
+        "min": 27,
+        "p50": 35,
+        "p95": 49,
+        "max": 64
+      },
+      "fixed_10s_seconds": {
+        "mean": 25.55,
+        "min": 25,
+        "p50": 25,
+        "p95": 35,
+        "max": 35
+      },
+      "reading_seconds_per_round": {
+        "mean": 13.164,
+        "min": 6.33,
+        "p50": 13.0,
+        "p95": 19.0,
+        "max": 23.67
+      },
+      "round_chars": {
+        "mean": 284.628,
+        "min": 151,
+        "p50": 283,
+        "p95": 387,
+        "max": 493
+      },
+      "eliminations_per_round": {
+        "mean": 1.023,
+        "min": 1,
+        "p50": 1,
+        "p95": 1,
+        "max": 2
+      },
+      "kinds": {
+        "kill": 267,
+        "survive": 225,
+        "ambient": 274,
+        "wipe": 153,
+        "duel": 200,
+        "find": 84,
+        "moment": 90,
+        "revive": 25,
+        "call": 1,
+        "double": 1,
+        "transfer": 1,
+        "multi": 1
+      },
+      "second_chance_games": 0,
+      "second_chance_round": null,
+      "revives": {
+        "mean": 0.125,
+        "min": 0,
+        "p50": 0,
+        "p95": 1,
+        "max": 1
+      },
+      "quiet_rounds": 0,
+      "items_found": 84,
+      "items_recalled": 74,
+      "item_recall_rate": 0.881,
+      "item_finals": 74,
+      "items_dropped_without_recall": 10,
+      "recent_hits": 0,
+      "repeats": 0,
+      "world": "redline",
+      "players": 4
+    },
+    {
+      "games": 200,
+      "rounds": {
+        "mean": 3.25,
+        "min": 3,
+        "p50": 3,
+        "p95": 4,
+        "max": 4
+      },
+      "scripted_seconds": {
+        "mean": 43.215,
+        "min": 29,
+        "p50": 41,
+        "p95": 59,
+        "max": 74
+      },
+      "fixed_10s_seconds": {
+        "mean": 27.5,
+        "min": 25,
+        "p50": 25,
+        "p95": 35,
+        "max": 35
+      },
+      "reading_seconds_per_round": {
+        "mean": 14.557,
+        "min": 7.0,
+        "p50": 14.33,
+        "p95": 22.33,
+        "max": 30.0
+      },
+      "round_chars": {
+        "mean": 313.818,
+        "min": 151,
+        "p50": 304,
+        "p95": 468,
+        "max": 607
+      },
+      "eliminations_per_round": {
+        "mean": 1.271,
+        "min": 1,
+        "p50": 1,
+        "p95": 2,
+        "max": 3
+      },
+      "kinds": {
+        "multi": 10,
+        "survive": 259,
+        "kill": 332,
+        "wipe": 245,
+        "revive": 26,
+        "duel": 200,
+        "ambient": 246,
+        "moment": 92,
+        "find": 86,
+        "double": 9,
+        "call": 11,
+        "transfer": 2
+      },
+      "second_chance_games": 0,
+      "second_chance_round": null,
+      "revives": {
+        "mean": 0.13,
+        "min": 0,
+        "p50": 0,
+        "p95": 1,
+        "max": 1
+      },
+      "quiet_rounds": 0,
+      "items_found": 86,
+      "items_recalled": 64,
+      "item_recall_rate": 0.7442,
+      "item_finals": 63,
+      "items_dropped_without_recall": 22,
+      "recent_hits": 0,
+      "repeats": 0,
+      "world": "redline",
+      "players": 5
+    },
+    {
+      "games": 200,
+      "rounds": {
+        "mean": 5.315,
+        "min": 4,
+        "p50": 5,
+        "p95": 6,
+        "max": 6
+      },
+      "scripted_seconds": {
+        "mean": 88.06,
+        "min": 57,
+        "p50": 87,
+        "p95": 109,
+        "max": 122
+      },
+      "fixed_10s_seconds": {
+        "mean": 48.15,
+        "min": 35,
+        "p50": 45,
+        "p95": 55,
+        "max": 55
+      },
+      "reading_seconds_per_round": {
+        "mean": 17.271,
+        "min": 6.0,
+        "p50": 17.0,
+        "p95": 27.0,
+        "max": 36.67
+      },
+      "round_chars": {
+        "mean": 377.401,
+        "min": 147,
+        "p50": 369,
+        "p95": 579,
+        "max": 772
+      },
+      "eliminations_per_round": {
+        "mean": 1.515,
+        "min": 1,
+        "p50": 1,
+        "p95": 3,
+        "max": 3
+      },
+      "kinds": {
+        "kill": 698,
+        "wipe": 473,
+        "survive": 496,
+        "moment": 196,
+        "multi": 56,
+        "find": 145,
+        "revive": 75,
+        "ambient": 299,
+        "duel": 200,
+        "call": 65,
+        "double": 31,
+        "transfer": 5
+      },
+      "second_chance_games": 135,
+      "second_chance_round": {
+        "mean": 2.607,
+        "min": 2,
+        "p50": 3,
+        "p95": 4,
+        "max": 4
+      },
+      "revives": {
+        "mean": 1.05,
+        "min": 0,
+        "p50": 1,
+        "p95": 2,
+        "max": 2
+      },
+      "quiet_rounds": 0,
+      "items_found": 145,
+      "items_recalled": 103,
+      "item_recall_rate": 0.7103,
+      "item_finals": 82,
+      "items_dropped_without_recall": 42,
+      "recent_hits": 0,
+      "repeats": 0,
+      "world": "redline",
+      "players": 8
+    },
+    {
+      "games": 200,
+      "rounds": {
+        "mean": 5.5,
+        "min": 5,
+        "p50": 5,
+        "p95": 6,
+        "max": 6
+      },
+      "scripted_seconds": {
+        "mean": 107.39,
+        "min": 78,
+        "p50": 107,
+        "p95": 125,
+        "max": 133
+      },
+      "fixed_10s_seconds": {
+        "mean": 50,
+        "min": 45,
+        "p50": 45,
+        "p95": 55,
+        "max": 55
+      },
+      "reading_seconds_per_round": {
+        "mean": 20.967,
+        "min": 7.0,
+        "p50": 20.33,
+        "p95": 35.67,
+        "max": 46.33
+      },
+      "round_chars": {
+        "mean": 462.195,
+        "min": 151,
+        "p50": 447,
+        "p95": 778,
+        "max": 974
+      },
+      "eliminations_per_round": {
+        "mean": 2.189,
+        "min": 1,
+        "p50": 2,
+        "p95": 4,
+        "max": 5
+      },
+      "kinds": {
+        "kill": 1034,
+        "multi": 111,
+        "wipe": 745,
+        "survive": 478,
+        "double": 68,
+        "revive": 60,
+        "ambient": 234,
+        "find": 162,
+        "moment": 214,
+        "duel": 200,
+        "call": 70,
+        "transfer": 9
+      },
+      "second_chance_games": 148,
+      "second_chance_round": {
+        "mean": 2.703,
+        "min": 2,
+        "p50": 3,
+        "p95": 4,
+        "max": 4
+      },
+      "revives": {
+        "mean": 1.04,
+        "min": 0,
+        "p50": 1,
+        "p95": 2,
+        "max": 2
+      },
+      "quiet_rounds": 0,
+      "items_found": 162,
+      "items_recalled": 111,
+      "item_recall_rate": 0.6852,
+      "item_finals": 91,
+      "items_dropped_without_recall": 51,
+      "recent_hits": 0,
+      "repeats": 0,
+      "world": "redline",
+      "players": 12
+    },
+    {
+      "games": 200,
+      "rounds": {
+        "mean": 6.575,
+        "min": 6,
+        "p50": 7,
+        "p95": 7,
+        "max": 7
+      },
+      "scripted_seconds": {
+        "mean": 141.695,
+        "min": 114,
+        "p50": 142,
+        "p95": 161,
+        "max": 175
+      },
+      "fixed_10s_seconds": {
+        "mean": 60.75,
+        "min": 55,
+        "p50": 65,
+        "p95": 65,
+        "max": 65
+      },
+      "reading_seconds_per_round": {
+        "mean": 25.764,
+        "min": 6.33,
+        "p50": 23.33,
+        "p95": 48.67,
+        "max": 62.33
+      },
+      "round_chars": {
+        "mean": 558.672,
+        "min": 150,
+        "p50": 513,
+        "p95": 1020,
+        "max": 1304
+      },
+      "eliminations_per_round": {
+        "mean": 3.085,
+        "min": 1,
+        "p50": 2,
+        "p95": 8,
+        "max": 9
+      },
+      "kinds": {
+        "kill": 1629,
+        "wipe": 1186,
+        "moment": 370,
+        "double": 157,
+        "multi": 199,
+        "survive": 616,
+        "ambient": 248,
+        "duel": 200,
+        "find": 197,
+        "call": 141,
+        "revive": 76,
+        "hazard": 47,
+        "transfer": 15
+      },
+      "second_chance_games": 181,
+      "second_chance_round": {
+        "mean": 3.138,
+        "min": 2,
+        "p50": 3,
+        "p95": 5,
+        "max": 5
+      },
+      "revives": {
+        "mean": 1.285,
+        "min": 0,
+        "p50": 1,
+        "p95": 2,
+        "max": 2
+      },
+      "quiet_rounds": 0,
+      "items_found": 197,
+      "items_recalled": 149,
+      "item_recall_rate": 0.7563,
+      "item_finals": 88,
+      "items_dropped_without_recall": 48,
+      "recent_hits": 0,
+      "repeats": 0,
+      "world": "redline",
+      "players": 20
+    },
+    {
+      "games": 200,
+      "rounds": {
+        "mean": 8.39,
+        "min": 8,
+        "p50": 8,
+        "p95": 9,
+        "max": 9
+      },
+      "scripted_seconds": {
+        "mean": 192.35,
+        "min": 163,
+        "p50": 192,
+        "p95": 214,
+        "max": 224
+      },
+      "fixed_10s_seconds": {
+        "mean": 78.9,
+        "min": 75,
+        "p50": 75,
+        "p95": 85,
+        "max": 85
+      },
+      "reading_seconds_per_round": {
+        "mean": 31.989,
+        "min": 6.33,
+        "p50": 26.33,
+        "p95": 71.67,
+        "max": 81.0
+      },
+      "round_chars": {
+        "mean": 687.245,
+        "min": 151,
+        "p50": 579,
+        "p95": 1491,
+        "max": 1680
+      },
+      "eliminations_per_round": {
+        "mean": 4.214,
+        "min": 1,
+        "p50": 3,
+        "p95": 12,
+        "max": 14
+      },
+      "kinds": {
+        "hazard": 107,
+        "kill": 2761,
+        "wipe": 1912,
+        "moment": 607,
+        "survive": 979,
+        "revive": 103,
+        "find": 325,
+        "ambient": 226,
+        "call": 286,
+        "duel": 200,
+        "multi": 412,
+        "double": 257,
+        "transfer": 20
+      },
+      "second_chance_games": 168,
+      "second_chance_round": {
+        "mean": 4.708,
+        "min": 3,
+        "p50": 5,
+        "p95": 7,
+        "max": 7
+      },
+      "revives": {
+        "mean": 1.355,
+        "min": 0,
+        "p50": 1,
+        "p95": 2,
+        "max": 2
+      },
+      "quiet_rounds": 0,
+      "items_found": 325,
+      "items_recalled": 246,
+      "item_recall_rate": 0.7569,
+      "item_finals": 107,
+      "items_dropped_without_recall": 79,
+      "recent_hits": 0,
+      "repeats": 0,
+      "world": "redline",
+      "players": 35
+    },
+    {
+      "games": 200,
+      "rounds": {
+        "mean": 9.42,
+        "min": 9,
+        "p50": 9,
+        "p95": 10,
+        "max": 10
+      },
+      "scripted_seconds": {
+        "mean": 225.415,
+        "min": 202,
+        "p50": 225,
+        "p95": 245,
+        "max": 252
+      },
+      "fixed_10s_seconds": {
+        "mean": 89.2,
+        "min": 85,
+        "p50": 85,
+        "p95": 95,
+        "max": 95
+      },
+      "reading_seconds_per_round": {
+        "mean": 38.856,
+        "min": 6.33,
+        "p50": 32.67,
+        "p95": 79.0,
+        "max": 87.0
+      },
+      "round_chars": {
+        "mean": 835.92,
+        "min": 150,
+        "p50": 715,
+        "p95": 1714,
+        "max": 1945
+      },
+      "eliminations_per_round": {
+        "mean": 6.444,
+        "min": 1,
+        "p50": 4,
+        "p95": 21,
+        "max": 25
+      },
+      "kinds": {
+        "multi": 1540,
+        "double": 1019,
+        "wipe": 2287,
+        "kill": 3277,
+        "moment": 662,
+        "survive": 1069,
+        "revive": 169,
+        "find": 353,
+        "ambient": 238,
+        "duel": 200,
+        "hazard": 158,
+        "call": 282,
+        "transfer": 20
+      },
+      "second_chance_games": 172,
+      "second_chance_round": {
+        "mean": 4.948,
+        "min": 3,
+        "p50": 5,
+        "p95": 7,
+        "max": 8
+      },
+      "revives": {
+        "mean": 1.705,
+        "min": 0,
+        "p50": 2,
+        "p95": 3,
+        "max": 3
+      },
+      "quiet_rounds": 0,
+      "items_found": 353,
+      "items_recalled": 246,
+      "item_recall_rate": 0.6969,
+      "item_finals": 92,
+      "items_dropped_without_recall": 107,
+      "recent_hits": 0,
+      "repeats": 27,
+      "world": "redline",
+      "players": 60
+    },
+    {
+      "games": 200,
+      "rounds": {
+        "mean": 10.45,
+        "min": 10,
+        "p50": 10,
+        "p95": 11,
+        "max": 11
+      },
+      "scripted_seconds": {
+        "mean": 258.145,
+        "min": 226,
+        "p50": 257,
+        "p95": 280,
+        "max": 288
+      },
+      "fixed_10s_seconds": {
+        "mean": 99.5,
+        "min": 95,
+        "p50": 95,
+        "p95": 105,
+        "max": 105
+      },
+      "reading_seconds_per_round": {
+        "mean": 44.937,
+        "min": 6.33,
+        "p50": 37.67,
+        "p95": 85.67,
+        "max": 93.33
+      },
+      "round_chars": {
+        "mean": 988.759,
+        "min": 151,
+        "p50": 835,
+        "p95": 2056,
+        "max": 2221
+      },
+      "eliminations_per_round": {
+        "mean": 9.645,
+        "min": 1,
+        "p50": 5,
+        "p95": 34,
+        "max": 36
+      },
+      "kinds": {
+        "hazard": 537,
+        "multi": 3095,
+        "double": 1886,
+        "kill": 3351,
+        "moment": 652,
+        "wipe": 2302,
+        "survive": 1045,
+        "revive": 178,
+        "find": 366,
+        "call": 297,
+        "ambient": 246,
+        "duel": 200,
+        "transfer": 13
+      },
+      "second_chance_games": 181,
+      "second_chance_round": {
+        "mean": 5.619,
+        "min": 3,
+        "p50": 6,
+        "p95": 9,
+        "max": 9
+      },
+      "revives": {
+        "mean": 1.795,
+        "min": 0,
+        "p50": 2,
+        "p95": 3,
+        "max": 3
+      },
+      "quiet_rounds": 0,
+      "items_found": 366,
+      "items_recalled": 253,
+      "item_recall_rate": 0.6913,
+      "item_finals": 98,
+      "items_dropped_without_recall": 113,
+      "recent_hits": 0,
+      "repeats": 305,
+      "world": "redline",
+      "players": 100
+    },
+    {
+      "games": 200,
+      "rounds": {
+        "mean": 11.57,
+        "min": 11,
+        "p50": 12,
+        "p95": 12,
+        "max": 12
+      },
+      "scripted_seconds": {
+        "mean": 291.985,
+        "min": 261,
+        "p50": 292,
+        "p95": 311,
+        "max": 322
+      },
+      "fixed_10s_seconds": {
+        "mean": 110.7,
+        "min": 105,
+        "p50": 115,
+        "p95": 115,
+        "max": 115
+      },
+      "reading_seconds_per_round": {
+        "mean": 50.03,
+        "min": 6.33,
+        "p50": 46.33,
+        "p95": 89.0,
+        "max": 96.0
+      },
+      "round_chars": {
+        "mean": 1127.252,
+        "min": 151,
+        "p50": 1003,
+        "p95": 2134,
+        "max": 2245
+      },
+      "eliminations_per_round": {
+        "mean": 13.05,
+        "min": 1,
+        "p50": 7,
+        "p95": 36,
+        "max": 36
+      },
+      "kinds": {
+        "hazard": 1113,
+        "double": 2956,
+        "multi": 4818,
+        "revive": 210,
+        "kill": 3286,
+        "moment": 565,
+        "survive": 1012,
+        "wipe": 2210,
+        "find": 304,
+        "transfer": 15,
+        "ambient": 247,
+        "call": 232,
+        "duel": 200
+      },
+      "second_chance_games": 187,
+      "second_chance_round": {
+        "mean": 6.866,
+        "min": 4,
+        "p50": 7,
+        "p95": 10,
+        "max": 10
+      },
+      "revives": {
+        "mean": 1.985,
+        "min": 0,
+        "p50": 2,
+        "p95": 3,
+        "max": 3
+      },
+      "quiet_rounds": 0,
+      "items_found": 304,
+      "items_recalled": 213,
+      "item_recall_rate": 0.7007,
+      "item_finals": 91,
+      "items_dropped_without_recall": 91,
+      "recent_hits": 0,
+      "repeats": 595,
+      "world": "redline",
+      "players": 150
+    },
+    {
+      "games": 200,
+      "rounds": {
+        "mean": 12.87,
+        "min": 12,
+        "p50": 13,
+        "p95": 13,
+        "max": 13
+      },
+      "scripted_seconds": {
+        "mean": 337.855,
+        "min": 308,
+        "p50": 339,
+        "p95": 351,
+        "max": 359
+      },
+      "fixed_10s_seconds": {
+        "mean": 123.7,
+        "min": 115,
+        "p50": 125,
+        "p95": 125,
+        "max": 125
+      },
+      "reading_seconds_per_round": {
+        "mean": 59.948,
+        "min": 7.0,
+        "p50": 77.0,
+        "p95": 90.67,
+        "max": 98.0
+      },
+      "round_chars": {
+        "mean": 1393.721,
+        "min": 151,
+        "p50": 1669,
+        "p95": 2172,
+        "max": 2311
+      },
+      "eliminations_per_round": {
+        "mean": 19.506,
+        "min": 1,
+        "p50": 18,
+        "p95": 36,
+        "max": 36
+      },
+      "kinds": {
+        "hazard": 2341,
+        "multi": 8246,
+        "double": 5179,
+        "kill": 2625,
+        "wipe": 1798,
+        "survive": 688,
+        "moment": 382,
+        "duel": 200,
+        "revive": 214,
+        "find": 236,
+        "call": 139,
+        "ambient": 219,
+        "transfer": 12
+      },
+      "second_chance_games": 195,
+      "second_chance_round": {
+        "mean": 7.164,
+        "min": 4,
+        "p50": 7,
+        "p95": 11,
+        "max": 11
+      },
+      "revives": {
+        "mean": 2.045,
+        "min": 0,
+        "p50": 2,
+        "p95": 3,
+        "max": 3
+      },
+      "quiet_rounds": 0,
+      "items_found": 236,
+      "items_recalled": 167,
+      "item_recall_rate": 0.7076,
+      "item_finals": 84,
+      "items_dropped_without_recall": 69,
+      "recent_hits": 0,
+      "repeats": 1173,
+      "world": "redline",
+      "players": 250
+    },
+    {
+      "games": 200,
+      "rounds": {
+        "mean": 2,
+        "min": 2,
+        "p50": 2,
+        "p95": 2,
+        "max": 2
+      },
+      "scripted_seconds": {
+        "mean": 18.725,
+        "min": 15,
+        "p50": 19,
+        "p95": 24,
+        "max": 27
+      },
+      "fixed_10s_seconds": {
+        "mean": 15,
+        "min": 15,
+        "p50": 15,
+        "p95": 15,
+        "max": 15
+      },
+      "reading_seconds_per_round": {
+        "mean": 11.453,
+        "min": 5.0,
+        "p50": 11.0,
+        "p95": 17.67,
+        "max": 22.0
+      },
+      "round_chars": {
+        "mean": 237.227,
+        "min": 118,
+        "p50": 232,
+        "p95": 337,
+        "max": 406
+      },
+      "eliminations_per_round": {
+        "mean": 0.5,
+        "min": 0,
+        "p50": 0,
+        "p95": 1,
+        "max": 1
+      },
+      "kinds": {
+        "find": 79,
+        "survive": 197,
+        "ambient": 217,
+        "duel": 200,
+        "moment": 62
+      },
+      "second_chance_games": 0,
+      "second_chance_round": null,
+      "revives": {
+        "mean": 0,
+        "min": 0,
+        "p50": 0,
+        "p95": 0,
+        "max": 0
+      },
+      "quiet_rounds": 200,
+      "items_found": 79,
+      "items_recalled": 68,
+      "item_recall_rate": 0.8608,
+      "item_finals": 68,
+      "items_dropped_without_recall": 11,
+      "recent_hits": 0,
+      "repeats": 0,
+      "world": "hunt",
+      "players": 2
+    },
+    {
+      "games": 200,
+      "rounds": {
+        "mean": 2,
+        "min": 2,
+        "p50": 2,
+        "p95": 2,
+        "max": 2
+      },
+      "scripted_seconds": {
+        "mean": 19.885,
+        "min": 16,
+        "p50": 20,
+        "p95": 24,
+        "max": 27
+      },
+      "fixed_10s_seconds": {
+        "mean": 15,
+        "min": 15,
+        "p50": 15,
+        "p95": 15,
+        "max": 15
+      },
+      "reading_seconds_per_round": {
+        "mean": 12.322,
+        "min": 6.33,
+        "p50": 12.0,
+        "p95": 17.67,
+        "max": 21.33
+      },
+      "round_chars": {
+        "mean": 260.03,
+        "min": 151,
+        "p50": 255,
+        "p95": 363,
+        "max": 429
+      },
+      "eliminations_per_round": {
+        "mean": 1,
+        "min": 1,
+        "p50": 1,
+        "p95": 1,
+        "max": 1
+      },
+      "kinds": {
+        "wipe": 87,
+        "find": 47,
+        "ambient": 195,
+        "duel": 200,
+        "moment": 35,
+        "kill": 113,
+        "survive": 118
+      },
+      "second_chance_games": 0,
+      "second_chance_round": null,
+      "revives": {
+        "mean": 0,
+        "min": 0,
+        "p50": 0,
+        "p95": 0,
+        "max": 0
+      },
+      "quiet_rounds": 0,
+      "items_found": 47,
+      "items_recalled": 47,
+      "item_recall_rate": 1.0,
+      "item_finals": 47,
+      "items_dropped_without_recall": 0,
+      "recent_hits": 0,
+      "repeats": 0,
+      "world": "hunt",
+      "players": 3
+    },
+    {
+      "games": 200,
+      "rounds": {
+        "mean": 3.065,
+        "min": 3,
+        "p50": 3,
+        "p95": 4,
+        "max": 4
+      },
+      "scripted_seconds": {
+        "mean": 37.15,
+        "min": 27,
+        "p50": 36,
+        "p95": 54,
+        "max": 66
+      },
+      "fixed_10s_seconds": {
+        "mean": 25.65,
+        "min": 25,
+        "p50": 25,
+        "p95": 35,
+        "max": 35
+      },
+      "reading_seconds_per_round": {
+        "mean": 13.616,
+        "min": 6.33,
+        "p50": 13.67,
+        "p95": 19.33,
+        "max": 24.0
+      },
+      "round_chars": {
+        "mean": 290.194,
+        "min": 150,
+        "p50": 294,
+        "p95": 401,
+        "max": 490
+      },
+      "eliminations_per_round": {
+        "mean": 1.018,
+        "min": 1,
+        "p50": 1,
+        "p95": 1,
+        "max": 2
+      },
+      "kinds": {
+        "kill": 272,
+        "survive": 225,
+        "ambient": 267,
+        "wipe": 147,
+        "duel": 200,
+        "moment": 91,
+        "find": 87,
+        "revive": 24,
+        "double": 1,
+        "call": 3,
+        "transfer": 1
+      },
+      "second_chance_games": 0,
+      "second_chance_round": null,
+      "revives": {
+        "mean": 0.12,
+        "min": 0,
+        "p50": 0,
+        "p95": 1,
+        "max": 1
+      },
+      "quiet_rounds": 0,
+      "items_found": 87,
+      "items_recalled": 71,
+      "item_recall_rate": 0.8161,
+      "item_finals": 70,
+      "items_dropped_without_recall": 16,
+      "recent_hits": 0,
+      "repeats": 0,
+      "world": "hunt",
+      "players": 4
+    },
+    {
+      "games": 200,
+      "rounds": {
+        "mean": 3.265,
+        "min": 3,
+        "p50": 3,
+        "p95": 4,
+        "max": 4
+      },
+      "scripted_seconds": {
+        "mean": 45.05,
+        "min": 32,
+        "p50": 43,
+        "p95": 62,
+        "max": 73
+      },
+      "fixed_10s_seconds": {
+        "mean": 27.65,
+        "min": 25,
+        "p50": 25,
+        "p95": 35,
+        "max": 35
+      },
+      "reading_seconds_per_round": {
+        "mean": 15.168,
+        "min": 7.0,
+        "p50": 15.0,
+        "p95": 22.67,
+        "max": 30.67
+      },
+      "round_chars": {
+        "mean": 323.639,
+        "min": 153,
+        "p50": 313,
+        "p95": 479,
+        "max": 628
+      },
+      "eliminations_per_round": {
+        "mean": 1.271,
+        "min": 1,
+        "p50": 1,
+        "p95": 2,
+        "max": 3
+      },
+      "kinds": {
+        "multi": 10,
+        "survive": 259,
+        "kill": 335,
+        "wipe": 247,
+        "revive": 30,
+        "duel": 200,
+        "ambient": 236,
+        "moment": 87,
+        "find": 92,
+        "double": 9,
+        "call": 10,
+        "transfer": 1
+      },
+      "second_chance_games": 0,
+      "second_chance_round": null,
+      "revives": {
+        "mean": 0.15,
+        "min": 0,
+        "p50": 0,
+        "p95": 1,
+        "max": 1
+      },
+      "quiet_rounds": 0,
+      "items_found": 92,
+      "items_recalled": 68,
+      "item_recall_rate": 0.7391,
+      "item_finals": 67,
+      "items_dropped_without_recall": 24,
+      "recent_hits": 0,
+      "repeats": 0,
+      "world": "hunt",
+      "players": 5
+    },
+    {
+      "games": 200,
+      "rounds": {
+        "mean": 5.305,
+        "min": 4,
+        "p50": 5,
+        "p95": 6,
+        "max": 6
+      },
+      "scripted_seconds": {
+        "mean": 91.065,
+        "min": 61,
+        "p50": 90,
+        "p95": 112,
+        "max": 124
+      },
+      "fixed_10s_seconds": {
+        "mean": 48.05,
+        "min": 35,
+        "p50": 45,
+        "p95": 55,
+        "max": 55
+      },
+      "reading_seconds_per_round": {
+        "mean": 17.961,
+        "min": 6.33,
+        "p50": 18.0,
+        "p95": 28.0,
+        "max": 36.0
+      },
+      "round_chars": {
+        "mean": 388.669,
+        "min": 153,
+        "p50": 386,
+        "p95": 596,
+        "max": 759
+      },
+      "eliminations_per_round": {
+        "mean": 1.514,
+        "min": 1,
+        "p50": 1,
+        "p95": 3,
+        "max": 3
+      },
+      "kinds": {
+        "kill": 692,
+        "wipe": 464,
+        "survive": 491,
+        "moment": 192,
+        "multi": 53,
+        "find": 154,
+        "revive": 73,
+        "ambient": 303,
+        "duel": 200,
+        "call": 79,
+        "double": 32,
+        "transfer": 6
+      },
+      "second_chance_games": 133,
+      "second_chance_round": {
+        "mean": 2.571,
+        "min": 2,
+        "p50": 3,
+        "p95": 3,
+        "max": 4
+      },
+      "revives": {
+        "mean": 1.03,
+        "min": 0,
+        "p50": 1,
+        "p95": 2,
+        "max": 2
+      },
+      "quiet_rounds": 0,
+      "items_found": 154,
+      "items_recalled": 113,
+      "item_recall_rate": 0.7338,
+      "item_finals": 85,
+      "items_dropped_without_recall": 41,
+      "recent_hits": 0,
+      "repeats": 0,
+      "world": "hunt",
+      "players": 8
+    },
+    {
+      "games": 200,
+      "rounds": {
+        "mean": 5.51,
+        "min": 5,
+        "p50": 6,
+        "p95": 6,
+        "max": 6
+      },
+      "scripted_seconds": {
+        "mean": 110.365,
+        "min": 84,
+        "p50": 111,
+        "p95": 129,
+        "max": 136
+      },
+      "fixed_10s_seconds": {
+        "mean": 50.1,
+        "min": 45,
+        "p50": 55,
+        "p95": 55,
+        "max": 55
+      },
+      "reading_seconds_per_round": {
+        "mean": 21.532,
+        "min": 6.33,
+        "p50": 21.33,
+        "p95": 35.67,
+        "max": 45.33
+      },
+      "round_chars": {
+        "mean": 470.297,
+        "min": 152,
+        "p50": 459,
+        "p95": 794,
+        "max": 1023
+      },
+      "eliminations_per_round": {
+        "mean": 2.19,
+        "min": 1,
+        "p50": 2,
+        "p95": 4,
+        "max": 5
+      },
+      "kinds": {
+        "kill": 1020,
+        "multi": 118,
+        "wipe": 734,
+        "survive": 482,
+        "double": 71,
+        "revive": 66,
+        "ambient": 229,
+        "find": 163,
+        "moment": 216,
+        "duel": 200,
+        "call": 80,
+        "transfer": 8
+      },
+      "second_chance_games": 147,
+      "second_chance_round": {
+        "mean": 2.701,
+        "min": 2,
+        "p50": 3,
+        "p95": 4,
+        "max": 4
+      },
+      "revives": {
+        "mean": 1.065,
+        "min": 0,
+        "p50": 1,
+        "p95": 2,
+        "max": 2
+      },
+      "quiet_rounds": 0,
+      "items_found": 163,
+      "items_recalled": 122,
+      "item_recall_rate": 0.7485,
+      "item_finals": 90,
+      "items_dropped_without_recall": 41,
+      "recent_hits": 0,
+      "repeats": 0,
+      "world": "hunt",
+      "players": 12
+    },
+    {
+      "games": 200,
+      "rounds": {
+        "mean": 6.57,
+        "min": 6,
+        "p50": 7,
+        "p95": 7,
+        "max": 7
+      },
+      "scripted_seconds": {
+        "mean": 142.87,
+        "min": 115,
+        "p50": 144,
+        "p95": 160,
+        "max": 174
+      },
+      "fixed_10s_seconds": {
+        "mean": 60.7,
+        "min": 55,
+        "p50": 65,
+        "p95": 65,
+        "max": 65
+      },
+      "reading_seconds_per_round": {
+        "mean": 26.19,
+        "min": 6.33,
+        "p50": 23.33,
+        "p95": 49.0,
+        "max": 64.67
+      },
+      "round_chars": {
+        "mean": 567.313,
+        "min": 153,
+        "p50": 517,
+        "p95": 1032,
+        "max": 1315
+      },
+      "eliminations_per_round": {
+        "mean": 3.087,
+        "min": 1,
+        "p50": 2,
+        "p95": 8,
+        "max": 9
+      },
+      "kinds": {
+        "kill": 1658,
+        "wipe": 1133,
+        "moment": 367,
+        "double": 166,
+        "multi": 196,
+        "survive": 615,
+        "ambient": 239,
+        "duel": 200,
+        "find": 218,
+        "revive": 79,
+        "call": 146,
+        "hazard": 47,
+        "transfer": 12
+      },
+      "second_chance_games": 177,
+      "second_chance_round": {
+        "mean": 3.096,
+        "min": 2,
+        "p50": 3,
+        "p95": 5,
+        "max": 5
+      },
+      "revives": {
+        "mean": 1.28,
+        "min": 0,
+        "p50": 1,
+        "p95": 2,
+        "max": 2
+      },
+      "quiet_rounds": 0,
+      "items_found": 218,
+      "items_recalled": 162,
+      "item_recall_rate": 0.7431,
+      "item_finals": 93,
+      "items_dropped_without_recall": 56,
+      "recent_hits": 0,
+      "repeats": 0,
+      "world": "hunt",
+      "players": 20
+    },
+    {
+      "games": 200,
+      "rounds": {
+        "mean": 8.33,
+        "min": 8,
+        "p50": 8,
+        "p95": 9,
+        "max": 9
+      },
+      "scripted_seconds": {
+        "mean": 192.905,
+        "min": 168,
+        "p50": 192,
+        "p95": 211,
+        "max": 221
+      },
+      "fixed_10s_seconds": {
+        "mean": 78.3,
+        "min": 75,
+        "p50": 75,
+        "p95": 85,
+        "max": 85
+      },
+      "reading_seconds_per_round": {
+        "mean": 32.838,
+        "min": 7.0,
+        "p50": 27.67,
+        "p95": 73.0,
+        "max": 85.67
+      },
+      "round_chars": {
+        "mean": 702.642,
+        "min": 153,
+        "p50": 605,
+        "p95": 1516,
+        "max": 1765
+      },
+      "eliminations_per_round": {
+        "mean": 4.242,
+        "min": 1,
+        "p50": 3,
+        "p95": 12,
+        "max": 14
+      },
+      "kinds": {
+        "hazard": 107,
+        "kill": 2696,
+        "wipe": 1892,
+        "survive": 927,
+        "moment": 612,
+        "multi": 430,
+        "revive": 104,
+        "double": 265,
+        "find": 365,
+        "ambient": 231,
+        "duel": 200,
+        "call": 307,
+        "transfer": 33
+      },
+      "second_chance_games": 164,
+      "second_chance_round": {
+        "mean": 4.652,
+        "min": 3,
+        "p50": 5,
+        "p95": 7,
+        "max": 7
+      },
+      "revives": {
+        "mean": 1.34,
+        "min": 0,
+        "p50": 1,
+        "p95": 2,
+        "max": 2
+      },
+      "quiet_rounds": 0,
+      "items_found": 365,
+      "items_recalled": 266,
+      "item_recall_rate": 0.7288,
+      "item_finals": 109,
+      "items_dropped_without_recall": 99,
+      "recent_hits": 0,
+      "repeats": 0,
+      "world": "hunt",
+      "players": 35
+    },
+    {
+      "games": 200,
+      "rounds": {
+        "mean": 9.38,
+        "min": 9,
+        "p50": 9,
+        "p95": 10,
+        "max": 10
+      },
+      "scripted_seconds": {
+        "mean": 226.2,
+        "min": 198,
+        "p50": 224,
+        "p95": 248,
+        "max": 261
+      },
+      "fixed_10s_seconds": {
+        "mean": 88.8,
+        "min": 85,
+        "p50": 85,
+        "p95": 95,
+        "max": 95
+      },
+      "reading_seconds_per_round": {
+        "mean": 39.542,
+        "min": 7.0,
+        "p50": 33.0,
+        "p95": 79.33,
+        "max": 86.67
+      },
+      "round_chars": {
+        "mean": 849.535,
+        "min": 153,
+        "p50": 720,
+        "p95": 1724,
+        "max": 1933
+      },
+      "eliminations_per_round": {
+        "mean": 6.458,
+        "min": 1,
+        "p50": 4,
+        "p95": 21,
+        "max": 25
+      },
+      "kinds": {
+        "multi": 1569,
+        "double": 976,
+        "wipe": 2342,
+        "kill": 3208,
+        "find": 357,
+        "moment": 643,
+        "survive": 1067,
+        "call": 305,
+        "ambient": 227,
+        "duel": 200,
+        "hazard": 150,
+        "transfer": 18,
+        "revive": 144
+      },
+      "second_chance_games": 172,
+      "second_chance_round": {
+        "mean": 4.948,
+        "min": 3,
+        "p50": 5,
+        "p95": 7,
+        "max": 8
+      },
+      "revives": {
+        "mean": 1.58,
+        "min": 0,
+        "p50": 2,
+        "p95": 3,
+        "max": 3
+      },
+      "quiet_rounds": 0,
+      "items_found": 357,
+      "items_recalled": 258,
+      "item_recall_rate": 0.7227,
+      "item_finals": 98,
+      "items_dropped_without_recall": 99,
+      "recent_hits": 0,
+      "repeats": 7,
+      "world": "hunt",
+      "players": 60
+    },
+    {
+      "games": 200,
+      "rounds": {
+        "mean": 10.525,
+        "min": 10,
+        "p50": 11,
+        "p95": 11,
+        "max": 11
+      },
+      "scripted_seconds": {
+        "mean": 260.635,
+        "min": 220,
+        "p50": 260,
+        "p95": 281,
+        "max": 291
+      },
+      "fixed_10s_seconds": {
+        "mean": 100.25,
+        "min": 95,
+        "p50": 105,
+        "p95": 105,
+        "max": 105
+      },
+      "reading_seconds_per_round": {
+        "mean": 45.228,
+        "min": 6.33,
+        "p50": 38.33,
+        "p95": 85.0,
+        "max": 93.0
+      },
+      "round_chars": {
+        "mean": 994.358,
+        "min": 151,
+        "p50": 837,
+        "p95": 2029,
+        "max": 2212
+      },
+      "eliminations_per_round": {
+        "mean": 9.584,
+        "min": 1,
+        "p50": 5,
+        "p95": 34,
+        "max": 36
+      },
+      "kinds": {
+        "hazard": 547,
+        "multi": 3078,
+        "double": 1905,
+        "kill": 3337,
+        "wipe": 2272,
+        "survive": 1063,
+        "moment": 630,
+        "find": 395,
+        "revive": 192,
+        "call": 317,
+        "duel": 200,
+        "ambient": 239,
+        "transfer": 20
+      },
+      "second_chance_games": 182,
+      "second_chance_round": {
+        "mean": 5.637,
+        "min": 3,
+        "p50": 6,
+        "p95": 9,
+        "max": 9
+      },
+      "revives": {
+        "mean": 1.87,
+        "min": 0,
+        "p50": 2,
+        "p95": 3,
+        "max": 3
+      },
+      "quiet_rounds": 0,
+      "items_found": 395,
+      "items_recalled": 268,
+      "item_recall_rate": 0.6785,
+      "item_finals": 104,
+      "items_dropped_without_recall": 127,
+      "recent_hits": 0,
+      "repeats": 219,
+      "world": "hunt",
+      "players": 100
+    },
+    {
+      "games": 200,
+      "rounds": {
+        "mean": 11.61,
+        "min": 11,
+        "p50": 12,
+        "p95": 12,
+        "max": 12
+      },
+      "scripted_seconds": {
+        "mean": 294.505,
+        "min": 266,
+        "p50": 295,
+        "p95": 315,
+        "max": 320
+      },
+      "fixed_10s_seconds": {
+        "mean": 111.1,
+        "min": 105,
+        "p50": 115,
+        "p95": 115,
+        "max": 115
+      },
+      "reading_seconds_per_round": {
+        "mean": 50.134,
+        "min": 6.33,
+        "p50": 46.33,
+        "p95": 87.33,
+        "max": 97.0
+      },
+      "round_chars": {
+        "mean": 1130.504,
+        "min": 151,
+        "p50": 994,
+        "p95": 2107,
+        "max": 2307
+      },
+      "eliminations_per_round": {
+        "mean": 13.0,
+        "min": 1,
+        "p50": 7,
+        "p95": 36,
+        "max": 36
+      },
+      "kinds": {
+        "hazard": 1099,
+        "double": 3018,
+        "multi": 4866,
+        "revive": 197,
+        "wipe": 2165,
+        "kill": 3234,
+        "survive": 987,
+        "moment": 594,
+        "find": 323,
+        "call": 244,
+        "duel": 200,
+        "ambient": 236,
+        "transfer": 17
+      },
+      "second_chance_games": 188,
+      "second_chance_round": {
+        "mean": 6.883,
+        "min": 4,
+        "p50": 7,
+        "p95": 10,
+        "max": 10
+      },
+      "revives": {
+        "mean": 1.925,
+        "min": 0,
+        "p50": 2,
+        "p95": 3,
+        "max": 3
+      },
+      "quiet_rounds": 0,
+      "items_found": 323,
+      "items_recalled": 233,
+      "item_recall_rate": 0.7214,
+      "item_finals": 102,
+      "items_dropped_without_recall": 90,
+      "recent_hits": 0,
+      "repeats": 463,
+      "world": "hunt",
+      "players": 150
+    },
+    {
+      "games": 200,
+      "rounds": {
+        "mean": 12.87,
+        "min": 12,
+        "p50": 13,
+        "p95": 13,
+        "max": 13
+      },
+      "scripted_seconds": {
+        "mean": 339.16,
+        "min": 311,
+        "p50": 341,
+        "p95": 352,
+        "max": 361
+      },
+      "fixed_10s_seconds": {
+        "mean": 123.7,
+        "min": 115,
+        "p50": 125,
+        "p95": 125,
+        "max": 125
+      },
+      "reading_seconds_per_round": {
+        "mean": 60.074,
+        "min": 6.33,
+        "p50": 78.0,
+        "p95": 89.33,
+        "max": 98.33
+      },
+      "round_chars": {
+        "mean": 1398.928,
+        "min": 151,
+        "p50": 1688,
+        "p95": 2153,
+        "max": 2308
+      },
+      "eliminations_per_round": {
+        "mean": 19.507,
+        "min": 1,
+        "p50": 18,
+        "p95": 36,
+        "max": 36
+      },
+      "kinds": {
+        "hazard": 2355,
+        "multi": 8254,
+        "double": 5103,
+        "revive": 215,
+        "kill": 2599,
+        "moment": 383,
+        "wipe": 1875,
+        "survive": 727,
+        "find": 240,
+        "ambient": 205,
+        "duel": 200,
+        "call": 132,
+        "transfer": 5
+      },
+      "second_chance_games": 196,
+      "second_chance_round": {
+        "mean": 7.184,
+        "min": 4,
+        "p50": 7,
+        "p95": 11,
+        "max": 11
+      },
+      "revives": {
+        "mean": 2.055,
+        "min": 0,
+        "p50": 2,
+        "p95": 3,
+        "max": 3
+      },
+      "quiet_rounds": 0,
+      "items_found": 240,
+      "items_recalled": 146,
+      "item_recall_rate": 0.6083,
+      "item_finals": 89,
+      "items_dropped_without_recall": 94,
+      "recent_hits": 0,
+      "repeats": 932,
+      "world": "hunt",
+      "players": 250
+    },
+    {
+      "games": 200,
+      "rounds": {
+        "mean": 2,
+        "min": 2,
+        "p50": 2,
+        "p95": 2,
+        "max": 2
+      },
+      "scripted_seconds": {
+        "mean": 18.105,
+        "min": 15,
+        "p50": 18,
+        "p95": 23,
+        "max": 29
+      },
+      "fixed_10s_seconds": {
+        "mean": 15,
+        "min": 15,
+        "p50": 15,
+        "p95": 15,
+        "max": 15
+      },
+      "reading_seconds_per_round": {
+        "mean": 10.804,
+        "min": 5.0,
+        "p50": 10.67,
+        "p95": 16.67,
+        "max": 23.67
+      },
+      "round_chars": {
+        "mean": 232.447,
+        "min": 118,
+        "p50": 232,
+        "p95": 329,
+        "max": 453
+      },
+      "eliminations_per_round": {
+        "mean": 0.5,
+        "min": 0,
+        "p50": 0,
+        "p95": 1,
+        "max": 1
+      },
+      "kinds": {
+        "find": 81,
+        "survive": 195,
+        "ambient": 217,
+        "duel": 200,
+        "moment": 62
+      },
+      "second_chance_games": 0,
+      "second_chance_round": null,
+      "revives": {
+        "mean": 0,
+        "min": 0,
+        "p50": 0,
+        "p95": 0,
+        "max": 0
+      },
+      "quiet_rounds": 200,
+      "items_found": 81,
+      "items_recalled": 67,
+      "item_recall_rate": 0.8272,
+      "item_finals": 67,
+      "items_dropped_without_recall": 14,
+      "recent_hits": 0,
+      "repeats": 0,
+      "world": "nft",
+      "players": 2
+    },
+    {
+      "games": 200,
+      "rounds": {
+        "mean": 2,
+        "min": 2,
+        "p50": 2,
+        "p95": 2,
+        "max": 2
+      },
+      "scripted_seconds": {
+        "mean": 19.275,
+        "min": 15,
+        "p50": 19,
+        "p95": 23,
+        "max": 25
+      },
+      "fixed_10s_seconds": {
+        "mean": 15,
+        "min": 15,
+        "p50": 15,
+        "p95": 15,
+        "max": 15
+      },
+      "reading_seconds_per_round": {
+        "mean": 11.642,
+        "min": 5.33,
+        "p50": 11.33,
+        "p95": 17.0,
+        "max": 19.33
+      },
+      "round_chars": {
+        "mean": 254.5,
+        "min": 140,
+        "p50": 250,
+        "p95": 355,
+        "max": 428
+      },
+      "eliminations_per_round": {
+        "mean": 1,
+        "min": 1,
+        "p50": 1,
+        "p95": 1,
+        "max": 1
+      },
+      "kinds": {
+        "wipe": 87,
+        "find": 48,
+        "ambient": 199,
+        "duel": 200,
+        "moment": 35,
+        "kill": 113,
+        "survive": 117
+      },
+      "second_chance_games": 0,
+      "second_chance_round": null,
+      "revives": {
+        "mean": 0,
+        "min": 0,
+        "p50": 0,
+        "p95": 0,
+        "max": 0
+      },
+      "quiet_rounds": 0,
+      "items_found": 48,
+      "items_recalled": 48,
+      "item_recall_rate": 1.0,
+      "item_finals": 48,
+      "items_dropped_without_recall": 0,
+      "recent_hits": 0,
+      "repeats": 0,
+      "world": "nft",
+      "players": 3
+    },
+    {
+      "games": 200,
+      "rounds": {
+        "mean": 3.04,
+        "min": 3,
+        "p50": 3,
+        "p95": 3,
+        "max": 4
+      },
+      "scripted_seconds": {
+        "mean": 34.675,
+        "min": 26,
+        "p50": 34,
+        "p95": 44,
+        "max": 60
+      },
+      "fixed_10s_seconds": {
+        "mean": 25.4,
+        "min": 25,
+        "p50": 25,
+        "p95": 25,
+        "max": 35
+      },
+      "reading_seconds_per_round": {
+        "mean": 12.656,
+        "min": 5.33,
+        "p50": 12.67,
+        "p95": 17.67,
+        "max": 27.67
+      },
+      "round_chars": {
+        "mean": 279.906,
+        "min": 140,
+        "p50": 286,
+        "p95": 380,
+        "max": 558
+      },
+      "eliminations_per_round": {
+        "mean": 1.016,
+        "min": 1,
+        "p50": 1,
+        "p95": 1,
+        "max": 2
+      },
+      "kinds": {
+        "kill": 263,
+        "survive": 231,
+        "ambient": 269,
+        "wipe": 151,
+        "duel": 200,
+        "find": 83,
+        "moment": 85,
+        "revive": 18,
+        "transfer": 1,
+        "double": 1,
+        "call": 2
+      },
+      "second_chance_games": 0,
+      "second_chance_round": null,
+      "revives": {
+        "mean": 0.09,
+        "min": 0,
+        "p50": 0,
+        "p95": 1,
+        "max": 1
+      },
+      "quiet_rounds": 0,
+      "items_found": 83,
+      "items_recalled": 68,
+      "item_recall_rate": 0.8193,
+      "item_finals": 68,
+      "items_dropped_without_recall": 15,
+      "recent_hits": 0,
+      "repeats": 0,
+      "world": "nft",
+      "players": 4
+    },
+    {
+      "games": 200,
+      "rounds": {
+        "mean": 3.255,
+        "min": 3,
+        "p50": 3,
+        "p95": 4,
+        "max": 4
+      },
+      "scripted_seconds": {
+        "mean": 42.655,
+        "min": 30,
+        "p50": 41,
+        "p95": 58,
+        "max": 74
+      },
+      "fixed_10s_seconds": {
+        "mean": 27.55,
+        "min": 25,
+        "p50": 25,
+        "p95": 35,
+        "max": 35
+      },
+      "reading_seconds_per_round": {
+        "mean": 14.267,
+        "min": 5.33,
+        "p50": 13.67,
+        "p95": 22.0,
+        "max": 30.0
+      },
+      "round_chars": {
+        "mean": 312.865,
+        "min": 140,
+        "p50": 305,
+        "p95": 463,
+        "max": 635
+      },
+      "eliminations_per_round": {
+        "mean": 1.276,
+        "min": 1,
+        "p50": 1,
+        "p95": 2,
+        "max": 3
+      },
+      "kinds": {
+        "multi": 10,
+        "survive": 251,
+        "kill": 326,
+        "wipe": 250,
+        "revive": 31,
+        "duel": 200,
+        "ambient": 223,
+        "moment": 92,
+        "find": 90,
+        "double": 9,
+        "call": 17,
+        "transfer": 3
+      },
+      "second_chance_games": 0,
+      "second_chance_round": null,
+      "revives": {
+        "mean": 0.155,
+        "min": 0,
+        "p50": 0,
+        "p95": 1,
+        "max": 1
+      },
+      "quiet_rounds": 0,
+      "items_found": 90,
+      "items_recalled": 70,
+      "item_recall_rate": 0.7778,
+      "item_finals": 66,
+      "items_dropped_without_recall": 20,
+      "recent_hits": 0,
+      "repeats": 0,
+      "world": "nft",
+      "players": 5
+    },
+    {
+      "games": 200,
+      "rounds": {
+        "mean": 5.305,
+        "min": 4,
+        "p50": 5,
+        "p95": 6,
+        "max": 6
+      },
+      "scripted_seconds": {
+        "mean": 85.28,
+        "min": 60,
+        "p50": 83,
+        "p95": 106,
+        "max": 124
+      },
+      "fixed_10s_seconds": {
+        "mean": 48.05,
+        "min": 35,
+        "p50": 45,
+        "p95": 55,
+        "max": 55
+      },
+      "reading_seconds_per_round": {
+        "mean": 16.766,
+        "min": 5.33,
+        "p50": 16.67,
+        "p95": 25.67,
+        "max": 36.0
+      },
+      "round_chars": {
+        "mean": 375.072,
+        "min": 140,
+        "p50": 372,
+        "p95": 575,
+        "max": 768
+      },
+      "eliminations_per_round": {
+        "mean": 1.521,
+        "min": 1,
+        "p50": 1,
+        "p95": 3,
+        "max": 3
+      },
+      "kinds": {
+        "kill": 710,
+        "wipe": 456,
+        "survive": 509,
+        "moment": 179,
+        "multi": 54,
+        "find": 147,
+        "revive": 81,
+        "ambient": 313,
+        "duel": 200,
+        "call": 71,
+        "double": 34,
+        "transfer": 3
+      },
+      "second_chance_games": 133,
+      "second_chance_round": {
+        "mean": 2.586,
+        "min": 2,
+        "p50": 3,
+        "p95": 3,
+        "max": 4
+      },
+      "revives": {
+        "mean": 1.07,
+        "min": 0,
+        "p50": 1,
+        "p95": 2,
+        "max": 2
+      },
+      "quiet_rounds": 0,
+      "items_found": 147,
+      "items_recalled": 104,
+      "item_recall_rate": 0.7075,
+      "item_finals": 85,
+      "items_dropped_without_recall": 43,
+      "recent_hits": 0,
+      "repeats": 0,
+      "world": "nft",
+      "players": 8
+    },
+    {
+      "games": 200,
+      "rounds": {
+        "mean": 5.505,
+        "min": 5,
+        "p50": 6,
+        "p95": 6,
+        "max": 6
+      },
+      "scripted_seconds": {
+        "mean": 105.76,
+        "min": 80,
+        "p50": 105,
+        "p95": 128,
+        "max": 136
+      },
+      "fixed_10s_seconds": {
+        "mean": 50.05,
+        "min": 45,
+        "p50": 55,
+        "p95": 55,
+        "max": 55
+      },
+      "reading_seconds_per_round": {
+        "mean": 20.417,
+        "min": 5.33,
+        "p50": 20.0,
+        "p95": 34.33,
+        "max": 42.0
+      },
+      "round_chars": {
+        "mean": 458.611,
+        "min": 140,
+        "p50": 444,
+        "p95": 781,
+        "max": 955
+      },
+      "eliminations_per_round": {
+        "mean": 2.196,
+        "min": 1,
+        "p50": 2,
+        "p95": 4,
+        "max": 5
+      },
+      "kinds": {
+        "kill": 1056,
+        "wipe": 719,
+        "moment": 210,
+        "survive": 475,
+        "ambient": 236,
+        "duel": 200,
+        "multi": 113,
+        "find": 166,
+        "revive": 68,
+        "call": 84,
+        "transfer": 8,
+        "double": 65
+      },
+      "second_chance_games": 150,
+      "second_chance_round": {
+        "mean": 2.713,
+        "min": 2,
+        "p50": 3,
+        "p95": 4,
+        "max": 4
+      },
+      "revives": {
+        "mean": 1.09,
+        "min": 0,
+        "p50": 1,
+        "p95": 2,
+        "max": 2
+      },
+      "quiet_rounds": 0,
+      "items_found": 166,
+      "items_recalled": 127,
+      "item_recall_rate": 0.7651,
+      "item_finals": 94,
+      "items_dropped_without_recall": 39,
+      "recent_hits": 0,
+      "repeats": 0,
+      "world": "nft",
+      "players": 12
+    },
+    {
+      "games": 200,
+      "rounds": {
+        "mean": 6.52,
+        "min": 6,
+        "p50": 7,
+        "p95": 7,
+        "max": 7
+      },
+      "scripted_seconds": {
+        "mean": 138.4,
+        "min": 110,
+        "p50": 139,
+        "p95": 157,
+        "max": 164
+      },
+      "fixed_10s_seconds": {
+        "mean": 60.2,
+        "min": 55,
+        "p50": 65,
+        "p95": 65,
+        "max": 65
+      },
+      "reading_seconds_per_round": {
+        "mean": 24.721,
+        "min": 5.33,
+        "p50": 22.67,
+        "p95": 46.67,
+        "max": 61.0
+      },
+      "round_chars": {
+        "mean": 548.892,
+        "min": 140,
+        "p50": 503,
+        "p95": 1011,
+        "max": 1289
+      },
+      "eliminations_per_round": {
+        "mean": 3.104,
+        "min": 1,
+        "p50": 2,
+        "p95": 8,
+        "max": 9
+      },
+      "kinds": {
+        "kill": 1665,
+        "wipe": 1159,
+        "moment": 354,
+        "double": 153,
+        "multi": 203,
+        "survive": 632,
+        "revive": 73,
+        "duel": 200,
+        "find": 185,
+        "call": 121,
+        "ambient": 220,
+        "hazard": 47,
+        "transfer": 7
+      },
+      "second_chance_games": 174,
+      "second_chance_round": {
+        "mean": 3.063,
+        "min": 2,
+        "p50": 3,
+        "p95": 5,
+        "max": 5
+      },
+      "revives": {
+        "mean": 1.235,
+        "min": 0,
+        "p50": 1,
+        "p95": 2,
+        "max": 2
+      },
+      "quiet_rounds": 0,
+      "items_found": 185,
+      "items_recalled": 139,
+      "item_recall_rate": 0.7514,
+      "item_finals": 84,
+      "items_dropped_without_recall": 46,
+      "recent_hits": 0,
+      "repeats": 0,
+      "world": "nft",
+      "players": 20
+    },
+    {
+      "games": 200,
+      "rounds": {
+        "mean": 8.365,
+        "min": 8,
+        "p50": 8,
+        "p95": 9,
+        "max": 9
+      },
+      "scripted_seconds": {
+        "mean": 191.01,
+        "min": 163,
+        "p50": 190,
+        "p95": 214,
+        "max": 220
+      },
+      "fixed_10s_seconds": {
+        "mean": 78.65,
+        "min": 75,
+        "p50": 75,
+        "p95": 85,
+        "max": 85
+      },
+      "reading_seconds_per_round": {
+        "mean": 31.438,
+        "min": 5.33,
+        "p50": 26.33,
+        "p95": 69.0,
+        "max": 81.33
+      },
+      "round_chars": {
+        "mean": 687.182,
+        "min": 140,
+        "p50": 590,
+        "p95": 1461,
+        "max": 1712
+      },
+      "eliminations_per_round": {
+        "mean": 4.233,
+        "min": 1,
+        "p50": 3,
+        "p95": 12,
+        "max": 14
+      },
+      "kinds": {
+        "hazard": 105,
+        "kill": 2701,
+        "wipe": 1891,
+        "moment": 583,
+        "survive": 980,
+        "double": 264,
+        "find": 359,
+        "call": 298,
+        "revive": 115,
+        "ambient": 244,
+        "duel": 200,
+        "multi": 449,
+        "transfer": 25
+      },
+      "second_chance_games": 166,
+      "second_chance_round": {
+        "mean": 4.681,
+        "min": 3,
+        "p50": 5,
+        "p95": 7,
+        "max": 7
+      },
+      "revives": {
+        "mean": 1.405,
+        "min": 0,
+        "p50": 1,
+        "p95": 2,
+        "max": 2
+      },
+      "quiet_rounds": 0,
+      "items_found": 359,
+      "items_recalled": 264,
+      "item_recall_rate": 0.7354,
+      "item_finals": 105,
+      "items_dropped_without_recall": 95,
+      "recent_hits": 0,
+      "repeats": 0,
+      "world": "nft",
+      "players": 35
+    },
+    {
+      "games": 200,
+      "rounds": {
+        "mean": 9.445,
+        "min": 9,
+        "p50": 9,
+        "p95": 10,
+        "max": 10
+      },
+      "scripted_seconds": {
+        "mean": 224.975,
+        "min": 194,
+        "p50": 223,
+        "p95": 245,
+        "max": 265
+      },
+      "fixed_10s_seconds": {
+        "mean": 89.45,
+        "min": 85,
+        "p50": 85,
+        "p95": 95,
+        "max": 95
+      },
+      "reading_seconds_per_round": {
+        "mean": 37.776,
+        "min": 5.33,
+        "p50": 31.33,
+        "p95": 77.33,
+        "max": 86.33
+      },
+      "round_chars": {
+        "mean": 825.564,
+        "min": 140,
+        "p50": 696,
+        "p95": 1714,
+        "max": 1940
+      },
+      "eliminations_per_round": {
+        "mean": 6.42,
+        "min": 1,
+        "p50": 4,
+        "p95": 21,
+        "max": 25
+      },
+      "kinds": {
+        "multi": 1548,
+        "double": 1019,
+        "wipe": 2291,
+        "kill": 3215,
+        "survive": 1102,
+        "moment": 640,
+        "find": 335,
+        "revive": 152,
+        "ambient": 239,
+        "duel": 200,
+        "hazard": 161,
+        "call": 288,
+        "transfer": 24
+      },
+      "second_chance_games": 175,
+      "second_chance_round": {
+        "mean": 5,
+        "min": 3,
+        "p50": 5,
+        "p95": 8,
+        "max": 8
+      },
+      "revives": {
+        "mean": 1.635,
+        "min": 0,
+        "p50": 1,
+        "p95": 3,
+        "max": 3
+      },
+      "quiet_rounds": 0,
+      "items_found": 335,
+      "items_recalled": 240,
+      "item_recall_rate": 0.7164,
+      "item_finals": 97,
+      "items_dropped_without_recall": 95,
+      "recent_hits": 0,
+      "repeats": 1,
+      "world": "nft",
+      "players": 60
+    },
+    {
+      "games": 200,
+      "rounds": {
+        "mean": 10.425,
+        "min": 10,
+        "p50": 10,
+        "p95": 11,
+        "max": 11
+      },
+      "scripted_seconds": {
+        "mean": 256.325,
+        "min": 228,
+        "p50": 255,
+        "p95": 279,
+        "max": 293
+      },
+      "fixed_10s_seconds": {
+        "mean": 99.25,
+        "min": 95,
+        "p50": 95,
+        "p95": 105,
+        "max": 105
+      },
+      "reading_seconds_per_round": {
+        "mean": 43.671,
+        "min": 5.33,
+        "p50": 36.33,
+        "p95": 83.67,
+        "max": 91.33
+      },
+      "round_chars": {
+        "mean": 976.105,
+        "min": 140,
+        "p50": 809,
+        "p95": 2006,
+        "max": 2209
+      },
+      "eliminations_per_round": {
+        "mean": 9.672,
+        "min": 1,
+        "p50": 5,
+        "p95": 34,
+        "max": 36
+      },
+      "kinds": {
+        "hazard": 543,
+        "multi": 3152,
+        "double": 1831,
+        "kill": 3324,
+        "wipe": 2318,
+        "find": 356,
+        "revive": 189,
+        "call": 289,
+        "moment": 645,
+        "survive": 997,
+        "duel": 200,
+        "ambient": 237,
+        "transfer": 14
+      },
+      "second_chance_games": 178,
+      "second_chance_round": {
+        "mean": 5.562,
+        "min": 3,
+        "p50": 6,
+        "p95": 9,
+        "max": 9
+      },
+      "revives": {
+        "mean": 1.835,
+        "min": 0,
+        "p50": 2,
+        "p95": 3,
+        "max": 3
+      },
+      "quiet_rounds": 0,
+      "items_found": 356,
+      "items_recalled": 251,
+      "item_recall_rate": 0.7051,
+      "item_finals": 101,
+      "items_dropped_without_recall": 105,
+      "recent_hits": 0,
+      "repeats": 106,
+      "world": "nft",
+      "players": 100
+    },
+    {
+      "games": 200,
+      "rounds": {
+        "mean": 11.545,
+        "min": 11,
+        "p50": 12,
+        "p95": 12,
+        "max": 12
+      },
+      "scripted_seconds": {
+        "mean": 291.13,
+        "min": 261,
+        "p50": 290,
+        "p95": 311,
+        "max": 324
+      },
+      "fixed_10s_seconds": {
+        "mean": 110.45,
+        "min": 105,
+        "p50": 115,
+        "p95": 115,
+        "max": 115
+      },
+      "reading_seconds_per_round": {
+        "mean": 48.889,
+        "min": 5.33,
+        "p50": 45.67,
+        "p95": 86.0,
+        "max": 92.67
+      },
+      "round_chars": {
+        "mean": 1116.553,
+        "min": 140,
+        "p50": 996,
+        "p95": 2088,
+        "max": 2208
+      },
+      "eliminations_per_round": {
+        "mean": 13.074,
+        "min": 1,
+        "p50": 7,
+        "p95": 36,
+        "max": 36
+      },
+      "kinds": {
+        "hazard": 1090,
+        "double": 3025,
+        "multi": 4862,
+        "revive": 205,
+        "kill": 3225,
+        "moment": 601,
+        "wipe": 2216,
+        "survive": 989,
+        "find": 300,
+        "ambient": 218,
+        "duel": 200,
+        "call": 249,
+        "transfer": 18
+      },
+      "second_chance_games": 184,
+      "second_chance_round": {
+        "mean": 6.815,
+        "min": 4,
+        "p50": 7,
+        "p95": 10,
+        "max": 10
+      },
+      "revives": {
+        "mean": 1.945,
+        "min": 0,
+        "p50": 2,
+        "p95": 3,
+        "max": 3
+      },
+      "quiet_rounds": 0,
+      "items_found": 300,
+      "items_recalled": 221,
+      "item_recall_rate": 0.7367,
+      "item_finals": 91,
+      "items_dropped_without_recall": 79,
+      "recent_hits": 0,
+      "repeats": 392,
+      "world": "nft",
+      "players": 150
+    },
+    {
+      "games": 200,
+      "rounds": {
+        "mean": 12.875,
+        "min": 12,
+        "p50": 13,
+        "p95": 13,
+        "max": 13
+      },
+      "scripted_seconds": {
+        "mean": 337.71,
+        "min": 308,
+        "p50": 339,
+        "p95": 350,
+        "max": 359
+      },
+      "fixed_10s_seconds": {
+        "mean": 123.75,
+        "min": 115,
+        "p50": 125,
+        "p95": 125,
+        "max": 125
+      },
+      "reading_seconds_per_round": {
+        "mean": 58.627,
+        "min": 5.33,
+        "p50": 75.33,
+        "p95": 88.0,
+        "max": 95.0
+      },
+      "round_chars": {
+        "mean": 1379.573,
+        "min": 140,
+        "p50": 1647,
+        "p95": 2136,
+        "max": 2269
+      },
+      "eliminations_per_round": {
+        "mean": 19.49,
+        "min": 1,
+        "p50": 18,
+        "p95": 36,
+        "max": 36
+      },
+      "kinds": {
+        "hazard": 2331,
+        "multi": 8221,
+        "double": 5236,
+        "revive": 193,
+        "wipe": 1824,
+        "kill": 2608,
+        "moment": 367,
+        "survive": 724,
+        "duel": 200,
+        "ambient": 223,
+        "find": 245,
+        "call": 159,
+        "transfer": 6
+      },
+      "second_chance_games": 195,
+      "second_chance_round": {
+        "mean": 7.164,
+        "min": 4,
+        "p50": 7,
+        "p95": 11,
+        "max": 11
+      },
+      "revives": {
+        "mean": 1.94,
+        "min": 0,
+        "p50": 2,
+        "p95": 3,
+        "max": 3
+      },
+      "quiet_rounds": 0,
+      "items_found": 245,
+      "items_recalled": 178,
+      "item_recall_rate": 0.7265,
+      "item_finals": 89,
+      "items_dropped_without_recall": 67,
+      "recent_hits": 0,
+      "repeats": 803,
+      "world": "nft",
+      "players": 250
+    },
+    {
+      "games": 200,
+      "rounds": {
+        "mean": 2,
+        "min": 2,
+        "p50": 2,
+        "p95": 2,
+        "max": 2
+      },
+      "scripted_seconds": {
+        "mean": 18.525,
+        "min": 15,
+        "p50": 18,
+        "p95": 23,
+        "max": 28
+      },
+      "fixed_10s_seconds": {
+        "mean": 15,
+        "min": 15,
+        "p50": 15,
+        "p95": 15,
+        "max": 15
+      },
+      "reading_seconds_per_round": {
+        "mean": 11.346,
+        "min": 5.0,
+        "p50": 11.0,
+        "p95": 17.33,
+        "max": 22.67
+      },
+      "round_chars": {
+        "mean": 232.49,
+        "min": 118,
+        "p50": 227,
+        "p95": 332,
+        "max": 414
+      },
+      "eliminations_per_round": {
+        "mean": 0.5,
+        "min": 0,
+        "p50": 0,
+        "p95": 1,
+        "max": 1
+      },
+      "kinds": {
+        "find": 78,
+        "survive": 198,
+        "ambient": 211,
+        "duel": 200,
+        "moment": 62
+      },
+      "second_chance_games": 0,
+      "second_chance_round": null,
+      "revives": {
+        "mean": 0,
+        "min": 0,
+        "p50": 0,
+        "p95": 0,
+        "max": 0
+      },
+      "quiet_rounds": 200,
+      "items_found": 78,
+      "items_recalled": 65,
+      "item_recall_rate": 0.8333,
+      "item_finals": 65,
+      "items_dropped_without_recall": 13,
+      "recent_hits": 0,
+      "repeats": 0,
+      "world": "gulf",
+      "players": 2
+    },
+    {
+      "games": 200,
+      "rounds": {
+        "mean": 2,
+        "min": 2,
+        "p50": 2,
+        "p95": 2,
+        "max": 2
+      },
+      "scripted_seconds": {
+        "mean": 19.89,
+        "min": 15,
+        "p50": 20,
+        "p95": 24,
+        "max": 27
+      },
+      "fixed_10s_seconds": {
+        "mean": 15,
+        "min": 15,
+        "p50": 15,
+        "p95": 15,
+        "max": 15
+      },
+      "reading_seconds_per_round": {
+        "mean": 12.369,
+        "min": 6.67,
+        "p50": 12.33,
+        "p95": 17.67,
+        "max": 22.0
+      },
+      "round_chars": {
+        "mean": 256.575,
+        "min": 153,
+        "p50": 256,
+        "p95": 352,
+        "max": 435
+      },
+      "eliminations_per_round": {
+        "mean": 1,
+        "min": 1,
+        "p50": 1,
+        "p95": 1,
+        "max": 1
+      },
+      "kinds": {
+        "wipe": 87,
+        "find": 44,
+        "ambient": 199,
+        "duel": 200,
+        "moment": 32,
+        "kill": 113,
+        "survive": 124
+      },
+      "second_chance_games": 0,
+      "second_chance_round": null,
+      "revives": {
+        "mean": 0,
+        "min": 0,
+        "p50": 0,
+        "p95": 0,
+        "max": 0
+      },
+      "quiet_rounds": 0,
+      "items_found": 44,
+      "items_recalled": 44,
+      "item_recall_rate": 1.0,
+      "item_finals": 44,
+      "items_dropped_without_recall": 0,
+      "recent_hits": 0,
+      "repeats": 0,
+      "world": "gulf",
+      "players": 3
+    },
+    {
+      "games": 200,
+      "rounds": {
+        "mean": 3.05,
+        "min": 3,
+        "p50": 3,
+        "p95": 3,
+        "max": 4
+      },
+      "scripted_seconds": {
+        "mean": 36.975,
+        "min": 29,
+        "p50": 36,
+        "p95": 45,
+        "max": 61
+      },
+      "fixed_10s_seconds": {
+        "mean": 25.5,
+        "min": 25,
+        "p50": 25,
+        "p95": 25,
+        "max": 35
+      },
+      "reading_seconds_per_round": {
+        "mean": 13.641,
+        "min": 7.0,
+        "p50": 13.67,
+        "p95": 19.33,
+        "max": 24.67
+      },
+      "round_chars": {
+        "mean": 285.243,
+        "min": 153,
+        "p50": 289,
+        "p95": 390,
+        "max": 486
+      },
+      "eliminations_per_round": {
+        "mean": 1.013,
+        "min": 1,
+        "p50": 1,
+        "p95": 1,
+        "max": 2
+      },
+      "kinds": {
+        "kill": 267,
+        "survive": 228,
+        "ambient": 277,
+        "wipe": 146,
+        "duel": 200,
+        "find": 84,
+        "moment": 91,
+        "transfer": 1,
+        "revive": 18,
+        "call": 3,
+        "double": 1
+      },
+      "second_chance_games": 0,
+      "second_chance_round": null,
+      "revives": {
+        "mean": 0.09,
+        "min": 0,
+        "p50": 0,
+        "p95": 1,
+        "max": 1
+      },
+      "quiet_rounds": 0,
+      "items_found": 84,
+      "items_recalled": 72,
+      "item_recall_rate": 0.8571,
+      "item_finals": 69,
+      "items_dropped_without_recall": 12,
+      "recent_hits": 0,
+      "repeats": 0,
+      "world": "gulf",
+      "players": 4
+    },
+    {
+      "games": 200,
+      "rounds": {
+        "mean": 3.265,
+        "min": 3,
+        "p50": 3,
+        "p95": 4,
+        "max": 4
+      },
+      "scripted_seconds": {
+        "mean": 44.86,
+        "min": 31,
+        "p50": 43,
+        "p95": 61,
+        "max": 71
+      },
+      "fixed_10s_seconds": {
+        "mean": 27.65,
+        "min": 25,
+        "p50": 25,
+        "p95": 35,
+        "max": 35
+      },
+      "reading_seconds_per_round": {
+        "mean": 15.134,
+        "min": 7.0,
+        "p50": 14.67,
+        "p95": 23.0,
+        "max": 30.33
+      },
+      "round_chars": {
+        "mean": 317.749,
+        "min": 153,
+        "p50": 312,
+        "p95": 473,
+        "max": 598
+      },
+      "eliminations_per_round": {
+        "mean": 1.282,
+        "min": 1,
+        "p50": 1,
+        "p95": 2,
+        "max": 3
+      },
+      "kinds": {
+        "multi": 13,
+        "survive": 251,
+        "kill": 336,
+        "wipe": 247,
+        "revive": 37,
+        "duel": 200,
+        "ambient": 224,
+        "moment": 88,
+        "find": 90,
+        "transfer": 3,
+        "double": 9,
+        "call": 10
+      },
+      "second_chance_games": 0,
+      "second_chance_round": null,
+      "revives": {
+        "mean": 0.185,
+        "min": 0,
+        "p50": 0,
+        "p95": 1,
+        "max": 1
+      },
+      "quiet_rounds": 0,
+      "items_found": 90,
+      "items_recalled": 71,
+      "item_recall_rate": 0.7889,
+      "item_finals": 70,
+      "items_dropped_without_recall": 19,
+      "recent_hits": 0,
+      "repeats": 0,
+      "world": "gulf",
+      "players": 5
+    },
+    {
+      "games": 200,
+      "rounds": {
+        "mean": 5.29,
+        "min": 4,
+        "p50": 5,
+        "p95": 6,
+        "max": 6
+      },
+      "scripted_seconds": {
+        "mean": 90.28,
+        "min": 60,
+        "p50": 88,
+        "p95": 113,
+        "max": 128
+      },
+      "fixed_10s_seconds": {
+        "mean": 47.9,
+        "min": 35,
+        "p50": 45,
+        "p95": 55,
+        "max": 55
+      },
+      "reading_seconds_per_round": {
+        "mean": 17.926,
+        "min": 6.67,
+        "p50": 18.0,
+        "p95": 27.33,
+        "max": 35.67
+      },
+      "round_chars": {
+        "mean": 380.9,
+        "min": 156,
+        "p50": 374,
+        "p95": 582,
+        "max": 755
+      },
+      "eliminations_per_round": {
+        "mean": 1.521,
+        "min": 1,
+        "p50": 1,
+        "p95": 3,
+        "max": 3
+      },
+      "kinds": {
+        "kill": 687,
+        "wipe": 457,
+        "moment": 187,
+        "multi": 57,
+        "survive": 486,
+        "find": 157,
+        "revive": 76,
+        "ambient": 307,
+        "duel": 200,
+        "call": 80,
+        "double": 35,
+        "transfer": 6
+      },
+      "second_chance_games": 133,
+      "second_chance_round": {
+        "mean": 2.586,
+        "min": 2,
+        "p50": 3,
+        "p95": 3,
+        "max": 4
+      },
+      "revives": {
+        "mean": 1.045,
+        "min": 0,
+        "p50": 1,
+        "p95": 2,
+        "max": 2
+      },
+      "quiet_rounds": 0,
+      "items_found": 157,
+      "items_recalled": 119,
+      "item_recall_rate": 0.758,
+      "item_finals": 96,
+      "items_dropped_without_recall": 38,
+      "recent_hits": 0,
+      "repeats": 0,
+      "world": "gulf",
+      "players": 8
+    },
+    {
+      "games": 200,
+      "rounds": {
+        "mean": 5.505,
+        "min": 5,
+        "p50": 6,
+        "p95": 6,
+        "max": 6
+      },
+      "scripted_seconds": {
+        "mean": 109.185,
+        "min": 83,
+        "p50": 110,
+        "p95": 130,
+        "max": 140
+      },
+      "fixed_10s_seconds": {
+        "mean": 50.05,
+        "min": 45,
+        "p50": 55,
+        "p95": 55,
+        "max": 55
+      },
+      "reading_seconds_per_round": {
+        "mean": 21.452,
+        "min": 6.67,
+        "p50": 20.67,
+        "p95": 36.0,
+        "max": 45.0
+      },
+      "round_chars": {
+        "mean": 460.285,
+        "min": 153,
+        "p50": 445,
+        "p95": 785,
+        "max": 937
+      },
+      "eliminations_per_round": {
+        "mean": 2.204,
+        "min": 1,
+        "p50": 2,
+        "p95": 4,
+        "max": 5
+      },
+      "kinds": {
+        "kill": 1044,
+        "multi": 113,
+        "wipe": 739,
+        "survive": 480,
+        "double": 76,
+        "revive": 74,
+        "ambient": 240,
+        "find": 152,
+        "moment": 224,
+        "duel": 200,
+        "call": 64,
+        "transfer": 6
+      },
+      "second_chance_games": 153,
+      "second_chance_round": {
+        "mean": 2.739,
+        "min": 2,
+        "p50": 3,
+        "p95": 4,
+        "max": 4
+      },
+      "revives": {
+        "mean": 1.135,
+        "min": 0,
+        "p50": 1,
+        "p95": 2,
+        "max": 2
+      },
+      "quiet_rounds": 0,
+      "items_found": 152,
+      "items_recalled": 106,
+      "item_recall_rate": 0.6974,
+      "item_finals": 86,
+      "items_dropped_without_recall": 46,
+      "recent_hits": 0,
+      "repeats": 0,
+      "world": "gulf",
+      "players": 12
+    },
+    {
+      "games": 200,
+      "rounds": {
+        "mean": 6.57,
+        "min": 6,
+        "p50": 7,
+        "p95": 7,
+        "max": 7
+      },
+      "scripted_seconds": {
+        "mean": 141.89,
+        "min": 111,
+        "p50": 143,
+        "p95": 161,
+        "max": 167
+      },
+      "fixed_10s_seconds": {
+        "mean": 60.7,
+        "min": 55,
+        "p50": 65,
+        "p95": 65,
+        "max": 65
+      },
+      "reading_seconds_per_round": {
+        "mean": 26.094,
+        "min": 7.0,
+        "p50": 23.0,
+        "p95": 49.33,
+        "max": 67.0
+      },
+      "round_chars": {
+        "mean": 553.723,
+        "min": 153,
+        "p50": 500,
+        "p95": 1013,
+        "max": 1367
+      },
+      "eliminations_per_round": {
+        "mean": 3.08,
+        "min": 1,
+        "p50": 2,
+        "p95": 8,
+        "max": 9
+      },
+      "kinds": {
+        "kill": 1652,
+        "wipe": 1137,
+        "moment": 358,
+        "double": 147,
+        "multi": 216,
+        "survive": 634,
+        "revive": 76,
+        "duel": 200,
+        "find": 187,
+        "call": 137,
+        "ambient": 233,
+        "transfer": 11,
+        "hazard": 47
+      },
+      "second_chance_games": 171,
+      "second_chance_round": {
+        "mean": 3.035,
+        "min": 2,
+        "p50": 3,
+        "p95": 5,
+        "max": 5
+      },
+      "revives": {
+        "mean": 1.235,
+        "min": 0,
+        "p50": 1,
+        "p95": 2,
+        "max": 2
+      },
+      "quiet_rounds": 0,
+      "items_found": 187,
+      "items_recalled": 146,
+      "item_recall_rate": 0.7807,
+      "item_finals": 91,
+      "items_dropped_without_recall": 41,
+      "recent_hits": 0,
+      "repeats": 0,
+      "world": "gulf",
+      "players": 20
+    },
+    {
+      "games": 200,
+      "rounds": {
+        "mean": 8.39,
+        "min": 8,
+        "p50": 8,
+        "p95": 9,
+        "max": 9
+      },
+      "scripted_seconds": {
+        "mean": 192.95,
+        "min": 165,
+        "p50": 191,
+        "p95": 215,
+        "max": 223
+      },
+      "fixed_10s_seconds": {
+        "mean": 78.9,
+        "min": 75,
+        "p50": 75,
+        "p95": 85,
+        "max": 85
+      },
+      "reading_seconds_per_round": {
+        "mean": 32.826,
+        "min": 6.67,
+        "p50": 27.0,
+        "p95": 74.0,
+        "max": 84.67
+      },
+      "round_chars": {
+        "mean": 687.014,
+        "min": 153,
+        "p50": 582,
+        "p95": 1499,
+        "max": 1740
+      },
+      "eliminations_per_round": {
+        "mean": 4.214,
+        "min": 1,
+        "p50": 3,
+        "p95": 12,
+        "max": 14
+      },
+      "kinds": {
+        "hazard": 112,
+        "kill": 2689,
+        "wipe": 1886,
+        "survive": 983,
+        "moment": 591,
+        "multi": 438,
+        "revive": 109,
+        "double": 271,
+        "ambient": 230,
+        "duel": 200,
+        "find": 353,
+        "call": 282,
+        "transfer": 24
+      },
+      "second_chance_games": 162,
+      "second_chance_round": {
+        "mean": 4.623,
+        "min": 3,
+        "p50": 5,
+        "p95": 7,
+        "max": 7
+      },
+      "revives": {
+        "mean": 1.355,
+        "min": 0,
+        "p50": 1,
+        "p95": 2,
+        "max": 2
+      },
+      "quiet_rounds": 0,
+      "items_found": 353,
+      "items_recalled": 255,
+      "item_recall_rate": 0.7224,
+      "item_finals": 112,
+      "items_dropped_without_recall": 98,
+      "recent_hits": 0,
+      "repeats": 0,
+      "world": "gulf",
+      "players": 35
+    },
+    {
+      "games": 200,
+      "rounds": {
+        "mean": 9.48,
+        "min": 9,
+        "p50": 9,
+        "p95": 10,
+        "max": 10
+      },
+      "scripted_seconds": {
+        "mean": 228.28,
+        "min": 198,
+        "p50": 226,
+        "p95": 252,
+        "max": 259
+      },
+      "fixed_10s_seconds": {
+        "mean": 89.8,
+        "min": 85,
+        "p50": 85,
+        "p95": 95,
+        "max": 95
+      },
+      "reading_seconds_per_round": {
+        "mean": 39.684,
+        "min": 7.0,
+        "p50": 33.0,
+        "p95": 81.0,
+        "max": 89.67
+      },
+      "round_chars": {
+        "mean": 835.504,
+        "min": 153,
+        "p50": 706,
+        "p95": 1729,
+        "max": 1947
+      },
+      "eliminations_per_round": {
+        "mean": 6.403,
+        "min": 1,
+        "p50": 4,
+        "p95": 21,
+        "max": 25
+      },
+      "kinds": {
+        "multi": 1556,
+        "double": 973,
+        "wipe": 2310,
+        "kill": 3282,
+        "survive": 1098,
+        "duel": 200,
+        "hazard": 160,
+        "moment": 666,
+        "find": 328,
+        "call": 295,
+        "transfer": 27,
+        "ambient": 229,
+        "revive": 162
+      },
+      "second_chance_games": 178,
+      "second_chance_round": {
+        "mean": 5.051,
+        "min": 3,
+        "p50": 5,
+        "p95": 8,
+        "max": 8
+      },
+      "revives": {
+        "mean": 1.7,
+        "min": 0,
+        "p50": 2,
+        "p95": 3,
+        "max": 3
+      },
+      "quiet_rounds": 0,
+      "items_found": 328,
+      "items_recalled": 241,
+      "item_recall_rate": 0.7348,
+      "item_finals": 97,
+      "items_dropped_without_recall": 87,
+      "recent_hits": 0,
+      "repeats": 5,
+      "world": "gulf",
+      "players": 60
+    },
+    {
+      "games": 200,
+      "rounds": {
+        "mean": 10.495,
+        "min": 10,
+        "p50": 10,
+        "p95": 11,
+        "max": 11
+      },
+      "scripted_seconds": {
+        "mean": 259.295,
+        "min": 224,
+        "p50": 259,
+        "p95": 279,
+        "max": 289
+      },
+      "fixed_10s_seconds": {
+        "mean": 99.95,
+        "min": 95,
+        "p50": 95,
+        "p95": 105,
+        "max": 105
+      },
+      "reading_seconds_per_round": {
+        "mean": 45.423,
+        "min": 6.67,
+        "p50": 38.0,
+        "p95": 86.67,
+        "max": 95.67
+      },
+      "round_chars": {
+        "mean": 982.016,
+        "min": 153,
+        "p50": 818,
+        "p95": 2054,
+        "max": 2233
+      },
+      "eliminations_per_round": {
+        "mean": 9.601,
+        "min": 1,
+        "p50": 5,
+        "p95": 34,
+        "max": 36
+      },
+      "kinds": {
+        "hazard": 548,
+        "multi": 3094,
+        "double": 1910,
+        "kill": 3293,
+        "wipe": 2265,
+        "survive": 1053,
+        "moment": 667,
+        "duel": 200,
+        "revive": 174,
+        "ambient": 243,
+        "find": 346,
+        "call": 279,
+        "transfer": 12
+      },
+      "second_chance_games": 179,
+      "second_chance_round": {
+        "mean": 5.581,
+        "min": 3,
+        "p50": 6,
+        "p95": 9,
+        "max": 9
+      },
+      "revives": {
+        "mean": 1.765,
+        "min": 0,
+        "p50": 2,
+        "p95": 3,
+        "max": 3
+      },
+      "quiet_rounds": 0,
+      "items_found": 346,
+      "items_recalled": 248,
+      "item_recall_rate": 0.7168,
+      "item_finals": 100,
+      "items_dropped_without_recall": 98,
+      "recent_hits": 0,
+      "repeats": 239,
+      "world": "gulf",
+      "players": 100
+    },
+    {
+      "games": 200,
+      "rounds": {
+        "mean": 11.58,
+        "min": 11,
+        "p50": 12,
+        "p95": 12,
+        "max": 12
+      },
+      "scripted_seconds": {
+        "mean": 295.105,
+        "min": 265,
+        "p50": 295,
+        "p95": 315,
+        "max": 322
+      },
+      "fixed_10s_seconds": {
+        "mean": 110.8,
+        "min": 105,
+        "p50": 115,
+        "p95": 115,
+        "max": 115
+      },
+      "reading_seconds_per_round": {
+        "mean": 51.249,
+        "min": 6.67,
+        "p50": 48.33,
+        "p95": 89.33,
+        "max": 98.0
+      },
+      "round_chars": {
+        "mean": 1135.154,
+        "min": 156,
+        "p50": 1007,
+        "p95": 2127,
+        "max": 2304
+      },
+      "eliminations_per_round": {
+        "mean": 13.035,
+        "min": 1,
+        "p50": 7,
+        "p95": 36,
+        "max": 36
+      },
+      "kinds": {
+        "hazard": 1100,
+        "double": 2988,
+        "multi": 4841,
+        "revive": 203,
+        "wipe": 2168,
+        "kill": 3309,
+        "survive": 938,
+        "moment": 609,
+        "ambient": 228,
+        "duel": 200,
+        "find": 337,
+        "call": 274,
+        "transfer": 15
+      },
+      "second_chance_games": 186,
+      "second_chance_round": {
+        "mean": 6.849,
+        "min": 4,
+        "p50": 7,
+        "p95": 10,
+        "max": 10
+      },
+      "revives": {
+        "mean": 1.945,
+        "min": 0,
+        "p50": 2,
+        "p95": 3,
+        "max": 3
+      },
+      "quiet_rounds": 0,
+      "items_found": 337,
+      "items_recalled": 239,
+      "item_recall_rate": 0.7092,
+      "item_finals": 99,
+      "items_dropped_without_recall": 98,
+      "recent_hits": 0,
+      "repeats": 454,
+      "world": "gulf",
+      "players": 150
+    },
+    {
+      "games": 200,
+      "rounds": {
+        "mean": 12.855,
+        "min": 12,
+        "p50": 13,
+        "p95": 13,
+        "max": 13
+      },
+      "scripted_seconds": {
+        "mean": 340.16,
+        "min": 313,
+        "p50": 342,
+        "p95": 354,
+        "max": 360
+      },
+      "fixed_10s_seconds": {
+        "mean": 123.55,
+        "min": 115,
+        "p50": 125,
+        "p95": 125,
+        "max": 125
+      },
+      "reading_seconds_per_round": {
+        "mean": 61.219,
+        "min": 7.0,
+        "p50": 79.0,
+        "p95": 91.33,
+        "max": 100.33
+      },
+      "round_chars": {
+        "mean": 1403.755,
+        "min": 153,
+        "p50": 1669,
+        "p95": 2170,
+        "max": 2315
+      },
+      "eliminations_per_round": {
+        "mean": 19.531,
+        "min": 1,
+        "p50": 18,
+        "p95": 36,
+        "max": 36
+      },
+      "kinds": {
+        "hazard": 2348,
+        "multi": 8264,
+        "double": 5130,
+        "revive": 216,
+        "kill": 2617,
+        "moment": 377,
+        "wipe": 1814,
+        "find": 260,
+        "survive": 710,
+        "transfer": 8,
+        "call": 159,
+        "duel": 200,
+        "ambient": 191
+      },
+      "second_chance_games": 197,
+      "second_chance_round": {
+        "mean": 7.203,
+        "min": 4,
+        "p50": 7,
+        "p95": 11,
+        "max": 11
+      },
+      "revives": {
+        "mean": 2.065,
+        "min": 0,
+        "p50": 2,
+        "p95": 3,
+        "max": 3
+      },
+      "quiet_rounds": 0,
+      "items_found": 260,
+      "items_recalled": 187,
+      "item_recall_rate": 0.7192,
+      "item_finals": 101,
+      "items_dropped_without_recall": 73,
+      "recent_hits": 0,
+      "repeats": 929,
+      "world": "gulf",
+      "players": 250
+    },
+    {
+      "games": 200,
+      "rounds": {
+        "mean": 2,
+        "min": 2,
+        "p50": 2,
+        "p95": 2,
+        "max": 2
+      },
+      "scripted_seconds": {
+        "mean": 18.38,
+        "min": 15,
+        "p50": 18,
+        "p95": 23,
+        "max": 27
+      },
+      "fixed_10s_seconds": {
+        "mean": 15,
+        "min": 15,
+        "p50": 15,
+        "p95": 15,
+        "max": 15
+      },
+      "reading_seconds_per_round": {
+        "mean": 11.263,
+        "min": 5.0,
+        "p50": 11.0,
+        "p95": 17.0,
+        "max": 21.67
+      },
+      "round_chars": {
+        "mean": 241.278,
+        "min": 118,
+        "p50": 239,
+        "p95": 336,
+        "max": 406
+      },
+      "eliminations_per_round": {
+        "mean": 0.5,
+        "min": 0,
+        "p50": 0,
+        "p95": 1,
+        "max": 1
+      },
+      "kinds": {
+        "find": 77,
+        "survive": 199,
+        "ambient": 215,
+        "duel": 200,
+        "moment": 62
+      },
+      "second_chance_games": 0,
+      "second_chance_round": null,
+      "revives": {
+        "mean": 0,
+        "min": 0,
+        "p50": 0,
+        "p95": 0,
+        "max": 0
+      },
+      "quiet_rounds": 200,
+      "items_found": 77,
+      "items_recalled": 64,
+      "item_recall_rate": 0.8312,
+      "item_finals": 64,
+      "items_dropped_without_recall": 13,
+      "recent_hits": 0,
+      "repeats": 0,
+      "world": "convention",
+      "players": 2
+    },
+    {
+      "games": 200,
+      "rounds": {
+        "mean": 2,
+        "min": 2,
+        "p50": 2,
+        "p95": 2,
+        "max": 2
+      },
+      "scripted_seconds": {
+        "mean": 19.795,
+        "min": 15,
+        "p50": 20,
+        "p95": 24,
+        "max": 26
+      },
+      "fixed_10s_seconds": {
+        "mean": 15,
+        "min": 15,
+        "p50": 15,
+        "p95": 15,
+        "max": 15
+      },
+      "reading_seconds_per_round": {
+        "mean": 12.263,
+        "min": 6.0,
+        "p50": 12.0,
+        "p95": 17.67,
+        "max": 20.67
+      },
+      "round_chars": {
+        "mean": 264.212,
+        "min": 144,
+        "p50": 259,
+        "p95": 370,
+        "max": 427
+      },
+      "eliminations_per_round": {
+        "mean": 1,
+        "min": 1,
+        "p50": 1,
+        "p95": 1,
+        "max": 1
+      },
+      "kinds": {
+        "wipe": 87,
+        "find": 49,
+        "ambient": 199,
+        "duel": 200,
+        "moment": 33,
+        "kill": 113,
+        "survive": 118
+      },
+      "second_chance_games": 0,
+      "second_chance_round": null,
+      "revives": {
+        "mean": 0,
+        "min": 0,
+        "p50": 0,
+        "p95": 0,
+        "max": 0
+      },
+      "quiet_rounds": 0,
+      "items_found": 49,
+      "items_recalled": 49,
+      "item_recall_rate": 1.0,
+      "item_finals": 49,
+      "items_dropped_without_recall": 0,
+      "recent_hits": 0,
+      "repeats": 0,
+      "world": "convention",
+      "players": 3
+    },
+    {
+      "games": 200,
+      "rounds": {
+        "mean": 3.055,
+        "min": 3,
+        "p50": 3,
+        "p95": 4,
+        "max": 4
+      },
+      "scripted_seconds": {
+        "mean": 36.935,
+        "min": 28,
+        "p50": 36,
+        "p95": 50,
+        "max": 58
+      },
+      "fixed_10s_seconds": {
+        "mean": 25.55,
+        "min": 25,
+        "p50": 25,
+        "p95": 35,
+        "max": 35
+      },
+      "reading_seconds_per_round": {
+        "mean": 13.538,
+        "min": 6.0,
+        "p50": 13.67,
+        "p95": 18.67,
+        "max": 24.0
+      },
+      "round_chars": {
+        "mean": 294.047,
+        "min": 144,
+        "p50": 298,
+        "p95": 393,
+        "max": 507
+      },
+      "eliminations_per_round": {
+        "mean": 1.015,
+        "min": 1,
+        "p50": 1,
+        "p95": 1,
+        "max": 2
+      },
+      "kinds": {
+        "kill": 268,
+        "survive": 228,
+        "ambient": 281,
+        "wipe": 148,
+        "moment": 92,
+        "duel": 200,
+        "find": 84,
+        "revive": 20,
+        "call": 2,
+        "double": 1
+      },
+      "second_chance_games": 0,
+      "second_chance_round": null,
+      "revives": {
+        "mean": 0.1,
+        "min": 0,
+        "p50": 0,
+        "p95": 1,
+        "max": 1
+      },
+      "quiet_rounds": 0,
+      "items_found": 84,
+      "items_recalled": 69,
+      "item_recall_rate": 0.8214,
+      "item_finals": 67,
+      "items_dropped_without_recall": 15,
+      "recent_hits": 0,
+      "repeats": 0,
+      "world": "convention",
+      "players": 4
+    },
+    {
+      "games": 200,
+      "rounds": {
+        "mean": 3.245,
+        "min": 3,
+        "p50": 3,
+        "p95": 4,
+        "max": 4
+      },
+      "scripted_seconds": {
+        "mean": 43.875,
+        "min": 33,
+        "p50": 42,
+        "p95": 58,
+        "max": 69
+      },
+      "fixed_10s_seconds": {
+        "mean": 27.45,
+        "min": 25,
+        "p50": 25,
+        "p95": 35,
+        "max": 35
+      },
+      "reading_seconds_per_round": {
+        "mean": 14.849,
+        "min": 6.0,
+        "p50": 14.67,
+        "p95": 22.33,
+        "max": 27.67
+      },
+      "round_chars": {
+        "mean": 322.459,
+        "min": 144,
+        "p50": 316,
+        "p95": 475,
+        "max": 577
+      },
+      "eliminations_per_round": {
+        "mean": 1.267,
+        "min": 1,
+        "p50": 1,
+        "p95": 2,
+        "max": 3
+      },
+      "kinds": {
+        "multi": 10,
+        "survive": 266,
+        "kill": 337,
+        "wipe": 241,
+        "revive": 22,
+        "duel": 200,
+        "ambient": 237,
+        "moment": 92,
+        "find": 78,
+        "double": 9,
+        "call": 6,
+        "transfer": 1
+      },
+      "second_chance_games": 0,
+      "second_chance_round": null,
+      "revives": {
+        "mean": 0.11,
+        "min": 0,
+        "p50": 0,
+        "p95": 1,
+        "max": 1
+      },
+      "quiet_rounds": 0,
+      "items_found": 78,
+      "items_recalled": 59,
+      "item_recall_rate": 0.7564,
+      "item_finals": 59,
+      "items_dropped_without_recall": 19,
+      "recent_hits": 0,
+      "repeats": 0,
+      "world": "convention",
+      "players": 5
+    },
+    {
+      "games": 200,
+      "rounds": {
+        "mean": 5.31,
+        "min": 4,
+        "p50": 5,
+        "p95": 6,
+        "max": 6
+      },
+      "scripted_seconds": {
+        "mean": 90.03,
+        "min": 64,
+        "p50": 88,
+        "p95": 111,
+        "max": 125
+      },
+      "fixed_10s_seconds": {
+        "mean": 48.1,
+        "min": 35,
+        "p50": 45,
+        "p95": 55,
+        "max": 55
+      },
+      "reading_seconds_per_round": {
+        "mean": 17.692,
+        "min": 6.0,
+        "p50": 17.67,
+        "p95": 27.0,
+        "max": 39.67
+      },
+      "round_chars": {
+        "mean": 391.702,
+        "min": 144,
+        "p50": 391,
+        "p95": 596,
+        "max": 836
+      },
+      "eliminations_per_round": {
+        "mean": 1.522,
+        "min": 1,
+        "p50": 1,
+        "p95": 3,
+        "max": 3
+      },
+      "kinds": {
+        "kill": 701,
+        "wipe": 461,
+        "survive": 509,
+        "moment": 174,
+        "ambient": 303,
+        "multi": 54,
+        "find": 155,
+        "duel": 200,
+        "revive": 82,
+        "call": 82,
+        "double": 32,
+        "transfer": 4
+      },
+      "second_chance_games": 134,
+      "second_chance_round": {
+        "mean": 2.634,
+        "min": 2,
+        "p50": 3,
+        "p95": 4,
+        "max": 4
+      },
+      "revives": {
+        "mean": 1.08,
+        "min": 0,
+        "p50": 1,
+        "p95": 2,
+        "max": 2
+      },
+      "quiet_rounds": 0,
+      "items_found": 155,
+      "items_recalled": 119,
+      "item_recall_rate": 0.7677,
+      "item_finals": 93,
+      "items_dropped_without_recall": 36,
+      "recent_hits": 0,
+      "repeats": 0,
+      "world": "convention",
+      "players": 8
+    },
+    {
+      "games": 200,
+      "rounds": {
+        "mean": 5.54,
+        "min": 5,
+        "p50": 6,
+        "p95": 6,
+        "max": 6
+      },
+      "scripted_seconds": {
+        "mean": 109.625,
+        "min": 82,
+        "p50": 110,
+        "p95": 128,
+        "max": 134
+      },
+      "fixed_10s_seconds": {
+        "mean": 50.4,
+        "min": 45,
+        "p50": 55,
+        "p95": 55,
+        "max": 55
+      },
+      "reading_seconds_per_round": {
+        "mean": 21.334,
+        "min": 6.0,
+        "p50": 21.0,
+        "p95": 36.33,
+        "max": 45.33
+      },
+      "round_chars": {
+        "mean": 472.843,
+        "min": 144,
+        "p50": 454,
+        "p95": 796,
+        "max": 954
+      },
+      "eliminations_per_round": {
+        "mean": 2.193,
+        "min": 1,
+        "p50": 2,
+        "p95": 4,
+        "max": 5
+      },
+      "kinds": {
+        "kill": 1039,
+        "multi": 110,
+        "wipe": 744,
+        "survive": 464,
+        "double": 73,
+        "revive": 76,
+        "ambient": 254,
+        "find": 159,
+        "moment": 243,
+        "duel": 200,
+        "call": 79,
+        "transfer": 8
+      },
+      "second_chance_games": 154,
+      "second_chance_round": {
+        "mean": 2.753,
+        "min": 2,
+        "p50": 3,
+        "p95": 4,
+        "max": 4
+      },
+      "revives": {
+        "mean": 1.15,
+        "min": 0,
+        "p50": 1,
+        "p95": 2,
+        "max": 2
+      },
+      "quiet_rounds": 0,
+      "items_found": 159,
+      "items_recalled": 121,
+      "item_recall_rate": 0.761,
+      "item_finals": 91,
+      "items_dropped_without_recall": 38,
+      "recent_hits": 0,
+      "repeats": 0,
+      "world": "convention",
+      "players": 12
+    },
+    {
+      "games": 200,
+      "rounds": {
+        "mean": 6.565,
+        "min": 6,
+        "p50": 7,
+        "p95": 7,
+        "max": 7
+      },
+      "scripted_seconds": {
+        "mean": 141.87,
+        "min": 109,
+        "p50": 142,
+        "p95": 161,
+        "max": 168
+      },
+      "fixed_10s_seconds": {
+        "mean": 60.65,
+        "min": 55,
+        "p50": 65,
+        "p95": 65,
+        "max": 65
+      },
+      "reading_seconds_per_round": {
+        "mean": 25.858,
+        "min": 6.0,
+        "p50": 23.33,
+        "p95": 48.67,
+        "max": 64.33
+      },
+      "round_chars": {
+        "mean": 566.922,
+        "min": 144,
+        "p50": 514,
+        "p95": 1040,
+        "max": 1350
+      },
+      "eliminations_per_round": {
+        "mean": 3.083,
+        "min": 1,
+        "p50": 2,
+        "p95": 8,
+        "max": 9
+      },
+      "kinds": {
+        "kill": 1679,
+        "wipe": 1129,
+        "multi": 208,
+        "survive": 610,
+        "double": 152,
+        "moment": 383,
+        "revive": 73,
+        "find": 199,
+        "ambient": 221,
+        "duel": 200,
+        "call": 126,
+        "hazard": 47,
+        "transfer": 7
+      },
+      "second_chance_games": 175,
+      "second_chance_round": {
+        "mean": 3.08,
+        "min": 2,
+        "p50": 3,
+        "p95": 5,
+        "max": 5
+      },
+      "revives": {
+        "mean": 1.24,
+        "min": 0,
+        "p50": 1,
+        "p95": 2,
+        "max": 2
+      },
+      "quiet_rounds": 0,
+      "items_found": 199,
+      "items_recalled": 145,
+      "item_recall_rate": 0.7286,
+      "item_finals": 89,
+      "items_dropped_without_recall": 54,
+      "recent_hits": 0,
+      "repeats": 0,
+      "world": "convention",
+      "players": 20
+    },
+    {
+      "games": 200,
+      "rounds": {
+        "mean": 8.425,
+        "min": 8,
+        "p50": 8,
+        "p95": 9,
+        "max": 9
+      },
+      "scripted_seconds": {
+        "mean": 193.545,
+        "min": 167,
+        "p50": 193,
+        "p95": 213,
+        "max": 224
+      },
+      "fixed_10s_seconds": {
+        "mean": 79.25,
+        "min": 75,
+        "p50": 75,
+        "p95": 85,
+        "max": 85
+      },
+      "reading_seconds_per_round": {
+        "mean": 32.363,
+        "min": 6.0,
+        "p50": 26.33,
+        "p95": 72.0,
+        "max": 82.67
+      },
+      "round_chars": {
+        "mean": 699.608,
+        "min": 144,
+        "p50": 597,
+        "p95": 1501,
+        "max": 1753
+      },
+      "eliminations_per_round": {
+        "mean": 4.197,
+        "min": 1,
+        "p50": 3,
+        "p95": 12,
+        "max": 14
+      },
+      "kinds": {
+        "hazard": 102,
+        "kill": 2737,
+        "wipe": 1929,
+        "survive": 1017,
+        "moment": 572,
+        "multi": 446,
+        "find": 337,
+        "revive": 107,
+        "ambient": 223,
+        "duel": 200,
+        "call": 275,
+        "double": 243,
+        "transfer": 27
+      },
+      "second_chance_games": 165,
+      "second_chance_round": {
+        "mean": 4.667,
+        "min": 3,
+        "p50": 5,
+        "p95": 7,
+        "max": 7
+      },
+      "revives": {
+        "mean": 1.36,
+        "min": 0,
+        "p50": 1,
+        "p95": 2,
+        "max": 2
+      },
+      "quiet_rounds": 0,
+      "items_found": 337,
+      "items_recalled": 239,
+      "item_recall_rate": 0.7092,
+      "item_finals": 108,
+      "items_dropped_without_recall": 98,
+      "recent_hits": 0,
+      "repeats": 0,
+      "world": "convention",
+      "players": 35
+    },
+    {
+      "games": 200,
+      "rounds": {
+        "mean": 9.405,
+        "min": 9,
+        "p50": 9,
+        "p95": 10,
+        "max": 10
+      },
+      "scripted_seconds": {
+        "mean": 226.045,
+        "min": 198,
+        "p50": 224,
+        "p95": 250,
+        "max": 260
+      },
+      "fixed_10s_seconds": {
+        "mean": 89.05,
+        "min": 85,
+        "p50": 85,
+        "p95": 95,
+        "max": 95
+      },
+      "reading_seconds_per_round": {
+        "mean": 39.253,
+        "min": 6.0,
+        "p50": 32.33,
+        "p95": 79.33,
+        "max": 89.0
+      },
+      "round_chars": {
+        "mean": 852.514,
+        "min": 144,
+        "p50": 719,
+        "p95": 1746,
+        "max": 1954
+      },
+      "eliminations_per_round": {
+        "mean": 6.45,
+        "min": 1,
+        "p50": 4,
+        "p95": 21,
+        "max": 25
+      },
+      "kinds": {
+        "multi": 1594,
+        "double": 952,
+        "wipe": 2310,
+        "hazard": 160,
+        "kill": 3258,
+        "moment": 724,
+        "find": 326,
+        "survive": 1037,
+        "call": 279,
+        "ambient": 233,
+        "duel": 200,
+        "revive": 161,
+        "transfer": 19
+      },
+      "second_chance_games": 171,
+      "second_chance_round": {
+        "mean": 4.93,
+        "min": 3,
+        "p50": 5,
+        "p95": 7,
+        "max": 8
+      },
+      "revives": {
+        "mean": 1.66,
+        "min": 0,
+        "p50": 2,
+        "p95": 3,
+        "max": 3
+      },
+      "quiet_rounds": 0,
+      "items_found": 326,
+      "items_recalled": 239,
+      "item_recall_rate": 0.7331,
+      "item_finals": 82,
+      "items_dropped_without_recall": 87,
+      "recent_hits": 0,
+      "repeats": 5,
+      "world": "convention",
+      "players": 60
+    },
+    {
+      "games": 200,
+      "rounds": {
+        "mean": 10.435,
+        "min": 10,
+        "p50": 10,
+        "p95": 11,
+        "max": 11
+      },
+      "scripted_seconds": {
+        "mean": 258.63,
+        "min": 234,
+        "p50": 259,
+        "p95": 278,
+        "max": 288
+      },
+      "fixed_10s_seconds": {
+        "mean": 99.35,
+        "min": 95,
+        "p50": 95,
+        "p95": 105,
+        "max": 105
+      },
+      "reading_seconds_per_round": {
+        "mean": 44.806,
+        "min": 6.0,
+        "p50": 37.33,
+        "p95": 84.33,
+        "max": 94.33
+      },
+      "round_chars": {
+        "mean": 998.429,
+        "min": 144,
+        "p50": 822,
+        "p95": 2032,
+        "max": 2218
+      },
+      "eliminations_per_round": {
+        "mean": 9.656,
+        "min": 1,
+        "p50": 5,
+        "p95": 34,
+        "max": 36
+      },
+      "kinds": {
+        "hazard": 554,
+        "multi": 3094,
+        "double": 1900,
+        "kill": 3257,
+        "survive": 1033,
+        "wipe": 2294,
+        "moment": 657,
+        "find": 362,
+        "ambient": 238,
+        "call": 279,
+        "duel": 200,
+        "revive": 175,
+        "transfer": 23
+      },
+      "second_chance_games": 178,
+      "second_chance_round": {
+        "mean": 5.562,
+        "min": 3,
+        "p50": 6,
+        "p95": 9,
+        "max": 9
+      },
+      "revives": {
+        "mean": 1.765,
+        "min": 0,
+        "p50": 2,
+        "p95": 3,
+        "max": 3
+      },
+      "quiet_rounds": 0,
+      "items_found": 362,
+      "items_recalled": 256,
+      "item_recall_rate": 0.7072,
+      "item_finals": 105,
+      "items_dropped_without_recall": 106,
+      "recent_hits": 0,
+      "repeats": 222,
+      "world": "convention",
+      "players": 100
+    },
+    {
+      "games": 200,
+      "rounds": {
+        "mean": 11.59,
+        "min": 11,
+        "p50": 12,
+        "p95": 12,
+        "max": 12
+      },
+      "scripted_seconds": {
+        "mean": 293.625,
+        "min": 259,
+        "p50": 294,
+        "p95": 314,
+        "max": 320
+      },
+      "fixed_10s_seconds": {
+        "mean": 110.9,
+        "min": 105,
+        "p50": 115,
+        "p95": 115,
+        "max": 115
+      },
+      "reading_seconds_per_round": {
+        "mean": 49.946,
+        "min": 6.0,
+        "p50": 46.67,
+        "p95": 87.0,
+        "max": 95.0
+      },
+      "round_chars": {
+        "mean": 1137.787,
+        "min": 144,
+        "p50": 1005,
+        "p95": 2120,
+        "max": 2259
+      },
+      "eliminations_per_round": {
+        "mean": 13.01,
+        "min": 1,
+        "p50": 7,
+        "p95": 36,
+        "max": 36
+      },
+      "kinds": {
+        "hazard": 1107,
+        "double": 3005,
+        "multi": 4799,
+        "revive": 172,
+        "wipe": 2171,
+        "kill": 3286,
+        "survive": 1025,
+        "moment": 612,
+        "ambient": 234,
+        "duel": 200,
+        "find": 303,
+        "call": 253,
+        "transfer": 10
+      },
+      "second_chance_games": 186,
+      "second_chance_round": {
+        "mean": 6.849,
+        "min": 4,
+        "p50": 7,
+        "p95": 10,
+        "max": 10
+      },
+      "revives": {
+        "mean": 1.79,
+        "min": 1,
+        "p50": 2,
+        "p95": 3,
+        "max": 3
+      },
+      "quiet_rounds": 0,
+      "items_found": 303,
+      "items_recalled": 206,
+      "item_recall_rate": 0.6799,
+      "item_finals": 82,
+      "items_dropped_without_recall": 97,
+      "recent_hits": 0,
+      "repeats": 447,
+      "world": "convention",
+      "players": 150
+    },
+    {
+      "games": 200,
+      "rounds": {
+        "mean": 12.865,
+        "min": 12,
+        "p50": 13,
+        "p95": 13,
+        "max": 13
+      },
+      "scripted_seconds": {
+        "mean": 338.03,
+        "min": 312,
+        "p50": 340,
+        "p95": 351,
+        "max": 364
+      },
+      "fixed_10s_seconds": {
+        "mean": 123.65,
+        "min": 115,
+        "p50": 125,
+        "p95": 125,
+        "max": 125
+      },
+      "reading_seconds_per_round": {
+        "mean": 59.477,
+        "min": 6.0,
+        "p50": 77.67,
+        "p95": 89.0,
+        "max": 97.0
+      },
+      "round_chars": {
+        "mean": 1401.13,
+        "min": 144,
+        "p50": 1692,
+        "p95": 2163,
+        "max": 2331
+      },
+      "eliminations_per_round": {
+        "mean": 19.51,
+        "min": 1,
+        "p50": 18,
+        "p95": 36,
+        "max": 36
+      },
+      "kinds": {
+        "hazard": 2340,
+        "multi": 8290,
+        "double": 5162,
+        "revive": 201,
+        "kill": 2578,
+        "moment": 337,
+        "wipe": 1780,
+        "survive": 738,
+        "find": 236,
+        "call": 148,
+        "ambient": 188,
+        "duel": 200,
+        "transfer": 10
+      },
+      "second_chance_games": 198,
+      "second_chance_round": {
+        "mean": 7.222,
+        "min": 4,
+        "p50": 7,
+        "p95": 11,
+        "max": 11
+      },
+      "revives": {
+        "mean": 1.995,
+        "min": 0,
+        "p50": 2,
+        "p95": 3,
+        "max": 3
+      },
+      "quiet_rounds": 0,
+      "items_found": 236,
+      "items_recalled": 169,
+      "item_recall_rate": 0.7161,
+      "item_finals": 89,
+      "items_dropped_without_recall": 67,
+      "recent_hits": 0,
+      "repeats": 947,
+      "world": "convention",
+      "players": 250
+    }
+  ],
+  "edge_games": 4200,
+  "series": [
+    {
+      "games": 10,
+      "rounds": {
+        "mean": 5.5,
+        "min": 2,
+        "p50": 5,
+        "p95": 10,
+        "max": 10
+      },
+      "scripted_seconds": {
+        "mean": 112.6,
+        "min": 21,
+        "p50": 93,
+        "p95": 234,
+        "max": 234
+      },
+      "fixed_10s_seconds": {
+        "mean": 50,
+        "min": 15,
+        "p50": 45,
+        "p95": 95,
+        "max": 95
+      },
+      "reading_seconds_per_round": {
+        "mean": 29.43,
+        "min": 7.33,
+        "p50": 19.33,
+        "p95": 75.0,
+        "max": 79.33
+      },
+      "round_chars": {
+        "mean": 626.164,
+        "min": 161,
+        "p50": 442,
+        "p95": 1570,
+        "max": 1702
+      },
+      "eliminations_per_round": {
+        "mean": 3.8,
+        "min": 0,
+        "p50": 2,
+        "p95": 16,
+        "max": 19
+      },
+      "kinds": {
+        "ambient": 12,
+        "survive": 30,
+        "duel": 10,
+        "wipe": 50,
+        "find": 11,
+        "kill": 80,
+        "transfer": 1,
+        "revive": 6,
+        "moment": 15,
+        "call": 5,
+        "multi": 20,
+        "hazard": 1,
+        "double": 9
+      },
+      "second_chance_games": 4,
+      "second_chance_round": {
+        "mean": 3.25,
+        "min": 2,
+        "p50": 3,
+        "p95": 5,
+        "max": 5
+      },
+      "revives": {
+        "mean": 1,
+        "min": 0,
+        "p50": 1,
+        "p95": 3,
+        "max": 3
+      },
+      "quiet_rounds": 1,
+      "items_found": 11,
+      "items_recalled": 8,
+      "item_recall_rate": 0.7273,
+      "item_finals": 6,
+      "items_dropped_without_recall": 3,
+      "recent_hits": 3,
+      "repeats": 0,
+      "world": "garage",
+      "baseline_recent_hits": 88
+    },
+    {
+      "games": 10,
+      "rounds": {
+        "mean": 5.2,
+        "min": 2,
+        "p50": 5,
+        "p95": 9,
+        "max": 9
+      },
+      "scripted_seconds": {
+        "mean": 102.8,
+        "min": 18,
+        "p50": 85,
+        "p95": 227,
+        "max": 227
+      },
+      "fixed_10s_seconds": {
+        "mean": 47,
+        "min": 15,
+        "p50": 45,
+        "p95": 85,
+        "max": 85
+      },
+      "reading_seconds_per_round": {
+        "mean": 27.526,
+        "min": 7.0,
+        "p50": 19.67,
+        "p95": 72.67,
+        "max": 82.67
+      },
+      "round_chars": {
+        "mean": 593.692,
+        "min": 151,
+        "p50": 441,
+        "p95": 1536,
+        "max": 1830
+      },
+      "eliminations_per_round": {
+        "mean": 3.981,
+        "min": 0,
+        "p50": 2,
+        "p95": 14,
+        "max": 23
+      },
+      "kinds": {
+        "find": 11,
+        "survive": 21,
+        "ambient": 14,
+        "duel": 10,
+        "kill": 64,
+        "wipe": 37,
+        "multi": 23,
+        "moment": 16,
+        "hazard": 3,
+        "call": 5,
+        "double": 14,
+        "revive": 4
+      },
+      "second_chance_games": 4,
+      "second_chance_round": {
+        "mean": 3.25,
+        "min": 2,
+        "p50": 3,
+        "p95": 5,
+        "max": 5
+      },
+      "revives": {
+        "mean": 0.8,
+        "min": 0,
+        "p50": 0,
+        "p95": 3,
+        "max": 3
+      },
+      "quiet_rounds": 1,
+      "items_found": 11,
+      "items_recalled": 10,
+      "item_recall_rate": 0.9091,
+      "item_finals": 5,
+      "items_dropped_without_recall": 1,
+      "recent_hits": 15,
+      "repeats": 1,
+      "world": "redline",
+      "baseline_recent_hits": 95
+    },
+    {
+      "games": 10,
+      "rounds": {
+        "mean": 5.4,
+        "min": 2,
+        "p50": 5,
+        "p95": 10,
+        "max": 10
+      },
+      "scripted_seconds": {
+        "mean": 107.6,
+        "min": 19,
+        "p50": 87,
+        "p95": 242,
+        "max": 242
+      },
+      "fixed_10s_seconds": {
+        "mean": 49,
+        "min": 15,
+        "p50": 45,
+        "p95": 95,
+        "max": 95
+      },
+      "reading_seconds_per_round": {
+        "mean": 27.476,
+        "min": 7.0,
+        "p50": 20.0,
+        "p95": 79.33,
+        "max": 83.33
+      },
+      "round_chars": {
+        "mean": 589.444,
+        "min": 153,
+        "p50": 463,
+        "p95": 1673,
+        "max": 1801
+      },
+      "eliminations_per_round": {
+        "mean": 3.815,
+        "min": 0,
+        "p50": 2,
+        "p95": 14,
+        "max": 23
+      },
+      "kinds": {
+        "find": 8,
+        "survive": 26,
+        "ambient": 14,
+        "duel": 10,
+        "kill": 69,
+        "wipe": 43,
+        "multi": 20,
+        "moment": 13,
+        "double": 12,
+        "call": 3,
+        "hazard": 3,
+        "revive": 3
+      },
+      "second_chance_games": 4,
+      "second_chance_round": {
+        "mean": 3.25,
+        "min": 2,
+        "p50": 3,
+        "p95": 5,
+        "max": 5
+      },
+      "revives": {
+        "mean": 0.7,
+        "min": 0,
+        "p50": 0,
+        "p95": 2,
+        "max": 2
+      },
+      "quiet_rounds": 1,
+      "items_found": 8,
+      "items_recalled": 7,
+      "item_recall_rate": 0.875,
+      "item_finals": 6,
+      "items_dropped_without_recall": 1,
+      "recent_hits": 6,
+      "repeats": 0,
+      "world": "hunt",
+      "baseline_recent_hits": 82
+    },
+    {
+      "games": 10,
+      "rounds": {
+        "mean": 5.4,
+        "min": 2,
+        "p50": 5,
+        "p95": 9,
+        "max": 9
+      },
+      "scripted_seconds": {
+        "mean": 104.3,
+        "min": 20,
+        "p50": 74,
+        "p95": 231,
+        "max": 231
+      },
+      "fixed_10s_seconds": {
+        "mean": 49,
+        "min": 15,
+        "p50": 45,
+        "p95": 85,
+        "max": 85
+      },
+      "reading_seconds_per_round": {
+        "mean": 26.173,
+        "min": 8.0,
+        "p50": 18.33,
+        "p95": 75.67,
+        "max": 82.0
+      },
+      "round_chars": {
+        "mean": 574.778,
+        "min": 177,
+        "p50": 437,
+        "p95": 1565,
+        "max": 1751
+      },
+      "eliminations_per_round": {
+        "mean": 3.815,
+        "min": 0,
+        "p50": 2,
+        "p95": 14,
+        "max": 23
+      },
+      "kinds": {
+        "find": 7,
+        "survive": 24,
+        "duel": 10,
+        "kill": 76,
+        "ambient": 11,
+        "wipe": 42,
+        "multi": 19,
+        "moment": 15,
+        "double": 12,
+        "call": 2,
+        "revive": 2,
+        "hazard": 2
+      },
+      "second_chance_games": 5,
+      "second_chance_round": {
+        "mean": 4,
+        "min": 2,
+        "p50": 3,
+        "p95": 7,
+        "max": 7
+      },
+      "revives": {
+        "mean": 0.7,
+        "min": 0,
+        "p50": 0,
+        "p95": 2,
+        "max": 2
+      },
+      "quiet_rounds": 1,
+      "items_found": 7,
+      "items_recalled": 6,
+      "item_recall_rate": 0.8571,
+      "item_finals": 5,
+      "items_dropped_without_recall": 1,
+      "recent_hits": 2,
+      "repeats": 0,
+      "world": "nft",
+      "baseline_recent_hits": 74
+    },
+    {
+      "games": 10,
+      "rounds": {
+        "mean": 5.2,
+        "min": 2,
+        "p50": 5,
+        "p95": 9,
+        "max": 9
+      },
+      "scripted_seconds": {
+        "mean": 103.7,
+        "min": 19,
+        "p50": 83,
+        "p95": 232,
+        "max": 232
+      },
+      "fixed_10s_seconds": {
+        "mean": 47,
+        "min": 15,
+        "p50": 45,
+        "p95": 85,
+        "max": 85
+      },
+      "reading_seconds_per_round": {
+        "mean": 27.916,
+        "min": 7.33,
+        "p50": 19.0,
+        "p95": 78.0,
+        "max": 85.67
+      },
+      "round_chars": {
+        "mean": 589.654,
+        "min": 165,
+        "p50": 415,
+        "p95": 1563,
+        "max": 1857
+      },
+      "eliminations_per_round": {
+        "mean": 3.962,
+        "min": 0,
+        "p50": 2,
+        "p95": 14,
+        "max": 23
+      },
+      "kinds": {
+        "ambient": 12,
+        "find": 6,
+        "survive": 29,
+        "duel": 10,
+        "kill": 68,
+        "wipe": 46,
+        "multi": 22,
+        "moment": 14,
+        "revive": 3,
+        "hazard": 3,
+        "call": 1,
+        "double": 10
+      },
+      "second_chance_games": 4,
+      "second_chance_round": {
+        "mean": 3.25,
+        "min": 2,
+        "p50": 3,
+        "p95": 5,
+        "max": 5
+      },
+      "revives": {
+        "mean": 0.7,
+        "min": 0,
+        "p50": 0,
+        "p95": 3,
+        "max": 3
+      },
+      "quiet_rounds": 1,
+      "items_found": 6,
+      "items_recalled": 3,
+      "item_recall_rate": 0.5,
+      "item_finals": 2,
+      "items_dropped_without_recall": 3,
+      "recent_hits": 6,
+      "repeats": 0,
+      "world": "gulf",
+      "baseline_recent_hits": 85
+    },
+    {
+      "games": 10,
+      "rounds": {
+        "mean": 5.5,
+        "min": 2,
+        "p50": 5,
+        "p95": 10,
+        "max": 10
+      },
+      "scripted_seconds": {
+        "mean": 107.3,
+        "min": 19,
+        "p50": 76,
+        "p95": 241,
+        "max": 241
+      },
+      "fixed_10s_seconds": {
+        "mean": 50,
+        "min": 15,
+        "p50": 45,
+        "p95": 95,
+        "max": 95
+      },
+      "reading_seconds_per_round": {
+        "mean": 26.485,
+        "min": 7.67,
+        "p50": 18.67,
+        "p95": 76.0,
+        "max": 82.67
+      },
+      "round_chars": {
+        "mean": 577.4,
+        "min": 186,
+        "p50": 417,
+        "p95": 1632,
+        "max": 1839
+      },
+      "eliminations_per_round": {
+        "mean": 3.709,
+        "min": 0,
+        "p50": 2,
+        "p95": 14,
+        "max": 23
+      },
+      "kinds": {
+        "find": 10,
+        "survive": 32,
+        "duel": 10,
+        "kill": 62,
+        "ambient": 11,
+        "wipe": 42,
+        "multi": 17,
+        "double": 18,
+        "moment": 13,
+        "hazard": 3,
+        "call": 3,
+        "revive": 1
+      },
+      "second_chance_games": 4,
+      "second_chance_round": {
+        "mean": 3.25,
+        "min": 2,
+        "p50": 3,
+        "p95": 5,
+        "max": 5
+      },
+      "revives": {
+        "mean": 0.5,
+        "min": 0,
+        "p50": 0,
+        "p95": 2,
+        "max": 2
+      },
+      "quiet_rounds": 1,
+      "items_found": 10,
+      "items_recalled": 9,
+      "item_recall_rate": 0.9,
+      "item_finals": 7,
+      "items_dropped_without_recall": 1,
+      "recent_hits": 8,
+      "repeats": 0,
+      "world": "convention",
+      "baseline_recent_hits": 85
+    }
+  ],
+  "assumptions": {
+    "scripted_seconds": "3 + sum(adaptive pauses, minimum10/cap30) + final_pause(2), excludes lobby/network",
+    "reading_seconds": "180 English words/minute for round descriptions and SC results, estimation only"
+  },
+  "live_discord_tested": false
+}

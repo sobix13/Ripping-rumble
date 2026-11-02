@@ -1,0 +1,3 @@
+PASS: 14400 matrix games, 4200 edge games, 60 persisted series games
+Item identity, transfers, callbacks, final references, return timing and rendered message limits checked.
+Real Discord latency and spectator enjoyment were not tested.

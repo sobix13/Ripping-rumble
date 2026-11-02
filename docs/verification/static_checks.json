@@ -1,0 +1,8 @@
+{
+  "shell_syntax": "passed",
+  "systemd_unit_syntax": {
+    "exit_code": 0,
+    "stderr": "",
+    "mode": "executable and writable paths mapped to temporary fixtures, no systemd manager run"
+  }
+}
