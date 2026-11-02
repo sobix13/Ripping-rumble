@@ -408,6 +408,13 @@ async def test_restart_closes_saved_interrupted_lobby(tmp_path):
 
 
 async def test_double_stop_does_not_cancel_cleanup_twice(tmp_path):
+    class CountingTask(asyncio.Task):
+        cancel_calls = 0
+
+        def cancel(self, *args, **kwargs):
+            self.cancel_calls += 1
+            return super().cancel(*args, **kwargs)
+
     env = await make_runner(tmp_path, 'double-stop', real_bot=True)
     original = env.channel.send
     round_gate, cleanup_gate, cleanup_release = asyncio.Event(), asyncio.Event(), asyncio.Event()
@@ -422,14 +429,14 @@ async def test_double_stop_does_not_cancel_cleanup_twice(tmp_path):
         return await original(**kwargs)
 
     env.channel.send = held_messages
-    env.runner.task = asyncio.create_task(env.runner.run())
+    env.runner.task = CountingTask(env.runner.run())
     try:
         await asyncio.wait_for(round_gate.wait(), 2)
         assert env.bot.stop_game(env.guild.id) == 'stopped'
         await asyncio.wait_for(cleanup_gate.wait(), 2)
-        count = env.runner.task.cancelling()
+        count = env.runner.task.cancel_calls
         env.bot.stop_game(env.guild.id)
-        assert env.runner.task.cancelling() == count
+        assert count == 1 and env.runner.task.cancel_calls == count
         cleanup_release.set()
         await env.runner.task
         assert (await env.db.recent_games(env.guild.id))[0]['status'] == 'stopped'
