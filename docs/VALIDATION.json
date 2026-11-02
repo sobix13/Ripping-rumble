@@ -1,0 +1,42 @@
+{
+  "version": "1.2.0",
+  "python": "3.12.14",
+  "tests_passed": 221,
+  "tests_failed": 0,
+  "fresh_virtual_environment": true,
+  "dependency_check": "passed",
+  "default_simulation_games": 13200,
+  "experience_matrix_games": 14400,
+  "edge_games": 4200,
+  "persisted_series_games": 60,
+  "content_lines": 591,
+  "content_errors": 0,
+  "content_warnings": 0,
+  "real_local_boundaries": [
+    "SQLite online backup with committed WAL",
+    "verified restore and locks",
+    "local TCP HTTP health endpoint",
+    "threaded health shutdown race",
+    "deployment subprocess and systemctl fixtures",
+    "SDK UI construction and permission fixtures"
+  ],
+  "not_executed": [
+    "real Discord gateway with a bot token",
+    "actual systemd manager/watchdog and VPS installation",
+    "host off-site encrypted backup enrollment",
+    "Python3.10 CI execution",
+    "remote GitHub CI run"
+  ],
+  "limits": {
+    "second_uid": "Host rejected chown to65534 with EINVAL. No unprivileged OS account run is claimed.",
+    "fresh_archive_staging": "Final bundle validation includes the exact source manifest hash and staging marker."
+  },
+  "github_actions": {
+    "configured": true,
+    "python_versions": [
+      "3.10",
+      "3.12"
+    ],
+    "remote_run": false
+  }
+}

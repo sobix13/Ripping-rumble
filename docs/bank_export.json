@@ -1,0 +1,5858 @@
+{
+ "generic": {
+  "kill": [
+   {
+    "text": "{A} hit {B} with a {model}. Die-cast, full swing. Goodnight, {B}.",
+    "vibe": "slap",
+    "tags": [],
+    "id": "g.kill.0"
+   },
+   {
+    "text": "{A} pushed {B} into the gacha garage. The claw kept {B} as a prize.",
+    "vibe": "slap",
+    "tags": [
+     "rc"
+    ],
+    "id": "g.kill.1"
+   },
+   {
+    "text": "{A} sold {B} a fake {grail}. {B} found out in front of the whole server and evaporated.",
+    "vibe": "slap",
+    "tags": [
+     "modern"
+    ],
+    "id": "g.kill.2"
+   },
+   {
+    "text": "{A} told {B} the {grail} restock was live. {B} ran out the door and is still running.",
+    "vibe": "slap",
+    "tags": [],
+    "id": "g.kill.3"
+   },
+   {
+    "text": "{A} pulled a {grail} right next to {B}. {B}'s heart stopped from pure envy.",
+    "vibe": "slap",
+    "tags": [],
+    "id": "g.kill.4"
+   },
+   {
+    "text": "{A} hid a {model} in {B}'s cereal. Crunch. {B} is out.",
+    "vibe": "slap",
+    "tags": [],
+    "id": "g.kill.5"
+   },
+   {
+    "text": "{A} launched {B} off the top of a track loop. {B} has not landed yet.",
+    "vibe": "slap",
+    "tags": [],
+    "id": "g.kill.6"
+   },
+   {
+    "text": "{A} sealed {B} in a blister and put {B} on a supermarket peg. {B} is still waiting for someone to buy them.",
+    "vibe": "slap",
+    "tags": [],
+    "id": "g.kill.7"
+   },
+   {
+    "text": "{A} sneezed on {B}'s mint card. {B} fainted and never woke up.",
+    "vibe": "col",
+    "tags": [],
+    "id": "g.kill.8"
+   },
+   {
+    "text": "{A} outbid {B} by one dollar. {B} turned to dust.",
+    "vibe": "col",
+    "tags": [],
+    "id": "g.kill.9"
+   },
+   {
+    "text": "{A} left a {model} on {B}'s chair. {B} sat down, shot through the ceiling and left the rumble.",
+    "vibe": "slap",
+    "tags": [],
+    "id": "g.kill.10"
+   },
+   {
+    "text": "{A} rolls a decoy {model} down the exit ramp. {B} follows it through the shutter and misses the restart. Out.",
+    "vibe": "heist",
+    "tags": [],
+    "id": "g.kill.11"
+   },
+   {
+    "text": "{A} rolled a {model} under {B}'s foot at the top of the stairs. Gravity did the rest.",
+    "vibe": "slap",
+    "tags": [],
+    "id": "g.kill.12"
+   },
+   {
+    "text": "{A} paid the claw to grab {B}. The claw dropped {B} in a different server.",
+    "vibe": "slap",
+    "tags": [
+     "rc",
+     "modern"
+    ],
+    "id": "g.kill.13"
+   },
+   {
+    "text": "{A} and {B} reached for the last {model} on the peg. {A} left with it. {B} left in an ambulance.",
+    "vibe": "col",
+    "tags": [],
+    "id": "g.kill.14"
+   },
+   {
+    "text": "{A} told {B} their {grail} was a reproduction. {B} crumbled like an old card.",
+    "vibe": "col",
+    "tags": [],
+    "id": "g.kill.15"
+   },
+   {
+    "text": "{A} rolled the gacha garage downhill. {B} was standing at the bottom.",
+    "vibe": "slap",
+    "tags": [
+     "rc"
+    ],
+    "id": "g.kill.16"
+   },
+   {
+    "text": "{A} threw a 50-pack at {B}. Direct hit. {B} is out.",
+    "vibe": "slap",
+    "tags": [],
+    "id": "g.kill.17"
+   },
+   {
+    "text": "{A} buries {B} under a stack of collector catalogues. By the time {B} crawls out, their heat is over.",
+    "vibe": "slap",
+    "tags": [],
+    "id": "g.kill.18"
+   },
+   {
+    "text": "{A} hid {B}'s favorite {model}. {B} is still looking. The rumble moved on.",
+    "vibe": "slap",
+    "tags": [],
+    "id": "g.kill.19"
+   },
+   {
+    "text": "{A} mailed {B} to a collector in a bubble mailer. Tracking says delivered. {B} says help.",
+    "vibe": "slap",
+    "tags": [],
+    "id": "g.kill.20"
+   },
+   {
+    "text": "{A} drop-kicked {B} into the dump bin. Lost forever among 400 commons.",
+    "vibe": "slap",
+    "tags": [],
+    "id": "g.kill.21"
+   },
+   {
+    "text": "{A} opened {B}'s carded {grail} to play with it. {B}'s soul left the building.",
+    "vibe": "col",
+    "tags": [],
+    "id": "g.kill.22"
+   },
+   {
+    "text": "{A} flicked a {model} across the table and hit {B} right in the forehead. Clean elimination.",
+    "vibe": "slap",
+    "tags": [],
+    "id": "g.kill.23"
+   },
+   {
+    "text": "{A} pretended to be a mod and banned {B}. Not even a real mod. Still worked.",
+    "vibe": "meta",
+    "tags": [
+     "modern"
+    ],
+    "id": "g.kill.24"
+   },
+   {
+    "text": "{A} gave {B} a free pack. The pack had teeth. It ate {B}.",
+    "vibe": "surreal",
+    "tags": [],
+    "id": "g.kill.25"
+   },
+   {
+    "text": "{A} stuck a magnet on {B}'s belt. The claw grabbed {B} and never let go.",
+    "vibe": "slap",
+    "tags": [
+     "rc"
+    ],
+    "id": "g.kill.26"
+   },
+   {
+    "text": "{A} tied {B}'s shoelaces to the track launcher and hit the switch.",
+    "vibe": "slap",
+    "tags": [],
+    "id": "g.kill.27"
+   },
+   {
+    "text": "{A} let {B} hold a {grail} for one second. {B} dropped it. The crowd carried {B} away.",
+    "vibe": "col",
+    "tags": [],
+    "id": "g.kill.28"
+   },
+   {
+    "text": "{A} dared {B} to open a sealed {grail}. {B} did it. The collectors are still chasing {B}.",
+    "vibe": "col",
+    "tags": [],
+    "id": "g.kill.29"
+   },
+   {
+    "text": "{A} swapped {B}'s glasses for 1:64 scale glasses. {B} walked straight into a display case.",
+    "vibe": "slap",
+    "tags": [],
+    "id": "g.kill.30"
+   },
+   {
+    "text": "{A} wrote {B}'s name on the return label. {B} got shipped back to the factory.",
+    "vibe": "slap",
+    "tags": [],
+    "id": "g.kill.31"
+   },
+   {
+    "text": "{A} spilled soda on {B}'s card. Soggy corners. {B} is gone.",
+    "vibe": "col",
+    "tags": [],
+    "id": "g.kill.32"
+   },
+   {
+    "text": "{A} beat {B} in a rip battle, 10 pulls to zero. {B} sold the account and moved to the woods.",
+    "vibe": "slap",
+    "tags": [
+     "modern"
+    ],
+    "id": "g.kill.33"
+   },
+   {
+    "text": "{A} challenged {B} to a staring contest over a {grail}. {B} blinked first and turned to dust.",
+    "vibe": "slap",
+    "tags": [],
+    "id": "g.kill.34"
+   },
+   {
+    "text": "{A} made {B}'s worst pull the server banner. {B} left and changed their name.",
+    "vibe": "meta",
+    "tags": [
+     "modern"
+    ],
+    "id": "g.kill.35"
+   },
+   {
+    "text": "{A} faked a {grail} restock in general chat. {B} sprinted to the store and hit the doors before they opened.",
+    "vibe": "slap",
+    "tags": [
+     "modern"
+    ],
+    "id": "g.kill.36"
+   },
+   {
+    "text": "{A} put {B} in the buyback queue. {B} came out as 90% of a person.",
+    "vibe": "slap",
+    "tags": [
+     "rc"
+    ],
+    "id": "g.kill.37"
+   },
+   {
+    "text": "{A} told {B} the claw was friendly. {B} tried to pet it.",
+    "vibe": "slap",
+    "tags": [
+     "rc"
+    ],
+    "id": "g.kill.38"
+   },
+   {
+    "text": "{A} put a 'FREE {grail}' sign on a trapdoor. {B} stepped right on it.",
+    "vibe": "slap",
+    "tags": [],
+    "id": "g.kill.39"
+   },
+   {
+    "text": "{A} took the inside line at the last corner. {B} took the wall.",
+    "vibe": "race",
+    "tags": [],
+    "id": "g.kill.40"
+   },
+   {
+    "text": "{A} pulls out of {B}'s slipstream on the deciding straight. {B} crosses second and leaves the elimination heat.",
+    "vibe": "race",
+    "tags": [
+     "modern"
+    ],
+    "id": "g.kill.41"
+   },
+   {
+    "text": "Commentary box: '{A} goes for the gap, and {B} is in the gravel!' Unbelievable scenes.",
+    "vibe": "race",
+    "tags": [],
+    "id": "g.kill.42"
+   },
+   {
+    "text": "{A} brake-checked {B} on the main straight. {B} is a wall decoration now.",
+    "vibe": "race",
+    "tags": [],
+    "id": "g.kill.43"
+   },
+   {
+    "text": "{A} makes the tyre stop. {B} stays out until a puncture ends their race.",
+    "vibe": "race",
+    "tags": [],
+    "id": "g.kill.44"
+   },
+   {
+    "text": "{A}'s pit crew finishes the stop. {B}'s jack jams, and their entry misses the elimination restart.",
+    "vibe": "race",
+    "tags": [],
+    "id": "g.kill.45"
+   },
+   {
+    "text": "{A} sends it down the inside from three rows back. {B} slides into the gravel and retires from the heat.",
+    "vibe": "race",
+    "tags": [],
+    "id": "g.kill.46"
+   },
+   {
+    "text": "{A} and {B} went into Turn 1 side by side. Only {A} came out of it.",
+    "vibe": "race",
+    "tags": [],
+    "id": "g.kill.47"
+   },
+   {
+    "text": "{A} wins the shelf-side race by a wheel. {B}'s display entry crosses second and leaves the bracket.",
+    "vibe": "heist",
+    "tags": [],
+    "id": "g.kill.48"
+   },
+   {
+    "text": "{A} switches the finish flag to the correct lane. {B} celebrates at the wrong line and misses the real finish. Out.",
+    "vibe": "heist",
+    "tags": [],
+    "id": "g.kill.49"
+   },
+   {
+    "text": "Lights out. Lights on. {B} has followed a decoy {model} through the exit. {A} is still at the starting line, whistling.",
+    "vibe": "heist",
+    "tags": [],
+    "id": "g.kill.50"
+   },
+   {
+    "text": "{A} loads {B}'s shelf onto a delivery trolley. {B} follows it through the exit and misses the deciding heat.",
+    "vibe": "heist",
+    "tags": [],
+    "id": "g.kill.51"
+   },
+   {
+    "text": "{A} picked the lock on {B}'s display case in four seconds. {B} fainted at three.",
+    "vibe": "heist",
+    "tags": [],
+    "id": "g.kill.52"
+   },
+   {
+    "text": "{A} rolls a decoy {model} toward the exit. {B} chases it out, and the elimination gate closes behind them.",
+    "vibe": "heist",
+    "tags": [],
+    "id": "g.kill.53"
+   },
+   {
+    "text": "{A} enters the lane with a {model}. {B} enters a paper cutout. The cutout folds at the launcher. {B} is out.",
+    "vibe": "heist",
+    "tags": [],
+    "id": "g.kill.54"
+   },
+   {
+    "text": "{A} pointed out a tiny scratch on {B}'s mint card. {B} has not slept since. {B} is out.",
+    "vibe": "col",
+    "tags": [],
+    "id": "g.kill.55"
+   },
+   {
+    "text": "{A} told {B} the {model} they paid big for is a peg warmer. {B} turned to dust.",
+    "vibe": "col",
+    "tags": [],
+    "id": "g.kill.56"
+   },
+   {
+    "text": "{A} showed {B} a cleaner card of the same {model}. {B} retired from collecting.",
+    "vibe": "col",
+    "tags": [],
+    "id": "g.kill.57"
+   },
+   {
+    "text": "{A}'s loose {model} clears the lane. {B}'s unopened blister jams at the launcher. This heat needs wheels on track. {B} is out.",
+    "vibe": "col",
+    "tags": [],
+    "id": "g.kill.58"
+   },
+   {
+    "text": "{A} and {B} hunted the last {grail} at the same store. The cashier picked {A}. {B} is out.",
+    "vibe": "col",
+    "tags": [],
+    "id": "g.kill.59"
+   },
+   {
+    "text": "{A} found a dent in {B}'s blister with a ruler. {B} left the hobby that night.",
+    "vibe": "col",
+    "tags": [],
+    "id": "g.kill.60"
+   },
+   {
+    "text": "{A} offered {B} market price for a {model}. {B} checked the market and fainted.",
+    "vibe": "col",
+    "tags": [],
+    "id": "g.kill.61"
+   },
+   {
+    "text": "{A} trades {B} down to one common and a hot dog. {B} heads home before their deciding heat. Out.",
+    "vibe": "col",
+    "tags": [],
+    "id": "g.kill.62"
+   },
+   {
+    "text": "{A} front-ran {B}'s rip and pulled the {grail} first. {B} is out.",
+    "vibe": "degen",
+    "tags": [
+     "onchain"
+    ],
+    "id": "g.kill.63"
+   },
+   {
+    "text": "{A} paid a higher priority fee. {B}'s transaction never landed.",
+    "vibe": "degen",
+    "tags": [
+     "onchain",
+     "modern"
+    ],
+    "id": "g.kill.64"
+   },
+   {
+    "text": "{A} sold the top to {B}. {B} is still holding the bag.",
+    "vibe": "degen",
+    "tags": [
+     "onchain"
+    ],
+    "id": "g.kill.65"
+   },
+   {
+    "text": "{A} airdropped {B} a fake pack. {B} signed it. {B} is gone.",
+    "vibe": "degen",
+    "tags": [
+     "onchain"
+    ],
+    "id": "g.kill.66"
+   },
+   {
+    "text": "{A} told {B} the floor only goes up. {B} believed it. {B} is out.",
+    "vibe": "degen",
+    "tags": [
+     "onchain"
+    ],
+    "id": "g.kill.67"
+   },
+   {
+    "text": "{A} whispers the {grail}'s true name to {B}. {B} shrinks to 1:64 scale and fails to reach the starting gate before it closes.",
+    "vibe": "surreal",
+    "tags": [],
+    "id": "g.kill.68"
+   },
+   {
+    "text": "{A} opened a portal behind the dump bin. {B} walked through it looking for restocks.",
+    "vibe": "surreal",
+    "tags": [],
+    "id": "g.kill.69"
+   },
+   {
+    "text": "{A} challenged {B} to a duel at high noon. {B} brought a {model}. {A} brought a monster truck.",
+    "vibe": "surreal",
+    "tags": [],
+    "id": "g.kill.70"
+   },
+   {
+    "text": "{A} folded {B} like a card back and slid {B} into a blister.",
+    "vibe": "surreal",
+    "tags": [],
+    "id": "g.kill.71"
+   },
+   {
+    "text": "Slow motion. {A} turns. {B} reaches for the {grail}. Too slow. {B} is out.",
+    "vibe": "cine",
+    "tags": [],
+    "id": "g.kill.72"
+   },
+   {
+    "text": "{A} flips the track switch. {B} lands in the return bin instead of the finish tray. End of the heat for {B}.",
+    "vibe": "cine",
+    "tags": [],
+    "id": "g.kill.73"
+   },
+   {
+    "text": "{A} looked {B} in the eye, said 'nothing personal' and launched {B} into orbit.",
+    "vibe": "cine",
+    "tags": [],
+    "id": "g.kill.74"
+   }
+  ],
+  "wipe": [
+   {
+    "text": "{A} swallowed a {model} to keep it safe. Choked to death. The {model} is fine.",
+    "vibe": "slap",
+    "tags": [],
+    "id": "g.wipe.0"
+   },
+   {
+    "text": "{A} climbed into the gacha garage to fix the claw. Got trapped. In there forever now. RIP {A}.",
+    "vibe": "slap",
+    "tags": [
+     "rc"
+    ],
+    "id": "g.wipe.1"
+   },
+   {
+    "text": "{A} pulled a {grail} on the first rip, screamed and died of happiness.",
+    "vibe": "slap",
+    "tags": [],
+    "id": "g.wipe.2"
+   },
+   {
+    "text": "{A} opened a {pack} sure it held a {grail}. The {pack} was fake. {A} burst into flames from grief.",
+    "vibe": "slap",
+    "tags": [],
+    "id": "g.wipe.3"
+   },
+   {
+    "text": "{A} tried to smell a {model} through the blister and inhaled the blister.",
+    "vibe": "slap",
+    "tags": [],
+    "id": "g.wipe.4"
+   },
+   {
+    "text": "{A} kissed the gacha garage for luck. Their lips are still stuck to it.",
+    "vibe": "slap",
+    "tags": [
+     "rc"
+    ],
+    "id": "g.wipe.5"
+   },
+   {
+    "text": "{A} built a track loop from the roof to the pool. Rode it. Missed the pool.",
+    "vibe": "slap",
+    "tags": [],
+    "id": "g.wipe.6"
+   },
+   {
+    "text": "{A} camped outside the store at 5 AM for a {model} restock. Froze solid at 5:20.",
+    "vibe": "col",
+    "tags": [],
+    "id": "g.wipe.7"
+   },
+   {
+    "text": "{A} tried to rip a {pack} open with their teeth. The {pack} ripped {A} instead.",
+    "vibe": "slap",
+    "tags": [],
+    "id": "g.wipe.8"
+   },
+   {
+    "text": "{A} looked up the price of a {grail} and fainted. Never woke up.",
+    "vibe": "col",
+    "tags": [],
+    "id": "g.wipe.9"
+   },
+   {
+    "text": "{A} told the whole server their {model} was worth millions. Got a price check. Evaporated.",
+    "vibe": "col",
+    "tags": [
+     "modern"
+    ],
+    "id": "g.wipe.10"
+   },
+   {
+    "text": "{A} fell asleep inside the gacha garage. The claw thought {A} was a prize and shipped {A} to a winner in Ohio.",
+    "vibe": "slap",
+    "tags": [
+     "rc"
+    ],
+    "id": "g.wipe.11"
+   },
+   {
+    "text": "{A} got shrink-wrapped at the packing station. Mint forever. Unable to move.",
+    "vibe": "slap",
+    "tags": [],
+    "id": "g.wipe.12"
+   },
+   {
+    "text": "{A} found a waffle and ate it. It was a free pull. {A} ate a free pull. Out of pulls, out of the rumble.",
+    "vibe": "slap",
+    "tags": [
+     "rc"
+    ],
+    "id": "g.wipe.13"
+   },
+   {
+    "text": "{A} spends the deciding heat counting spare change. The starting gate closes without their entry. Out.",
+    "vibe": "slap",
+    "tags": [],
+    "id": "g.wipe.14"
+   },
+   {
+    "text": "{A} stared at a {grail} too long and turned to stone. Shiny stone, at least.",
+    "vibe": "surreal",
+    "tags": [],
+    "id": "g.wipe.15"
+   },
+   {
+    "text": "{A} raced a {model} against a city bus. The bus won. {A} was standing on the finish line.",
+    "vibe": "slap",
+    "tags": [],
+    "id": "g.wipe.16"
+   },
+   {
+    "text": "{A} cleaned the claw with a wet towel. Got zapped. Hair stands straight up forever.",
+    "vibe": "slap",
+    "tags": [
+     "rc"
+    ],
+    "id": "g.wipe.17"
+   },
+   {
+    "text": "{A} pulled the same common 40 times in a row and retired to a farm.",
+    "vibe": "slap",
+    "tags": [],
+    "id": "g.wipe.18"
+   },
+   {
+    "text": "{A} sold a {grail} to buyback by mistake and screamed so hard they left orbit.",
+    "vibe": "slap",
+    "tags": [
+     "rc"
+    ],
+    "id": "g.wipe.19"
+   },
+   {
+    "text": "{A} filmed a slow-motion unboxing. It took three days. The rumble moved on without them.",
+    "vibe": "slap",
+    "tags": [
+     "modern"
+    ],
+    "id": "g.wipe.20"
+   },
+   {
+    "text": "{A} broke the house rule and called a Hot Wheels by the wrong name in front of The Ripper. Nobody has seen {A} since.",
+    "vibe": "meta",
+    "tags": [],
+    "id": "g.wipe.21"
+   },
+   {
+    "text": "{A} put a {model} in the microwave to see what happens. Now everyone knows. {A} is out.",
+    "vibe": "slap",
+    "tags": [
+     "modern"
+    ],
+    "id": "g.wipe.22"
+   },
+   {
+    "text": "{A} unboxed live on stream. Chat roasted {A} until there was nothing left.",
+    "vibe": "meta",
+    "tags": [
+     "modern"
+    ],
+    "id": "g.wipe.23"
+   },
+   {
+    "text": "{A} stepped on a loose {model} barefoot at 3 AM. Screamed so loud they left the rumble.",
+    "vibe": "slap",
+    "tags": [],
+    "id": "g.wipe.24"
+   },
+   {
+    "text": "{A} lost the seed phrase. The garage forgot {A} ever existed.",
+    "vibe": "degen",
+    "tags": [
+     "onchain",
+     "modern"
+    ],
+    "id": "g.wipe.25"
+   },
+   {
+    "text": "{A} clicked a 'free {grail}' link. Rugged in four seconds.",
+    "vibe": "degen",
+    "tags": [
+     "onchain"
+    ],
+    "id": "g.wipe.26"
+   },
+   {
+    "text": "{A} hugged the gacha garage too hard. The garage hugged back.",
+    "vibe": "slap",
+    "tags": [
+     "rc"
+    ],
+    "id": "g.wipe.27"
+   },
+   {
+    "text": "{A} trades their collection for a {grail} sticker. They spend the deciding heat at the refund desk. Out.",
+    "vibe": "col",
+    "tags": [],
+    "id": "g.wipe.28"
+   },
+   {
+    "text": "{A} opened a {pack} so carefully it took a week. Starved halfway through.",
+    "vibe": "slap",
+    "tags": [],
+    "id": "g.wipe.29"
+   },
+   {
+    "text": "{A} chased a {model} under the fridge. Got stuck under the fridge. Lives there now.",
+    "vibe": "slap",
+    "tags": [],
+    "id": "g.wipe.30"
+   },
+   {
+    "text": "{A} pressed their face on a protector case to see a {grail} up close. Head stuck. Mint, sealed, out.",
+    "vibe": "slap",
+    "tags": [],
+    "id": "g.wipe.31"
+   },
+   {
+    "text": "{A} won the auction for a {grail}, then saw the shipping cost. Collapsed.",
+    "vibe": "col",
+    "tags": [],
+    "id": "g.wipe.32"
+   },
+   {
+    "text": "{A} tried to outrun the claw. The claw does not get tired.",
+    "vibe": "slap",
+    "tags": [
+     "rc"
+    ],
+    "id": "g.wipe.33"
+   },
+   {
+    "text": "{A} reorganized the shelf one last time. The shelf fell on {A}. Buried in blisters.",
+    "vibe": "col",
+    "tags": [],
+    "id": "g.wipe.34"
+   },
+   {
+    "text": "{A} yelled LFRIP so loud the roof came down.",
+    "vibe": "meta",
+    "tags": [],
+    "id": "g.wipe.35"
+   },
+   {
+    "text": "{A} checked a {model} with a magnifying glass in the sun. Set the {model} on fire. Then the table. Then {A}.",
+    "vibe": "slap",
+    "tags": [],
+    "id": "g.wipe.36"
+   },
+   {
+    "text": "{A} squeezed into a display case to feel what a {grail} feels. Fit perfectly. Stuck forever.",
+    "vibe": "surreal",
+    "tags": [],
+    "id": "g.wipe.37"
+   },
+   {
+    "text": "{A} pulled a {grail} and texted mom. Mom sold it. {A} is out.",
+    "vibe": "slap",
+    "tags": [
+     "modern"
+    ],
+    "id": "g.wipe.38"
+   },
+   {
+    "text": "{A} opened a {pack} and found a smaller {pack} inside. Then a smaller one. {A} is still opening.",
+    "vibe": "surreal",
+    "tags": [],
+    "id": "g.wipe.39"
+   },
+   {
+    "text": "{A} listed a common at {grail} prices. The server laughed {A} out of the rumble.",
+    "vibe": "col",
+    "tags": [
+     "modern"
+    ],
+    "id": "g.wipe.40"
+   },
+   {
+    "text": "{A} finally pulled their grail, said 'I'm good' and walked off into the sunset. Retired happy.",
+    "vibe": "warm",
+    "tags": [],
+    "id": "g.wipe.41"
+   },
+   {
+    "text": "{A} gave their last pack to a new ripper and left with a smile. Legend move.",
+    "vibe": "warm",
+    "tags": [],
+    "id": "g.wipe.42"
+   },
+   {
+    "text": "{A} stopped to help someone pick up a dropped collection and missed the rest of the race. Worth it.",
+    "vibe": "warm",
+    "tags": [],
+    "id": "g.wipe.43"
+   },
+   {
+    "text": "{A} pulled a common, loved it anyway and went home happy. Out, but at peace.",
+    "vibe": "warm",
+    "tags": [],
+    "id": "g.wipe.44"
+   },
+   {
+    "text": "{A} got so busy hyping everyone else's pulls that they forgot to play. Out, but beloved.",
+    "vibe": "warm",
+    "tags": [],
+    "id": "g.wipe.45"
+   },
+   {
+    "text": "{A} retired to open a tiny shop for loose commons. Business is slow. Life is good.",
+    "vibe": "warm",
+    "tags": [],
+    "id": "g.wipe.46"
+   },
+   {
+    "text": "{A} spent the whole lap sorting by casting year. Got sorted out of the rumble.",
+    "vibe": "col",
+    "tags": [],
+    "id": "g.wipe.47"
+   },
+   {
+    "text": "{A} found a card variation nobody has heard of and left to write a 40-page post about it.",
+    "vibe": "col",
+    "tags": [],
+    "id": "g.wipe.48"
+   },
+   {
+    "text": "{A} bought a second shelf. Then a third. The floor gave in. {A} lives in the basement now.",
+    "vibe": "col",
+    "tags": [],
+    "id": "g.wipe.49"
+   },
+   {
+    "text": "{A} opened their own carded {grail} at 3 AM 'to see it once'. Value gone. Soul gone.",
+    "vibe": "col",
+    "tags": [],
+    "id": "g.wipe.50"
+   },
+   {
+    "text": "{A} refreshed the restock page until the browser gave up. Then {A} gave up too.",
+    "vibe": "col",
+    "tags": [
+     "modern"
+    ],
+    "id": "g.wipe.51"
+   },
+   {
+    "text": "{A} argued about the right shade of red for six hours. Was wrong. Left in silence.",
+    "vibe": "col",
+    "tags": [],
+    "id": "g.wipe.52"
+   },
+   {
+    "text": "{A} went full send into the hairpin and forgot brakes exist.",
+    "vibe": "race",
+    "tags": [],
+    "id": "g.wipe.53"
+   },
+   {
+    "text": "{A} pitted for fuel. The crew filled it with orange soda.",
+    "vibe": "race",
+    "tags": [],
+    "id": "g.wipe.54"
+   },
+   {
+    "text": "{A} bounced off the rev limiter for a full lap. The engine quit and took {A} with it.",
+    "vibe": "race",
+    "tags": [],
+    "id": "g.wipe.55"
+   },
+   {
+    "text": "{A} ran slicks in the rain. {A} is a boat now.",
+    "vibe": "race",
+    "tags": [],
+    "id": "g.wipe.56"
+   },
+   {
+    "text": "{A} ran out of fuel ten meters from the line. Pushed. Did not make it.",
+    "vibe": "race",
+    "tags": [],
+    "id": "g.wipe.57"
+   },
+   {
+    "text": "{A} does a victory burnout before the deciding heat. Tyres gone, entry withdrawn.",
+    "vibe": "race",
+    "tags": [],
+    "id": "g.wipe.58"
+   },
+   {
+    "text": "{A} squeezes inside a display blister. The lid clicks shut. The next heat starts without them.",
+    "vibe": "surreal",
+    "tags": [],
+    "id": "g.wipe.59"
+   },
+   {
+    "text": "{A} rode the orange track so many times they became the orange track.",
+    "vibe": "surreal",
+    "tags": [],
+    "id": "g.wipe.60"
+   },
+   {
+    "text": "{A} looked straight into a {grail}'s headlights and saw the future. The future did not include {A}.",
+    "vibe": "surreal",
+    "tags": [],
+    "id": "g.wipe.61"
+   },
+   {
+    "text": "{A} got abducted by aliens looking for a {model}. They were disappointed. {A} stayed up there anyway.",
+    "vibe": "surreal",
+    "tags": [],
+    "id": "g.wipe.62"
+   },
+   {
+    "text": "{A} shrank to 1:64 scale and got lost in the carpet.",
+    "vibe": "surreal",
+    "tags": [],
+    "id": "g.wipe.63"
+   },
+   {
+    "text": "{A} bridged their pulls to the wrong chain. Gone forever.",
+    "vibe": "degen",
+    "tags": [
+     "onchain"
+    ],
+    "id": "g.wipe.64"
+   },
+   {
+    "text": "{A} aped into a pack at 3 AM, woke up, read the receipt and fainted.",
+    "vibe": "degen",
+    "tags": [
+     "modern"
+    ],
+    "id": "g.wipe.65"
+   },
+   {
+    "text": "{A} went all in on a 'guaranteed' {grail}. Nothing is guaranteed. {A} is out.",
+    "vibe": "degen",
+    "tags": [],
+    "id": "g.wipe.66"
+   },
+   {
+    "text": "Thunder. Rain. {A} holds an empty {pack} outside the locked starting gate. Their heat ends inside. Fade to black.",
+    "vibe": "cine",
+    "tags": [],
+    "id": "g.wipe.67"
+   },
+   {
+    "text": "{A} whispered 'one more rip'. Those were their last words.",
+    "vibe": "cine",
+    "tags": [],
+    "id": "g.wipe.68"
+   },
+   {
+    "text": "The music stops. The lights dim. {A} is gone, and only the {model} remains.",
+    "vibe": "cine",
+    "tags": [],
+    "id": "g.wipe.69"
+   }
+  ],
+  "multi": [
+   {
+    "text": "{A} kicked the gacha garage. The claw went wild and grabbed {B} and {C}.",
+    "vibe": "slap",
+    "tags": [
+     "rc"
+    ],
+    "id": "g.multi.0"
+   },
+   {
+    "text": "{A} spilled a box of loose Hot Wheels on the stairs. {B} and {C} took the fast way down.",
+    "vibe": "slap",
+    "tags": [],
+    "id": "g.multi.1"
+   },
+   {
+    "text": "{A} yelled 'free {grail}' at the back of the room. {B} and {C} crashed into each other at full speed.",
+    "vibe": "slap",
+    "tags": [],
+    "id": "g.multi.2"
+   },
+   {
+    "text": "{A} pulled a {grail} in front of {B} and {C}. Both fainted at the same time.",
+    "vibe": "slap",
+    "tags": [],
+    "id": "g.multi.3"
+   },
+   {
+    "text": "{A} sealed {B} and {C} in a two-pack. Sold as a set.",
+    "vibe": "slap",
+    "tags": [],
+    "id": "g.multi.4"
+   },
+   {
+    "text": "{A} hit the track launcher too hard. {B} and {C} got fired into the next server.",
+    "vibe": "slap",
+    "tags": [
+     "modern"
+    ],
+    "id": "g.multi.5"
+   },
+   {
+    "text": "{A} started a {grail} restock rumor. {B} and {C} camped outside the store until they turned into furniture.",
+    "vibe": "slap",
+    "tags": [],
+    "id": "g.multi.6"
+   },
+   {
+    "text": "{A} bowled a {model} down the hallway. Strike. {B} and {C} are down.",
+    "vibe": "slap",
+    "tags": [],
+    "id": "g.multi.7"
+   },
+   {
+    "text": "{A} slammed the shutter down. {B} and {C} were leaning on it.",
+    "vibe": "slap",
+    "tags": [
+     "rc"
+    ],
+    "id": "g.multi.8"
+   },
+   {
+    "text": "{A} put {B} and {C} in one protector case to save space. Neither is getting out.",
+    "vibe": "slap",
+    "tags": [],
+    "id": "g.multi.9"
+   },
+   {
+    "text": "{A} knocked the shelf over. {B} and {C} got buried under 300 blisters.",
+    "vibe": "slap",
+    "tags": [],
+    "id": "g.multi.10"
+   },
+   {
+    "text": "{A} called a fake restock in two group chats. {B} and {C} drove into each other in the parking lot.",
+    "vibe": "col",
+    "tags": [
+     "modern"
+    ],
+    "id": "g.multi.11"
+   },
+   {
+    "text": "Commentary: '{A} goes three wide, and {B} and {C} are both in the barrier!'",
+    "vibe": "race",
+    "tags": [],
+    "id": "g.multi.12"
+   },
+   {
+    "text": "{A} tied {B} and {C} together by their shoelaces at the start. Green flag. Down they went.",
+    "vibe": "race",
+    "tags": [],
+    "id": "g.multi.13"
+   },
+   {
+    "text": "{A} outbid {B} and {C} at the same auction with one click. Both left the internet.",
+    "vibe": "col",
+    "tags": [
+     "modern"
+    ],
+    "id": "g.multi.14"
+   },
+   {
+    "text": "{A} sells {B} and {C} the same {grail}. Both abandon their starting lanes to argue at the returns desk. Their heat ends without them.",
+    "vibe": "heist",
+    "tags": [],
+    "id": "g.multi.15"
+   },
+   {
+    "text": "{A} hit the jackpot on the gacha garage. The confetti cannon took out {B} and {C}.",
+    "vibe": "slap",
+    "tags": [
+     "rc"
+    ],
+    "id": "g.multi.16"
+   }
+  ],
+  "double": [
+   {
+    "text": "{A} and {B} grabbed the same pack and bonked heads. Both out.",
+    "vibe": "slap",
+    "tags": [],
+    "id": "g.double.0"
+   },
+   {
+    "text": "{A} and {B} argued about loose versus carded until both turned to dust.",
+    "vibe": "col",
+    "tags": [],
+    "id": "g.double.1"
+   },
+   {
+    "text": "{A} and {B} raced to the last {model}. Hit the shelf at the same time. The shelf won.",
+    "vibe": "slap",
+    "tags": [],
+    "id": "g.double.2"
+   },
+   {
+    "text": "{A} and {B} tried to share one gacha garage. The claw took them both.",
+    "vibe": "slap",
+    "tags": [
+     "rc"
+    ],
+    "id": "g.double.3"
+   },
+   {
+    "text": "{A} and {B} high-fived over a {grail} pull and dislocated everything. Both out.",
+    "vibe": "slap",
+    "tags": [],
+    "id": "g.double.4"
+   },
+   {
+    "text": "{A} and {B} started a tandem drift and drifted straight out of the server together.",
+    "vibe": "race",
+    "tags": [
+     "modern"
+    ],
+    "id": "g.double.5"
+   },
+   {
+    "text": "{A} and {B} traded the same {model} back and forth for six hours. Both got bored to death.",
+    "vibe": "col",
+    "tags": [],
+    "id": "g.double.6"
+   },
+   {
+    "text": "{A} and {B} both lied about owning a {grail}. Both got caught. Both out.",
+    "vibe": "col",
+    "tags": [],
+    "id": "g.double.7"
+   },
+   {
+    "text": "{A} and {B} fell asleep in the same dump bin. Shipped back to the warehouse together.",
+    "vibe": "slap",
+    "tags": [],
+    "id": "g.double.8"
+   },
+   {
+    "text": "{A} and {B} held a staring contest over a {model}. Neither blinked. Both dried out.",
+    "vibe": "surreal",
+    "tags": [],
+    "id": "g.double.9"
+   }
+  ],
+  "find": [
+   {
+    "text": "{A} found a {grail} under the couch cushions. Nobody saw. Keep it that way.",
+    "vibe": "slap",
+    "tags": [],
+    "holds": "grail",
+    "id": "g.find.0"
+   },
+   {
+    "text": "{A} pulled a {grail} and hid it in their sock. Walking funny, walking rich.",
+    "vibe": "slap",
+    "tags": [],
+    "holds": "grail",
+    "id": "g.find.1"
+   },
+   {
+    "text": "{A} traded half a sandwich for a {model}. Worst trade of the year for the other guy.",
+    "vibe": "slap",
+    "tags": [],
+    "holds": "model",
+    "id": "g.find.2"
+   },
+   {
+    "text": "{A} found a {model} at the bottom of a cereal box. Ate the cereal. Kept the {model}.",
+    "vibe": "slap",
+    "tags": [],
+    "holds": "model",
+    "id": "g.find.3"
+   },
+   {
+    "text": "{A} bought a {grail} at a yard sale for one dollar. The seller is crying somewhere.",
+    "vibe": "col",
+    "tags": [],
+    "holds": "grail",
+    "id": "g.find.4"
+   },
+   {
+    "text": "{A} fished a {model} out of the gacha garage with a coat hanger. Security looked away.",
+    "vibe": "heist",
+    "tags": [
+     "rc"
+    ],
+    "holds": "model",
+    "id": "g.find.5"
+   },
+   {
+    "text": "{A} found a {grail} in grandma's attic. Grandma wants it back. Grandma is not getting it back.",
+    "vibe": "slap",
+    "tags": [],
+    "holds": "grail",
+    "id": "g.find.6"
+   },
+   {
+    "text": "The claw dropped a {grail} straight into {A}'s lap. The claw has favorites.",
+    "vibe": "slap",
+    "tags": [
+     "rc"
+    ],
+    "holds": "grail",
+    "id": "g.find.7"
+   },
+   {
+    "text": "{A} found a {model} rolling around pit lane. Finders keepers.",
+    "vibe": "race",
+    "tags": [],
+    "holds": "model",
+    "id": "g.find.8"
+   },
+   {
+    "text": "{A} pulled a {grail} and posted it in general. Every ripper in the room turned around at once.",
+    "vibe": "meta",
+    "tags": [
+     "modern"
+    ],
+    "holds": "grail",
+    "id": "g.find.9"
+   },
+   {
+    "text": "{A} bought a {model} from a stranger in a parking lot. No questions asked. Several should have been.",
+    "vibe": "heist",
+    "tags": [],
+    "holds": "model",
+    "id": "g.find.10"
+   },
+   {
+    "text": "{A} found a sealed {grail} in a dumpster behind a collector show. Smells weird. Still mint.",
+    "vibe": "col",
+    "tags": [],
+    "holds": "grail",
+    "id": "g.find.11"
+   },
+   {
+    "text": "{A} swapped a common for a {grail} while the owner sneezed.",
+    "vibe": "heist",
+    "tags": [],
+    "holds": "grail",
+    "id": "g.find.12"
+   },
+   {
+    "text": "{A} won a {grail} in a raffle they never entered.",
+    "vibe": "surreal",
+    "tags": [],
+    "holds": "grail",
+    "id": "g.find.13"
+   },
+   {
+    "text": "{A} found a {model} in the pocket of a used jacket. Good day.",
+    "vibe": "warm",
+    "tags": [],
+    "holds": "model",
+    "id": "g.find.14"
+   },
+   {
+    "text": "{A} found a {model} taped under a park bench with a note: 'you deserve this'.",
+    "vibe": "warm",
+    "tags": [
+     "modern"
+    ],
+    "holds": "model",
+    "id": "g.find.15"
+   },
+   {
+    "text": "{A} pulled a {grail} and told nobody. Smiling a little too much.",
+    "vibe": "col",
+    "tags": [],
+    "holds": "grail",
+    "id": "g.find.16"
+   },
+   {
+    "text": "{A} traded a stack of commons for a {model} with someone who did not check the card.",
+    "vibe": "col",
+    "tags": [],
+    "holds": "model",
+    "id": "g.find.17"
+   },
+   {
+    "text": "{A} won a {model} in a bet about tyre pressure.",
+    "vibe": "race",
+    "tags": [],
+    "holds": "model",
+    "id": "g.find.18"
+   },
+   {
+    "text": "{A} found a {grail} on a dusty gas station shelf. The clerk had no idea.",
+    "vibe": "col",
+    "tags": [],
+    "holds": "grail",
+    "id": "g.find.19"
+   },
+   {
+    "text": "{A} bought a mystery box at a garage sale. Inside: a {grail} and a lot of dust.",
+    "vibe": "col",
+    "tags": [],
+    "holds": "grail",
+    "id": "g.find.20"
+   },
+   {
+    "text": "The Ripper tossed {A} a {model} from the roadster and drove off without a word.",
+    "vibe": "cine",
+    "tags": [
+     "rc"
+    ],
+    "holds": "model",
+    "id": "g.find.21"
+   },
+   {
+    "text": "{A} pulled a {grail} on their birthday. The universe owed them one.",
+    "vibe": "warm",
+    "tags": [],
+    "holds": "grail",
+    "id": "g.find.22"
+   }
+  ],
+  "call": [
+   {
+    "text": "{B} waits behind the pit wall to steal {H}'s {item}. {H} throws it between {B}'s eyes, then picks it up. {B} is out.",
+    "vibe": "slap",
+    "tags": [],
+    "out": "B",
+    "id": "g.call.0"
+   },
+   {
+    "text": "{B} snatched {H}'s {item} and ran. {H} chased {B} across three servers, got it back and left {B} in the third one.",
+    "vibe": "slap",
+    "tags": [
+     "modern"
+    ],
+    "out": "B",
+    "id": "g.call.1"
+   },
+   {
+    "text": "{H} polished the {item} so hard it flashed the sun into {B}'s eyes. {B} drove into a lake.",
+    "vibe": "slap",
+    "tags": [],
+    "out": "B",
+    "id": "g.call.2"
+   },
+   {
+    "text": "{H} slept with the {item} under the pillow. It rolled into {H}'s mouth overnight. Choked. RIP {H}.",
+    "vibe": "slap",
+    "tags": [],
+    "out": "H",
+    "id": "g.call.3"
+   },
+   {
+    "text": "{H} waved the {item} in {B}'s face one time too many. {B} died of jealousy.",
+    "vibe": "col",
+    "tags": [],
+    "out": "B",
+    "id": "g.call.4"
+   },
+   {
+    "text": "{B} offered {H} three commons for the {item}. {H} laughed for an hour straight. {B} left in shame.",
+    "vibe": "col",
+    "tags": [],
+    "out": "B",
+    "id": "g.call.5"
+   },
+   {
+    "text": "{H} refused to let go of the {item} during a pit stop. The crew changed {H} instead of the tyres.",
+    "vibe": "race",
+    "tags": [],
+    "out": "H",
+    "id": "g.call.6"
+   },
+   {
+    "text": "{H} uses the {item} as a doorstop. {B} trips over it and falls out of the rumble. {H} picks it up again.",
+    "vibe": "slap",
+    "tags": [],
+    "out": "B",
+    "id": "g.call.7"
+   },
+   {
+    "text": "{B} and {C} rush the lane to grab {H}'s {item}. {H} keeps it behind the barrier. Both intruders miss their own starts and go out.",
+    "vibe": "heist",
+    "tags": [],
+    "out": "B+C",
+    "id": "g.call.8"
+   },
+   {
+    "text": "{H} married the {item}. {B} objected at the wedding and got thrown out of the rumble.",
+    "vibe": "surreal",
+    "tags": [],
+    "out": "B",
+    "id": "g.call.9"
+   },
+   {
+    "text": "{B} grabbed {H}'s {item}, then dropped it. Both dove for it. Only {H} came back up.",
+    "vibe": "slap",
+    "tags": [],
+    "out": "B",
+    "id": "g.call.10"
+   },
+   {
+    "text": "{H} flexed the {item} in front of the claw. The claw took {H} and left the {item}.",
+    "vibe": "slap",
+    "tags": [
+     "rc"
+    ],
+    "out": "H",
+    "id": "g.call.11"
+   },
+   {
+    "text": "{B} licked {H}'s {item} to call dibs. {H} called the mods. {B} is banned for life.",
+    "vibe": "meta",
+    "tags": [
+     "modern"
+    ],
+    "out": "B",
+    "id": "g.call.12"
+   },
+   {
+    "text": "{B} broke into {H}'s protector case for the {item}. Got stuck inside. Part of the display now.",
+    "vibe": "heist",
+    "tags": [],
+    "out": "B",
+    "id": "g.call.13"
+   },
+   {
+    "text": "{H} hid the {item} so well that {H} forgot where. Searched until the rumble moved on without them.",
+    "vibe": "slap",
+    "tags": [],
+    "out": "H",
+    "id": "g.call.14"
+   },
+   {
+    "text": "{H} tosses the {item} up to flex. It lands on {B}'s head, ending their run. {H} catches it on the rebound.",
+    "vibe": "slap",
+    "tags": [],
+    "out": "B",
+    "id": "g.call.15"
+   },
+   {
+    "text": "{B} challenges {H} to a race for the {item}. {H} brings a real Supra, wins the deciding run, and keeps the Hot Wheels. {B} is out.",
+    "vibe": "race",
+    "tags": [
+     "modern"
+    ],
+    "out": "B",
+    "id": "g.call.16"
+   },
+   {
+    "text": "{B} challenges {H} for the {item}. {H} keeps it safely on the display. {B}'s entry rolls off the deciding lane. {B} is out.",
+    "vibe": "col",
+    "tags": [],
+    "out": "B",
+    "id": "g.call.17"
+   },
+   {
+    "text": "{B} sent {H} a fake 'claim your {item} reward' link. {H} sent it back. {B} clicked it and got rugged.",
+    "vibe": "degen",
+    "tags": [
+     "onchain"
+    ],
+    "out": "B",
+    "id": "g.call.18"
+   },
+   {
+    "text": "{H} still won't stop talking about the {item}. {B} left the server to get some peace.",
+    "vibe": "meta",
+    "tags": [
+     "modern"
+    ],
+    "out": "B",
+    "id": "g.call.19"
+   },
+   {
+    "text": "{B} tried to swap {H}'s {item} for a fake. {H} spotted the wrong wheels and sent {B} home.",
+    "vibe": "col",
+    "tags": [],
+    "out": "B",
+    "id": "g.call.20"
+   },
+   {
+    "text": "{H} let {B} hold the {item} for one second. {B} sneezed on it. {H} sent {B} to the shadow dimension.",
+    "vibe": "col",
+    "tags": [],
+    "out": "B",
+    "id": "g.call.21"
+   },
+   {
+    "text": "{B} runs toward {H}'s {item} instead of the start line. {H} keeps the Hot Wheels. {B} misses the heat and goes out.",
+    "vibe": "warm",
+    "tags": [],
+    "out": "B",
+    "id": "g.call.22"
+   },
+   {
+    "text": "{H} carried the {item} as a lucky charm all lap. It worked. Then it rolled under {H}'s foot.",
+    "vibe": "slap",
+    "tags": [],
+    "out": "H",
+    "id": "g.call.23"
+   },
+   {
+    "text": "{B} filmed a video roasting {H}'s {item}. The comments sided with {H}. {B} is gone.",
+    "vibe": "meta",
+    "tags": [
+     "modern"
+    ],
+    "out": "B",
+    "id": "g.call.24"
+   },
+   {
+    "text": "{B} and {C} reach across the deciding lanes for {H}'s {item}. Their entries collide. Both out, while {H} keeps the Hot Wheels.",
+    "vibe": "col",
+    "tags": [],
+    "out": "B+C",
+    "id": "g.call.25"
+   }
+  ],
+  "transfer": [
+   {
+    "text": "{H} traded the {item} to {A} for a sandwich. {H} regrets it already.",
+    "vibe": "slap",
+    "tags": [],
+    "id": "g.transfer.0"
+   },
+   {
+    "text": "{A} won the {item} off {H} in a coin flip. Best of three. Then best of five.",
+    "vibe": "slap",
+    "tags": [],
+    "id": "g.transfer.1"
+   },
+   {
+    "text": "{H} dropped the {item} in pit lane. {A} picked it up and kept walking.",
+    "vibe": "race",
+    "tags": [],
+    "id": "g.transfer.2"
+   },
+   {
+    "text": "{A} sweet-talked {H} out of the {item}. Nobody knows how.",
+    "vibe": "heist",
+    "tags": [],
+    "id": "g.transfer.3"
+   },
+   {
+    "text": "{H} gifted the {item} to {A}. A rare act of kindness. The server is shook.",
+    "vibe": "warm",
+    "tags": [
+     "modern"
+    ],
+    "id": "g.transfer.4"
+   },
+   {
+    "text": "{A} found the {item} in {H}'s jacket. {H} was still wearing the jacket.",
+    "vibe": "heist",
+    "tags": [],
+    "id": "g.transfer.5"
+   },
+   {
+    "text": "The claw grabbed the {item} from {H} and dropped it in {A}'s lap. The claw has a sense of humor.",
+    "vibe": "slap",
+    "tags": [
+     "rc"
+    ],
+    "id": "g.transfer.6"
+   },
+   {
+    "text": "{H} put the {item} up as a bet. {A} won the bet.",
+    "vibe": "col",
+    "tags": [],
+    "id": "g.transfer.7"
+   },
+   {
+    "text": "{A} swapped a lookalike for {H}'s {item}. {H} has not noticed yet.",
+    "vibe": "heist",
+    "tags": [],
+    "id": "g.transfer.8"
+   },
+   {
+    "text": "{H} left the {item} on the counter for one second. {A} was faster.",
+    "vibe": "slap",
+    "tags": [],
+    "id": "g.transfer.9"
+   }
+  ],
+  "survive": [
+   {
+    "text": "{A} spent the whole lap staring at a {model} through the blister. Still alive. Barely.",
+    "vibe": "col",
+    "tags": [],
+    "id": "g.survive.0"
+   },
+   {
+    "text": "{A} hid in a dump bin all lap. Survived. Smells like cardboard now.",
+    "vibe": "slap",
+    "tags": [],
+    "id": "g.survive.1"
+   },
+   {
+    "text": "{A} stood still and pretended to be a display stand. Nobody noticed.",
+    "vibe": "slap",
+    "tags": [],
+    "id": "g.survive.2"
+   },
+   {
+    "text": "{A} found a {model} on the floor, sniffed it and put it back. Weird, but alive.",
+    "vibe": "slap",
+    "tags": [],
+    "id": "g.survive.3"
+   },
+   {
+    "text": "{A} took a nap in the gacha garage. The claw tucked {A} in.",
+    "vibe": "warm",
+    "tags": [
+     "rc"
+    ],
+    "id": "g.survive.4"
+   },
+   {
+    "text": "{A} tried to open a {pack}, got tired and gave up. Saved by laziness.",
+    "vibe": "slap",
+    "tags": [],
+    "id": "g.survive.5"
+   },
+   {
+    "text": "{A} dodged the claw three times in a row. The claw is starting to take it personally.",
+    "vibe": "slap",
+    "tags": [
+     "rc"
+    ],
+    "id": "g.survive.6"
+   },
+   {
+    "text": "{A} talked about a {model} for so long that everyone walked away. Survived by being boring.",
+    "vibe": "col",
+    "tags": [],
+    "id": "g.survive.7"
+   },
+   {
+    "text": "{A} wrapped themselves in bubble wrap. Ugly, but unbreakable.",
+    "vibe": "slap",
+    "tags": [],
+    "id": "g.survive.8"
+   },
+   {
+    "text": "{A} sold a common for profit. Nobody knows how. {A} doesn't know how either.",
+    "vibe": "col",
+    "tags": [],
+    "id": "g.survive.9"
+   },
+   {
+    "text": "{A} hid behind the {grail} display case. Armored glass. Lucky {A}.",
+    "vibe": "slap",
+    "tags": [],
+    "id": "g.survive.10"
+   },
+   {
+    "text": "{A} said gm to the claw. The claw said gm back. Spared.",
+    "vibe": "meta",
+    "tags": [
+     "rc",
+     "modern"
+    ],
+    "id": "g.survive.11"
+   },
+   {
+    "text": "{A} sat out the lap eating a hot dog by the track. No notes.",
+    "vibe": "warm",
+    "tags": [],
+    "id": "g.survive.12"
+   },
+   {
+    "text": "{A} took a wrong turn and missed all the chaos. Lucky.",
+    "vibe": "slap",
+    "tags": [],
+    "id": "g.survive.13"
+   },
+   {
+    "text": "{A} starts explaining two shades of blue. The crowd moves the whole table away before the second sentence.",
+    "vibe": "col",
+    "tags": [],
+    "id": "g.survive.14"
+   },
+   {
+    "text": "{A} fell asleep on the shelf and got mistaken for decor. Untouched.",
+    "vibe": "slap",
+    "tags": [],
+    "id": "g.survive.15"
+   },
+   {
+    "text": "{A} meditated in pit lane. The chaos went around them.",
+    "vibe": "warm",
+    "tags": [],
+    "id": "g.survive.16"
+   },
+   {
+    "text": "{A} found a quiet corner and reorganized their pockets. Safe for now.",
+    "vibe": "slap",
+    "tags": [],
+    "id": "g.survive.17"
+   },
+   {
+    "text": "{A} took a selfie with the gacha garage. The claw photobombed. Nobody got hurt.",
+    "vibe": "meta",
+    "tags": [
+     "rc"
+    ],
+    "id": "g.survive.18"
+   },
+   {
+    "text": "{A} watched the whole lap from behind a stack of boxes with popcorn.",
+    "vibe": "warm",
+    "tags": [],
+    "id": "g.survive.19"
+   },
+   {
+    "text": "{A} dodged a flying {model} with their eyes closed. Instinct.",
+    "vibe": "cine",
+    "tags": [],
+    "id": "g.survive.20"
+   },
+   {
+    "text": "{A} spent the lap admiring the paint on a {model}. Worth it. Still alive.",
+    "vibe": "col",
+    "tags": [],
+    "id": "g.survive.21"
+   }
+  ],
+  "moment": [
+   {
+    "text": "{A} and {B} called a truce to admire a {model} together. Beautiful moment. Truce ends next lap.",
+    "vibe": "warm",
+    "tags": [],
+    "id": "g.moment.0"
+   },
+   {
+    "text": "{A} helped {B} up after a spin. Respect. Back to war in a minute.",
+    "vibe": "race",
+    "tags": [],
+    "id": "g.moment.1"
+   },
+   {
+    "text": "{A} and {B} split a hot dog in the paddock. The rumble will wait.",
+    "vibe": "warm",
+    "tags": [],
+    "id": "g.moment.2"
+   },
+   {
+    "text": "{A} and {B} formed an alliance. It lasted 11 seconds.",
+    "vibe": "slap",
+    "tags": [],
+    "id": "g.moment.3"
+   },
+   {
+    "text": "{A} gave {B} a tip about a restock. It was real. Nobody saw that coming.",
+    "vibe": "warm",
+    "tags": [],
+    "id": "g.moment.4"
+   },
+   {
+    "text": "{A} and {B} argued about the best casting ever. Nobody won. Everyone lived.",
+    "vibe": "col",
+    "tags": [],
+    "id": "g.moment.5"
+   },
+   {
+    "text": "{A} showed {B} their pull. {B} said W. Pure respect.",
+    "vibe": "meta",
+    "tags": [
+     "modern"
+    ],
+    "id": "g.moment.6"
+   },
+   {
+    "text": "{A} and {B} built a track loop together. It worked on the first try. Suspicious.",
+    "vibe": "slap",
+    "tags": [],
+    "id": "g.moment.7"
+   },
+   {
+    "text": "{A} lent {B} a protector case. Friendship is rare in this game.",
+    "vibe": "warm",
+    "tags": [],
+    "id": "g.moment.8"
+   },
+   {
+    "text": "{A} and {B} fist-bumped at full speed. Somehow both kept it on the road.",
+    "vibe": "race",
+    "tags": [],
+    "id": "g.moment.9"
+   },
+   {
+    "text": "{A} and {B} hid behind the same dump bin and pretended not to see each other.",
+    "vibe": "slap",
+    "tags": [],
+    "id": "g.moment.10"
+   },
+   {
+    "text": "{A} and {B} crashed into the same hay bale and laughed it off.",
+    "vibe": "race",
+    "tags": [],
+    "id": "g.moment.11"
+   },
+   {
+    "text": "{A} caught {B} looking at their {model}. Both nodded. Collector to collector.",
+    "vibe": "col",
+    "tags": [],
+    "id": "g.moment.12"
+   },
+   {
+    "text": "{A} and {B} said gm at the same time. The server felt that.",
+    "vibe": "meta",
+    "tags": [
+     "modern"
+    ],
+    "id": "g.moment.13"
+   }
+  ],
+  "revive": [
+   {
+    "text": "{A} came back from the dead to check one more pack.",
+    "vibe": "slap",
+    "tags": [],
+    "id": "g.revive.0"
+   },
+   {
+    "text": "The claw lowers {A} onto the return lane, then opens its grip. Back on the grid.",
+    "vibe": "slap",
+    "tags": [
+     "rc"
+    ],
+    "id": "g.revive.1"
+   },
+   {
+    "text": "{A} found a waffle in an old jacket and respawned.",
+    "vibe": "slap",
+    "tags": [
+     "rc"
+    ],
+    "id": "g.revive.2"
+   },
+   {
+    "text": "{A} passes the return desk's second inspection. One sticker on the badge, one place back on the grid.",
+    "vibe": "slap",
+    "tags": [],
+    "id": "g.revive.3"
+   },
+   {
+    "text": "A fresh bubble mailer arrives at the return desk. The marshal opens it and {A} steps out. Back in.",
+    "vibe": "slap",
+    "tags": [],
+    "id": "g.revive.4"
+   },
+   {
+    "text": "{A} heard a {grail} restock rumor and rose from the grave.",
+    "vibe": "col",
+    "tags": [],
+    "id": "g.revive.5"
+   },
+   {
+    "text": "{A} got re-carded on a fresh blister. Mint again, back again.",
+    "vibe": "col",
+    "tags": [],
+    "id": "g.revive.6"
+   },
+   {
+    "text": "{A} found the seed phrase in an old notebook and walked back in.",
+    "vibe": "degen",
+    "tags": [
+     "onchain",
+     "modern"
+    ],
+    "id": "g.revive.7"
+   },
+   {
+    "text": "{A} was faking it the whole time. Best actor in the server is back.",
+    "vibe": "cine",
+    "tags": [
+     "modern"
+    ],
+    "id": "g.revive.8"
+   },
+   {
+    "text": "{A} arrives at the return lane carrying a cracked protector case. The marshal waves them back onto the grid.",
+    "vibe": "slap",
+    "tags": [],
+    "id": "g.revive.9"
+   },
+   {
+    "text": "The Ripper owed {A} a favor. {A} is back on track.",
+    "vibe": "cine",
+    "tags": [
+     "rc"
+    ],
+    "id": "g.revive.10"
+   },
+   {
+    "text": "{A} came back for the {grail}. Still doesn't have it. Still here.",
+    "vibe": "slap",
+    "tags": [],
+    "id": "g.revive.11"
+   },
+   {
+    "text": "{A} kicked the gacha garage on the way out. It spat out a second chance.",
+    "vibe": "slap",
+    "tags": [
+     "rc"
+    ],
+    "id": "g.revive.12"
+   },
+   {
+    "text": "{A} filed a protest with the race stewards. Protest accepted. Back on track.",
+    "vibe": "race",
+    "tags": [],
+    "id": "g.revive.13"
+   },
+   {
+    "text": "{A} rolled a natural 20 and climbed back in.",
+    "vibe": "surreal",
+    "tags": [
+     "modern"
+    ],
+    "id": "g.revive.14"
+   },
+   {
+    "text": "{A} played a Get Out of Jail Free card nobody knew they had.",
+    "vibe": "surreal",
+    "tags": [],
+    "id": "g.revive.15"
+   },
+   {
+    "text": "{A}'s damaged entry is replaced at the reserve desk. Fresh wheels, same ripper. Back in.",
+    "vibe": "col",
+    "tags": [],
+    "id": "g.revive.16"
+   },
+   {
+    "text": "{A} reloaded the last save and walked back in.",
+    "vibe": "meta",
+    "tags": [
+     "modern"
+    ],
+    "id": "g.revive.17"
+   }
+  ],
+  "duel": [
+   {
+    "text": "Final two. {A} and {B} line up. Green flag. {A} gets the launch. {B} gets the dust.",
+    "vibe": "race",
+    "tags": [],
+    "id": "g.duel.0"
+   },
+   {
+    "text": "{A} and {B} reach for the last {grail} at the same time. {A}'s fingers are faster.",
+    "vibe": "col",
+    "tags": [],
+    "id": "g.duel.1"
+   },
+   {
+    "text": "Last launch. {A} clears the loop. {B} lands upside down in the catch tray. The final belongs to {A}.",
+    "vibe": "cine",
+    "tags": [],
+    "id": "g.duel.2"
+   },
+   {
+    "text": "{B} offers a handshake. {A} offers a {model} to the forehead. Respectfully.",
+    "vibe": "slap",
+    "tags": [],
+    "id": "g.duel.3"
+   },
+   {
+    "text": "Last two in the garage: {A} and {B}. The claw comes down. It picks {B}.",
+    "vibe": "slap",
+    "tags": [
+     "rc"
+    ],
+    "id": "g.duel.4"
+   },
+   {
+    "text": "Photo finish. The stewards check the tape. {A} by a bumper. {B} by a heartbreak.",
+    "vibe": "race",
+    "tags": [],
+    "id": "g.duel.5"
+   },
+   {
+    "text": "{A} and {B} stare each other down over a {pack}. {A} rips first. {B} rips nothing.",
+    "vibe": "cine",
+    "tags": [],
+    "id": "g.duel.6"
+   },
+   {
+    "text": "{B} tries the outside on the final bend. {A} crosses the finish first. {B}'s race ends in second place.",
+    "vibe": "race",
+    "tags": [],
+    "id": "g.duel.7"
+   },
+   {
+    "text": "{A} and {B} play rock paper scissors for the title. {A} throws a {model}. Not a valid move. Still wins.",
+    "vibe": "slap",
+    "tags": [],
+    "id": "g.duel.8"
+   },
+   {
+    "text": "{A}'s {model} crosses the final line first. {B} arrives a wheel later. The trophy title goes to {A}.",
+    "vibe": "col",
+    "tags": [],
+    "id": "g.duel.9"
+   },
+   {
+    "text": "The crowd counts down. {A} lands in the finish tray. {B} lands in the packing box. The final is over.",
+    "vibe": "cine",
+    "tags": [],
+    "id": "g.duel.10"
+   },
+   {
+    "text": "{A} and {B} flip a coin for the win. It lands on its edge. {A} pushes it over.",
+    "vibe": "surreal",
+    "tags": [],
+    "id": "g.duel.11"
+   }
+  ],
+  "win": [
+   {
+    "text": "{A} is the last ripper standing. Scuffed edges, winning finish.",
+    "vibe": "slap",
+    "tags": [],
+    "id": "g.win.0"
+   },
+   {
+    "text": "{A} survived the claw, the fakes and every ripper in here. RIP to the rest. LFRIP 🏎️",
+    "vibe": "slap",
+    "tags": [
+     "rc"
+    ],
+    "id": "g.win.1"
+   },
+   {
+    "text": "{A} wins the rumble and the bragging rights. The Hot Wheels in this story stay fictional.",
+    "vibe": "slap",
+    "tags": [],
+    "id": "g.win.2"
+   },
+   {
+    "text": "Only {A} is left. The claw bows.",
+    "vibe": "slap",
+    "tags": [
+     "rc"
+    ],
+    "id": "g.win.3"
+   },
+   {
+    "text": "{A} wins the rumble. Screenshot it. Frame it. Never stop talking about it.",
+    "vibe": "meta",
+    "tags": [],
+    "id": "g.win.4"
+   },
+   {
+    "text": "{A} is the last one rolling. One of one.",
+    "vibe": "col",
+    "tags": [],
+    "id": "g.win.5"
+   },
+   {
+    "text": "{A} wins. The gacha garage opens its shutter for one ripper only.",
+    "vibe": "cine",
+    "tags": [
+     "rc"
+    ],
+    "id": "g.win.6"
+   },
+   {
+    "text": "{A} outlived everyone, the claw included.",
+    "vibe": "slap",
+    "tags": [
+     "rc"
+    ],
+    "id": "g.win.7"
+   },
+   {
+    "text": "{A} drives out of the garage alone. The shutter rolls down behind them. Champion.",
+    "vibe": "cine",
+    "tags": [
+     "rc"
+    ],
+    "id": "g.win.8"
+   },
+   {
+    "text": "{A} takes the rumble. Somewhere, a {grail} feels proud.",
+    "vibe": "warm",
+    "tags": [],
+    "id": "g.win.9"
+   },
+   {
+    "text": "{A} won. Mods, give this ripper a crown.",
+    "vibe": "meta",
+    "tags": [
+     "modern"
+    ],
+    "id": "g.win.10"
+   },
+   {
+    "text": "Every engine went quiet except {A}'s. That's the win.",
+    "vibe": "race",
+    "tags": [],
+    "id": "g.win.11"
+   }
+  ],
+  "hazard": [
+   {
+    "text": "The big shelf collapses. {names} are buried under blisters.",
+    "vibe": "slap",
+    "tags": [],
+    "id": "g.hazard.0"
+   },
+   {
+    "text": "A restock rumor spreads. {names} sprint out the door and never come back.",
+    "vibe": "col",
+    "tags": [],
+    "id": "g.hazard.1"
+   },
+   {
+    "text": "A sudden rainstorm hits the track. {names} spin out.",
+    "vibe": "race",
+    "tags": [],
+    "id": "g.hazard.2"
+   },
+   {
+    "text": "The claw goes berserk and drags {names} into the machine.",
+    "vibe": "slap",
+    "tags": [
+     "rc"
+    ],
+    "id": "g.hazard.3"
+   },
+   {
+    "text": "A flash flood rolls through the parking lot. {names} float away on their cardboard.",
+    "vibe": "slap",
+    "tags": [],
+    "id": "g.hazard.4"
+   },
+   {
+    "text": "The power goes out. When the lights come back, {names} are gone.",
+    "vibe": "cine",
+    "tags": [],
+    "id": "g.hazard.5"
+   },
+   {
+    "text": "A runaway shopping cart plows through the crowd. {names} go down like bowling pins.",
+    "vibe": "slap",
+    "tags": [],
+    "id": "g.hazard.6"
+   },
+   {
+    "text": "Somebody shouts 'free packs outside'. {names} sprint out and the door locks behind them.",
+    "vibe": "heist",
+    "tags": [],
+    "id": "g.hazard.7"
+   },
+   {
+    "text": "The floor opens like a trapdoor. {names} drop into the basement storage.",
+    "vibe": "surreal",
+    "tags": [],
+    "id": "g.hazard.8"
+   },
+   {
+    "text": "A tornado of loose Hot Wheels spins through the room. {names} get swept up.",
+    "vibe": "surreal",
+    "tags": [],
+    "id": "g.hazard.9"
+   },
+   {
+    "text": "A strange fog rolls in. When it clears, {names} are nowhere to be found.",
+    "vibe": "cine",
+    "tags": [],
+    "id": "g.hazard.10"
+   },
+   {
+    "text": "The mods start a surprise cleanup. {names} get swept out with the trash.",
+    "vibe": "meta",
+    "tags": [
+     "modern"
+    ],
+    "id": "g.hazard.11"
+   }
+  ],
+  "ambient": [
+   {
+    "text": "A lone {model} rolls across the floor. Nobody claims it.",
+    "vibe": "slap",
+    "tags": [],
+    "id": "g.ambient.0"
+   },
+   {
+    "text": "Somewhere, a blister pops. Everyone flinches.",
+    "vibe": "slap",
+    "tags": [],
+    "id": "g.ambient.1"
+   },
+   {
+    "text": "The crowd goes quiet. Even the claw is watching.",
+    "vibe": "cine",
+    "tags": [
+     "rc"
+    ],
+    "id": "g.ambient.2"
+   },
+   {
+    "text": "A rumor of a {grail} restock ripples through the server.",
+    "vibe": "col",
+    "tags": [
+     "modern"
+    ],
+    "id": "g.ambient.3"
+   },
+   {
+    "text": "Engines idle. Hands hover over packs. Nobody blinks.",
+    "vibe": "cine",
+    "tags": [],
+    "id": "g.ambient.4"
+   },
+   {
+    "text": "A tumbleweed of bubble wrap drifts across the track.",
+    "vibe": "surreal",
+    "tags": [],
+    "id": "g.ambient.5"
+   },
+   {
+    "text": "The Ripper checks the clock and says nothing.",
+    "vibe": "cine",
+    "tags": [
+     "rc"
+    ],
+    "id": "g.ambient.6"
+   },
+   {
+    "text": "A loose wheel rolls across the desk. Three collectors reach for it. Nobody admits needing a spare.",
+    "vibe": "meta",
+    "tags": [],
+    "id": "g.ambient.7"
+   }
+  ]
+ },
+ "worlds": [
+  {
+   "key": "garage",
+   "name": "RipCars Garage",
+   "banner": "RIPCARS GARAGE",
+   "emoji": "🏎️",
+   "tagline": "Shutter up, claw live. One ripper drives out.",
+   "color": "#DF0100",
+   "slots": {
+    "grail": "Super Treasure Hunt",
+    "pack": "RipCars pack",
+    "models": [
+     "Bone Shaker",
+     "Porsche 911 GT3 RS",
+     "Skyline GT-R R34",
+     "Kool Kombi",
+     "Toyota Supra",
+     "'67 Camaro",
+     "Datsun 510",
+     "Ferrari F40",
+     "Civic Type R",
+     "Twin Mill",
+     "Lancer Evolution",
+     "Mercedes 190E"
+    ]
+   },
+   "laps": [
+    "Lap {n} · Green Flag",
+    "Lap {n} · Pit Lane Chaos",
+    "Lap {n} · The Claw Wakes Up",
+    "Lap {n} · Treasure Hunt",
+    "Lap {n} · Night Session",
+    "Lap {n} · Touge Run",
+    "Lap {n} · Rain Tyres Only",
+    "Lap {n} · Super Treasure Hunt",
+    "Lap {n} · Collector Convention",
+    "Lap {n} · Floor Check",
+    "Lap {n} · Shutter Check",
+    "Lap {n} · Waffle Weather"
+   ],
+   "final": "Final Lap · Redline",
+   "overtime": "Sudden Death · Last Rip",
+   "sequential": false,
+   "lobby": [
+    "The Ripper rolls the shutter up. Engines on, rippers. Hit Join to enter the Garage.",
+    "The claw is warm and hungry. Join now or watch from the pit wall.",
+    "Grid is open. No practice laps, no mercy.",
+    "A fresh rumble is sealed and ready to rip. Get in before the shutter drops.",
+    "Rippers to the grid. Last one standing takes the bragging rights.",
+    "RipCars Garage is open. Shutter up, claw live. Hit Join.",
+    "Welcome to the Garage, rippers. Same claw, fresh rumble. Hit Join."
+   ],
+   "second_chance": {
+    "name": "Waffle Drop",
+    "title": "🧇 Waffle Drop",
+    "button": "Grab the waffle",
+    "body": "A waffle fell through the garage roof. The bot selects one eligible fallen ripper to return.",
+    "success": [
+     "{A} grabbed the waffle. Back in the Garage.",
+     "{A} caught the waffle mid-air. Respawned."
+    ],
+    "fail": [
+     "Nobody grabbed the waffle. The claw ate it."
+    ]
+   },
+   "exclude": [
+    "onchain"
+   ],
+   "lines": {
+    "kill": [
+     {
+      "text": "{A} pulled a Porsche on the first rip and drove it straight through {B}.",
+      "vibe": "slap",
+      "tags": [
+       "rc"
+      ],
+      "id": "garage.kill.0"
+     },
+     {
+      "text": "{A} stole {B}'s waffle. {B} had nothing left to rip and logged off.",
+      "vibe": "slap",
+      "tags": [
+       "rc"
+      ],
+      "id": "garage.kill.1"
+     },
+     {
+      "text": "{A} pulled the shutter down on {B}. The Garage is closed for {B}.",
+      "vibe": "slap",
+      "tags": [
+       "rc"
+      ],
+      "id": "garage.kill.2"
+     },
+     {
+      "text": "{A} yelled LFRIP and ripped {B} right off the leaderboard.",
+      "vibe": "meta",
+      "tags": [
+       "rc"
+      ],
+      "id": "garage.kill.3"
+     },
+     {
+      "text": "The Ripper tosses {A} the roadster keys. {A} crosses the lane first while {B} runs for cover and misses the deciding heat.",
+      "vibe": "cine",
+      "tags": [
+       "rc"
+      ],
+      "id": "garage.kill.4"
+     },
+     {
+      "text": "{A} and {B} chased the same pull. It landed in {A}'s garage. {B} landed in the ditch.",
+      "vibe": "col",
+      "tags": [
+       "rc"
+      ],
+      "id": "garage.kill.5"
+     },
+     {
+      "text": "{A} hit buyback, cashed out and ran {B} over on the way to the exit.",
+      "vibe": "slap",
+      "tags": [
+       "rc"
+      ],
+      "id": "garage.kill.6"
+     },
+     {
+      "text": "{A} tells {B} the Nitro packs are back. {B} refreshes the page through the entire deciding heat and loses their place.",
+      "vibe": "col",
+      "tags": [
+       "rc"
+      ],
+      "id": "garage.kill.7"
+     }
+    ],
+    "wipe": [
+     {
+      "text": "{A} ripped 40 packs chasing a Porsche and ran out of gas.",
+      "vibe": "col",
+      "tags": [
+       "rc"
+      ],
+      "id": "garage.wipe.0"
+     },
+     {
+      "text": "{A} tried to high-five the claw. The claw does not do high-fives. It does grabs. {A} is gone.",
+      "vibe": "slap",
+      "tags": [
+       "rc"
+      ],
+      "id": "garage.wipe.1"
+     },
+     {
+      "text": "{A} forgot to claim their waffle and starved.",
+      "vibe": "slap",
+      "tags": [
+       "rc"
+      ],
+      "id": "garage.wipe.2"
+     },
+     {
+      "text": "{A} tried to rip with an empty wallet. Eliminated by math.",
+      "vibe": "slap",
+      "tags": [
+       "rc"
+      ],
+      "id": "garage.wipe.3"
+     },
+     {
+      "text": "{A} pulled a Bone Shaker, did a victory lap around the Garage and ran into the shutter.",
+      "vibe": "slap",
+      "tags": [
+       "rc"
+      ],
+      "id": "garage.wipe.4"
+     },
+     {
+      "text": "{A} asked The Ripper to take off the mask. The Ripper said no. {A} is gone.",
+      "vibe": "cine",
+      "tags": [
+       "rc"
+      ],
+      "id": "garage.wipe.5"
+     },
+     {
+      "text": "{A} sat on the gacha garage roof for a better view. The roof is not a seat. {A} fell through it, into the claw.",
+      "vibe": "slap",
+      "tags": [
+       "rc"
+      ],
+      "id": "garage.wipe.6"
+     },
+     {
+      "text": "{A} tried to tip the claw. The claw kept the tip and {A}.",
+      "vibe": "slap",
+      "tags": [
+       "rc"
+      ],
+      "id": "garage.wipe.7"
+     }
+    ],
+    "hazard": [
+     {
+      "text": "The claw goes into frenzy mode and hauls {names} into the machine.",
+      "vibe": "slap",
+      "tags": [
+       "rc"
+      ],
+      "id": "garage.hazard.0"
+     },
+     {
+      "text": "The shutter slams down. {names} were standing in the doorway.",
+      "vibe": "slap",
+      "tags": [
+       "rc"
+      ],
+      "id": "garage.hazard.1"
+     },
+     {
+      "text": "The Nitro packs sell out in seconds. {names} faint at the checkout.",
+      "vibe": "col",
+      "tags": [
+       "rc"
+      ],
+      "id": "garage.hazard.2"
+     },
+     {
+      "text": "A waffle drop hits the server. {names} trample each other for it and nobody gets it.",
+      "vibe": "slap",
+      "tags": [
+       "rc"
+      ],
+      "id": "garage.hazard.3"
+     }
+    ],
+    "survive": [
+     {
+      "text": "{A} hid in the roadster's trunk all lap. Cozy.",
+      "vibe": "warm",
+      "tags": [
+       "rc"
+      ],
+      "id": "garage.survive.0"
+     }
+    ],
+    "moment": [
+     {
+      "text": "{A} and {B} shared a waffle. Half a free pull each. Wholesome.",
+      "vibe": "warm",
+      "tags": [
+       "rc"
+      ],
+      "id": "garage.moment.0"
+     }
+    ],
+    "find": [
+     {
+      "text": "{A} pulled a {grail} from the gacha garage. W pull.",
+      "vibe": "col",
+      "tags": [
+       "rc"
+      ],
+      "holds": "grail",
+      "id": "garage.find.0"
+     }
+    ],
+    "revive": [
+     {
+      "text": "A waffle fell from the sky. {A} caught it and respawned.",
+      "vibe": "slap",
+      "tags": [
+       "rc"
+      ],
+      "id": "garage.revive.0"
+     },
+     {
+      "text": "{A} hit buyback on their own elimination. 90% of {A} is back.",
+      "vibe": "slap",
+      "tags": [
+       "rc"
+      ],
+      "id": "garage.revive.1"
+     },
+     {
+      "text": "The Ripper honked twice. {A} climbed back out of the claw.",
+      "vibe": "cine",
+      "tags": [
+       "rc"
+      ],
+      "id": "garage.revive.2"
+     }
+    ],
+    "duel": [
+     {
+      "text": "Final two inside the Garage. The shutter starts to drop. {A} slides under. {B} does not.",
+      "vibe": "cine",
+      "tags": [
+       "rc"
+      ],
+      "id": "garage.duel.0"
+     }
+    ],
+    "ambient": [
+     {
+      "text": "The claw twitches. Nobody moves.",
+      "vibe": "cine",
+      "tags": [
+       "rc"
+      ],
+      "id": "garage.ambient.0"
+     },
+     {
+      "text": "The shutter rattles in the wind.",
+      "vibe": "cine",
+      "tags": [
+       "rc"
+      ],
+      "id": "garage.ambient.1"
+     },
+     {
+      "text": "A waffle icon blinks somewhere in the server.",
+      "vibe": "meta",
+      "tags": [
+       "rc"
+      ],
+      "id": "garage.ambient.2"
+     },
+     {
+      "text": "The Ripper revs the roadster once, for drama.",
+      "vibe": "cine",
+      "tags": [
+       "rc"
+      ],
+      "id": "garage.ambient.3"
+     },
+     {
+      "text": "The gacha garage hums a little louder than usual.",
+      "vibe": "cine",
+      "tags": [
+       "rc"
+      ],
+      "id": "garage.ambient.4"
+     }
+    ],
+    "win": [
+     {
+      "text": "{A} is the last ripper in the Garage. W pull. LFRIP 🏎️",
+      "vibe": "meta",
+      "tags": [
+       "rc"
+      ],
+      "id": "garage.win.0"
+     },
+     {
+      "text": "{A} drives out of the Garage in The Ripper's roadster. Champion of the claw.",
+      "vibe": "cine",
+      "tags": [
+       "rc"
+      ],
+      "id": "garage.win.1"
+     }
+    ]
+   },
+   "expansion_lines": {
+    "survive": [
+     {
+      "text": "{A} finds a magnifying glass beneath the workbench. The tiny wheel markings finally stop looking identical.",
+      "vibe": "col",
+      "tags": [],
+      "source_id": "G01",
+      "id": "x.garage.survive.0"
+     },
+     {
+      "text": "{A} photographs a full-size Bone Shaker display, then returns to the table with the tiny racer that fits their lane.",
+      "vibe": "col",
+      "tags": [],
+      "source_id": "G11",
+      "id": "x.garage.survive.1"
+     },
+     {
+      "text": "{A}'s capsule visits the 1968 package artwork, then the 2008 Custom Otto display. They return with a catalogue note, leaving the models behind.",
+      "vibe": "surreal",
+      "tags": [
+       "capsule",
+       "modern"
+      ],
+      "source_id": "adapted-G-C",
+      "id": "x.garage.survive.2"
+     }
+    ],
+    "wipe": [
+     {
+      "text": "{A} tightens the new wheel until it rubs against the body. Their Hot Wheels stops halfway down the elimination track. They're out.",
+      "vibe": "col",
+      "tags": [],
+      "source_id": "G03",
+      "id": "x.garage.wipe.0"
+     },
+     {
+      "text": "{A}'s registered racer rolls off the tilted workbench. A snapped front axle ends their run before the next heat.",
+      "vibe": "col",
+      "tags": [],
+      "source_id": "G07",
+      "id": "x.garage.wipe.1"
+     }
+    ],
+    "kill": [
+     {
+      "text": "{A}'s chipped mainline rolls past {B}'s display Hot Wheels in the deciding heat. {B} leaves with the nicer paint and no place in the race.",
+      "vibe": "col",
+      "tags": [],
+      "source_id": "G04",
+      "id": "x.garage.kill.0"
+     }
+    ],
+    "duel": [
+     {
+      "text": "{A}'s Hot Wheels clears the workbench straight first. {B} reaches the finish a wheel behind and leaves the elimination bracket.",
+      "vibe": "col",
+      "tags": [],
+      "source_id": "G18",
+      "id": "x.garage.duel.0"
+     }
+    ],
+    "moment": [
+     {
+      "text": "{A} announces a rare factory error. {B} removes a crumb from the wheel. The mystery is over.",
+      "vibe": "col",
+      "tags": [],
+      "source_id": "G06",
+      "id": "x.garage.moment.0"
+     },
+     {
+      "text": "{A} tests the empty lane while {B} checks the table. A folded catalogue under one leg levels the track.",
+      "vibe": "col",
+      "tags": [],
+      "source_id": "G14",
+      "id": "x.garage.moment.1"
+     }
+    ],
+    "find": [
+     {
+      "text": "The Ripper slides a {model} across the workbench to {A}. A red ribbon marks this Hot Wheels for the next heat.",
+      "vibe": "col",
+      "tags": [
+       "rc"
+      ],
+      "holds": "model",
+      "source_id": "adapted-G-E",
+      "id": "x.garage.find.0"
+     }
+    ],
+    "call": [
+     {
+      "text": "{H} sends the earlier {item} down the deciding lane. {B}'s entry stalls at the loop. {B} is out, and {H} retrieves the Hot Wheels.",
+      "vibe": "race",
+      "tags": [
+       "rc"
+      ],
+      "out": "B",
+      "source_id": "adapted-G-B",
+      "id": "x.garage.call.0"
+     }
+    ],
+    "transfer": [
+     {
+      "text": "{H} gifts the {item} to {A}. The same Hot Wheels leaves one display and joins the other.",
+      "vibe": "warm",
+      "tags": [
+       "rc"
+      ],
+      "source_id": "adapted-G-E",
+      "id": "x.garage.transfer.0"
+     }
+    ]
+   },
+   "pool_sizes": {
+    "kill": 79,
+    "wipe": 77,
+    "multi": 17,
+    "double": 10,
+    "find": 25,
+    "call": 26,
+    "transfer": 11,
+    "survive": 26,
+    "moment": 17,
+    "revive": 20,
+    "duel": 14,
+    "win": 14,
+    "hazard": 16,
+    "ambient": 13
+   },
+   "facts": [
+    "Nitro packs sold out right after SobiX's Bone Shaker pull (Oct 2026); all packs have 90% buyback"
+   ],
+   "sample": {
+    "rounds": [
+     {
+      "title": "Lap 1 · Green Flag",
+      "events": [
+       {
+        "id": "x.garage.wipe.1",
+        "kind": "wipe",
+        "text": "**peg_queen**'s registered racer rolls off the tilted workbench. A snapped front axle ends their run before the next heat."
+       },
+       {
+        "id": "g.kill.53",
+        "kind": "kill",
+        "text": "**cardcorner** rolls a decoy Toyota Supra toward the exit. **porschepilled** chases it out, and the elimination gate closes behind them."
+       },
+       {
+        "id": "g.kill.55",
+        "kind": "kill",
+        "text": "**blisterbandit** pointed out a tiny scratch on **nitro.nina**'s mint card. **nitro.nina** has not slept since. **nitro.nina** is out."
+       },
+       {
+        "id": "g.kill.11",
+        "kind": "kill",
+        "text": "**sti_steve** rolls a decoy Datsun 510 down the exit ramp. **redline_rex** follows it through the shutter and misses the restart. Out."
+       },
+       {
+        "id": "garage.wipe.0",
+        "kind": "wipe",
+        "text": "**wafflehunter** ripped 40 packs chasing a Porsche and ran out of gas."
+       },
+       {
+        "id": "g.survive.2",
+        "kind": "survive",
+        "text": "**mint_mike** stood still and pretended to be a display stand. Nobody noticed."
+       }
+      ],
+      "alive": 9,
+      "second_chance": null,
+      "mood": "kills",
+      "asset": "anim/rip_lurk_a.gif",
+      "sc_asset": null
+     },
+     {
+      "title": "Lap 2 · Super Treasure Hunt",
+      "events": [
+       {
+        "id": "g.wipe.27",
+        "kind": "wipe",
+        "text": "**jdm.ghost** hugged the gacha garage too hard. The garage hugged back."
+       },
+       {
+        "id": "g.kill.37",
+        "kind": "kill",
+        "text": "**sti_steve** put **claw_whisperer** in the buyback queue. **claw_whisperer** came out as 90% of a person."
+       },
+       {
+        "id": "g.kill.20",
+        "kind": "kill",
+        "text": "**gulfkid** mailed **blisterbandit** to a collector in a bubble mailer. Tracking says delivered. **blisterbandit** says help."
+       },
+       {
+        "id": "g.survive.18",
+        "kind": "survive",
+        "text": "**pegwarmer** took a selfie with the gacha garage. The claw photobombed. Nobody got hurt."
+       }
+      ],
+      "alive": 6,
+      "second_chance": null,
+      "mood": "kills",
+      "asset": "emo/rip_peek.png",
+      "sc_asset": null
+     },
+     {
+      "title": "Lap 3 · Floor Check",
+      "events": [
+       {
+        "id": "g.kill.27",
+        "kind": "kill",
+        "text": "**mint_mike** tied **pegwarmer**'s shoelaces to the track launcher and hit the switch."
+       },
+       {
+        "id": "g.wipe.9",
+        "kind": "wipe",
+        "text": "**gulfkid** looked up the price of a Super Treasure Hunt and fainted. Never woke up."
+       },
+       {
+        "id": "garage.survive.0",
+        "kind": "survive",
+        "text": "**cardcorner** hid in the roadster's trunk all lap. Cozy."
+       }
+      ],
+      "alive": 4,
+      "second_chance": null,
+      "mood": "oops",
+      "asset": "emo/rip_surrender.png",
+      "sc_asset": null
+     },
+     {
+      "title": "Lap 4 · Collector Convention",
+      "events": [
+       {
+        "id": "garage.kill.3",
+        "kind": "kill",
+        "text": "**cardcorner** yelled LFRIP and ripped **mint_mike** right off the leaderboard."
+       },
+       {
+        "id": "g.kill.70",
+        "kind": "kill",
+        "text": "**rollcage** challenged **sti_steve** to a duel at high noon. **sti_steve** brought a Mercedes 190E. **rollcage** brought a monster truck."
+       },
+       {
+        "id": "garage.revive.2",
+        "kind": "revive",
+        "text": "The Ripper honked twice. **jdm.ghost** climbed back out of the claw."
+       }
+      ],
+      "alive": 3,
+      "second_chance": null,
+      "mood": "revive",
+      "asset": "emo/rip_magic.png",
+      "sc_asset": null
+     },
+     {
+      "title": "Lap 5 · Rain Tyres Only",
+      "events": [
+       {
+        "id": "garage.ambient.3",
+        "kind": "ambient",
+        "text": "The Ripper revs the roadster once, for drama."
+       },
+       {
+        "id": "g.wipe.54",
+        "kind": "wipe",
+        "text": "**jdm.ghost** pitted for fuel. The crew filled it with orange soda."
+       },
+       {
+        "id": "x.garage.survive.2",
+        "kind": "survive",
+        "text": "**rollcage**'s capsule visits the 1968 package artwork, then the 2008 Custom Otto display. They return with a catalogue note, leaving the models behind."
+       }
+      ],
+      "alive": 2,
+      "second_chance": null,
+      "mood": "oops",
+      "asset": "emo/rip_lost.png",
+      "sc_asset": null
+     },
+     {
+      "title": "Final Lap · Redline",
+      "events": [
+       {
+        "id": "garage.duel.0",
+        "kind": "duel",
+        "text": "Final two inside the Garage. The shutter starts to drop. **cardcorner** slides under. **rollcage** does not."
+       }
+      ],
+      "alive": 1,
+      "second_chance": null,
+      "mood": "duel",
+      "asset": "st/13_Vroom.webp",
+      "sc_asset": null
+     }
+    ],
+    "win": "**cardcorner** is the last ripper in the Garage. W pull. LFRIP 🏎️",
+    "total": 6,
+    "lobby_line": "The Ripper rolls the shutter up. Engines on, rippers. Hit Join to enter the Garage.",
+    "lobby_asset": "st/01_W_Pull.webp",
+    "win_asset": "anim/rip_gg_a.gif"
+   }
+  },
+  {
+   "key": "redline",
+   "name": "Redline Era",
+   "banner": "REDLINE ERA · 1971",
+   "emoji": "🔴",
+   "tagline": "A fictional 1971 shop. Orange track, red stripes, one winner.",
+   "color": "#66110A",
+   "slots": {
+    "grail": "pink Beach Bomb",
+    "pack": "1968 blister",
+    "models": [
+     "Custom Camaro",
+     "Twin Mill",
+     "Deora",
+     "Beatnik Bandit",
+     "Hot Heap",
+     "Silhouette",
+     "Custom Corvette",
+     "Python",
+     "Custom Barracuda",
+     "Custom Fleetside",
+     "Ford J-Car",
+     "Custom Cougar",
+     "Custom Mustang"
+    ]
+   },
+   "laps": [
+    "1971 · Shop Opens",
+    "1971 · Orange Track",
+    "1971 · Collector Buttons",
+    "1971 · Sizzlers Desk",
+    "1971 · Rally Case",
+    "1971 · Wheel Check",
+    "1971 · Side-by-Side",
+    "1971 · Shelf Display",
+    "1971 · Track Repairs",
+    "1971 · Paint Table",
+    "1971 · Last Launch",
+    "1971 · Closing Time"
+   ],
+   "final": "Final Lap · 1971 Last Launch",
+   "overtime": "1971 · Deciding Heat",
+   "sequential": true,
+   "lobby": [
+    "The Ripper opens the 1971 shop. Orange track is ready. Hit Join.",
+    "Fresh blister, metal button inside. The Redline rumble is open.",
+    "Redline Era is live. The year is 1971, the paint is Spectraflame and the stripes are red. Hit Join.",
+    "Welcome to 1971, rippers. This rumble runs on red stripes only. Hit Join.",
+    "Orange track assembled. Loop locked. Join before the Super Charger spins up."
+   ],
+   "second_chance": {
+    "name": "Collector Button",
+    "title": "🔴 Collector Button",
+    "button": "Grab the button",
+    "body": "A metal collector button is rolling across the orange track. The bot selects one eligible fallen ripper to return.",
+    "success": [
+     "{A} grabbed the collector button and pinned it on. Back on the orange track."
+    ],
+    "fail": [
+     "Nobody grabbed it. The button rolled under the couch forever."
+    ]
+   },
+   "exclude": [
+    "onchain",
+    "rc",
+    "modern"
+   ],
+   "lines": {
+    "kill": [
+     {
+      "text": "{A} unclipped the Deora's surfboards and smacked {B} into next week.",
+      "vibe": "slap",
+      "tags": [],
+      "id": "redline.kill.0"
+     },
+     {
+      "text": "{A} charged a Sizzler for 90 seconds and lapped {B} until {B} begged for mercy.",
+      "vibe": "race",
+      "tags": [],
+      "id": "redline.kill.1"
+     },
+     {
+      "text": "{A} shows the early Cheetah stamp beneath a Python. {B} submits the wrong shop label in the deciding identification heat. Out.",
+      "vibe": "col",
+      "tags": [],
+      "id": "redline.kill.2"
+     },
+     {
+      "text": "{A} sent a Heavyweights cement mixer down the track. {B} was the speed bump.",
+      "vibe": "slap",
+      "tags": [],
+      "id": "redline.kill.3"
+     },
+     {
+      "text": "{A} popped a wheelie on a Rrrumbler and landed it on {B}. The plastic rider waved goodbye.",
+      "vibe": "slap",
+      "tags": [],
+      "id": "redline.kill.4"
+     },
+     {
+      "text": "{A} pocketed the collector button from {B}'s blister. No button, no {B}.",
+      "vibe": "heist",
+      "tags": [],
+      "id": "redline.kill.5"
+     },
+     {
+      "text": "{A} tips the paint tray onto {B}'s starting lane. {B}'s wheels stick before the deciding launch. Out.",
+      "vibe": "col",
+      "tags": [],
+      "id": "redline.kill.6"
+     },
+     {
+      "text": "{A}'s Custom Camaro crosses the deciding finish. {B}'s entry stalls at the loop and leaves the bracket.",
+      "vibe": "col",
+      "tags": [],
+      "id": "redline.kill.7"
+     },
+     {
+      "text": "{A} fired up the Super Charger and fed {B} through the foam wheels.",
+      "vibe": "slap",
+      "tags": [],
+      "id": "redline.kill.8"
+     }
+    ],
+    "wipe": [
+     {
+      "text": "{A} cleaned a Redline with a kitchen scrubber. Spectraflame gone, {A} gone.",
+      "vibe": "col",
+      "tags": [],
+      "id": "redline.wipe.0"
+     },
+     {
+      "text": "{A} fits plain replacement wheels, then misses the inspection deadline while trying to put the red stripes back. Out.",
+      "vibe": "col",
+      "tags": [],
+      "id": "redline.wipe.1"
+     },
+     {
+      "text": "{A} forgot to charge the Sizzler and stalled before the first corner.",
+      "vibe": "race",
+      "tags": [],
+      "id": "redline.wipe.2"
+     },
+     {
+      "text": "{A} swore 1968 had seventeen models. The Ripper counted sixteen. {A} is out.",
+      "vibe": "col",
+      "tags": [],
+      "id": "redline.wipe.3"
+     },
+     {
+      "text": "{A} arrives at the shop after the deciding heat closes. The empty lane ends their run.",
+      "vibe": "col",
+      "tags": [],
+      "id": "redline.wipe.4"
+     },
+     {
+      "text": "{A} argued for three hours that their Ice Blue was Windex Blue. The lap ended without {A}.",
+      "vibe": "col",
+      "tags": [],
+      "id": "redline.wipe.5"
+     },
+     {
+      "text": "{A} sits on the orange track loop until it snaps flat. Their lane fails inspection and their run ends there.",
+      "vibe": "slap",
+      "tags": [],
+      "id": "redline.wipe.6"
+     },
+     {
+      "text": "{A} threw away a pink one in 1969. In the 1971 identification heat, they name the wrong colour and lose their final entry.",
+      "vibe": "col",
+      "tags": [],
+      "id": "redline.wipe.7"
+     }
+    ],
+    "hazard": [
+     {
+      "text": "The shop display tips across the starting lanes. {names} lose their entries under the fallen shelves and leave the heat.",
+      "vibe": "col",
+      "tags": [],
+      "id": "redline.hazard.0"
+     },
+     {
+      "text": "The Super Charger overheats and launches {names} off the orange track.",
+      "vibe": "slap",
+      "tags": [],
+      "id": "redline.hazard.1"
+     },
+     {
+      "text": "Spring cleaning. Mom boxes up {names} for the garage sale.",
+      "vibe": "slap",
+      "tags": [],
+      "id": "redline.hazard.2"
+     },
+     {
+      "text": "The orange track separates at the last join. {names} land in the catch box and leave the deciding heat.",
+      "vibe": "col",
+      "tags": [],
+      "id": "redline.hazard.3"
+     }
+    ],
+    "survive": [
+     {
+      "text": "{A} hid inside a Rally Case all lap. Snug fit.",
+      "vibe": "warm",
+      "tags": [],
+      "id": "redline.survive.0"
+     },
+     {
+      "text": "{A} polished their Spectraflame all lap. Blinding. Nobody came close.",
+      "vibe": "col",
+      "tags": [],
+      "id": "redline.survive.1"
+     }
+    ],
+    "moment": [
+     {
+      "text": "{A} and {B} traded collector buttons. Fair deal. Rare these days.",
+      "vibe": "warm",
+      "tags": [],
+      "id": "redline.moment.0"
+     }
+    ],
+    "find": [
+     {
+      "text": "{A} finds a {model} in a period blister at the shop. Button and all.",
+      "vibe": "col",
+      "tags": [],
+      "holds": "model",
+      "id": "redline.find.0"
+     },
+     {
+      "text": "{A} spotted a {grail} in a shoebox at a flea market. Paid in pocket change.",
+      "vibe": "col",
+      "tags": [],
+      "holds": "grail",
+      "id": "redline.find.1"
+     }
+    ],
+    "revive": [
+     {
+      "text": "{A} found a collector button in an old cigar box and rejoined the grid.",
+      "vibe": "col",
+      "tags": [],
+      "id": "redline.revive.0"
+     },
+     {
+      "text": "{A} recharged on the Juice Machine and rolled back in.",
+      "vibe": "race",
+      "tags": [],
+      "id": "redline.revive.1"
+     },
+     {
+      "text": "{A} returns from the repair desk with straightened axles. Same 1971 heat, second run.",
+      "vibe": "col",
+      "tags": [],
+      "id": "redline.revive.2"
+     }
+    ],
+    "duel": [
+     {
+      "text": "Final two on the orange track. {A} hits the Super Charger. {B} hits the floor.",
+      "vibe": "race",
+      "tags": [],
+      "id": "redline.duel.0"
+     }
+    ],
+    "ambient": [
+     {
+      "text": "A Sizzler whines somewhere under the couch.",
+      "vibe": "col",
+      "tags": [],
+      "id": "redline.ambient.0"
+     },
+     {
+      "text": "The orange track creaks at the loop.",
+      "vibe": "cine",
+      "tags": [],
+      "id": "redline.ambient.1"
+     },
+     {
+      "text": "Spectraflame catches the light. Everyone squints.",
+      "vibe": "col",
+      "tags": [],
+      "id": "redline.ambient.2"
+     },
+     {
+      "text": "A collector button rolls under the radiator.",
+      "vibe": "col",
+      "tags": [],
+      "id": "redline.ambient.3"
+     },
+     {
+      "text": "The Super Charger foam wheels spin up, then down.",
+      "vibe": "cine",
+      "tags": [],
+      "id": "redline.ambient.4"
+     }
+    ],
+    "win": [
+     {
+      "text": "{A} is the Last Redline. Spectraflame, clean stripes, button on.",
+      "vibe": "col",
+      "tags": [],
+      "id": "redline.win.0"
+     },
+     {
+      "text": "The 1971 shop closes. Only {A} remains on the orange track.",
+      "vibe": "cine",
+      "tags": [],
+      "id": "redline.win.1"
+     },
+     {
+      "text": "{A} wins the Redline rumble. The collector button goes beside the finish line.",
+      "vibe": "col",
+      "tags": [],
+      "id": "redline.win.2"
+     }
+    ]
+   },
+   "expansion_lines": {
+    "survive": [
+     {
+      "text": "{A} moves the Hot Wheels away from the yellow lamp before naming its colour. The argument gets quieter under daylight.",
+      "vibe": "col",
+      "tags": [],
+      "source_id": "R02",
+      "id": "x.redline.survive.0"
+     },
+     {
+      "text": "{A} turns the early Python over. The Cheetah name underneath earns the Hot Wheels a second, longer inspection.",
+      "vibe": "col",
+      "tags": [],
+      "source_id": "R06",
+      "id": "x.redline.survive.1"
+     },
+     {
+      "text": "{A} studies the resin body under the desk lamp. It belongs to the design table, away from the elimination slope.",
+      "vibe": "col",
+      "tags": [],
+      "source_id": "R12",
+      "id": "x.redline.survive.2"
+     }
+    ],
+    "wipe": [
+     {
+      "text": "{A} sends their registered Hot Wheels down the test slope with a bent axle. It scrapes to a halt and fails the elimination run.",
+      "vibe": "col",
+      "tags": [],
+      "source_id": "R03",
+      "id": "x.redline.wipe.0"
+     },
+     {
+      "text": "{A}'s racer hits the booster off-centre, clears the table, and lands on its front axle. Their race ends there.",
+      "vibe": "col",
+      "tags": [],
+      "source_id": "R07",
+      "id": "x.redline.wipe.1"
+     }
+    ],
+    "kill": [
+     {
+      "text": "{A}'s Twin Mill crosses first in the deciding downhill run. {B} picks up their Hot Wheels and leaves the bracket.",
+      "vibe": "col",
+      "tags": [],
+      "source_id": "R04",
+      "id": "x.redline.kill.0"
+     }
+    ],
+    "duel": [
+     {
+      "text": "{A}'s period racer stays straight through the last bend. {B}'s Hot Wheels leaves the lane, and their elimination run ends.",
+      "vibe": "col",
+      "tags": [],
+      "source_id": "R20",
+      "id": "x.redline.duel.0"
+     }
+    ]
+   },
+   "pool_sizes": {
+    "kill": 68,
+    "wipe": 61,
+    "multi": 11,
+    "double": 8,
+    "find": 20,
+    "call": 19,
+    "transfer": 8,
+    "survive": 23,
+    "moment": 13,
+    "revive": 13,
+    "duel": 13,
+    "win": 9,
+    "hazard": 14,
+    "ambient": 10
+   },
+   "facts": [
+    "1968 launch line: 16 models (the Sweet Sixteen); the Custom Camaro was first, sold 18 May 1968",
+    "Deora came with two clip-in surfboards; the Python is also known as the Cheetah",
+    "Super Charger booster (1969) used two spinning foam wheels; Twin Mill joined in 1969",
+    "1970: Spoilers, Heavyweights (cement mixer, tow truck), Sizzlers (90 s charge, up to 5 min), Club Kit",
+    "1971: Rrrumblers; last year made in the US. 1972: buttons dropped, Hong Kong only",
+    "1973: enamel replaced Spectraflame, 21 castings reissued. 1974: Flying Colors, first tampos",
+    "1976: Super Chromes. 1977: last redline year, first Gold Chrome",
+    "Metal collector buttons shipped 1968 to 1971; Ice Blue and Windex Blue are Spectraflame shade names",
+    "Pink rear-loading Beach Bomb prototype: two known; pink was made in small numbers",
+    "Juice Machine was a Sizzlers charger; the Rally Case was a period carry case"
+   ],
+   "sample": {
+    "rounds": [
+     {
+      "title": "1971 · Shop Opens",
+      "events": [
+       {
+        "id": "redline.kill.6",
+        "kind": "kill",
+        "text": "**nitro.nina** tips the paint tray onto **sti_steve**'s starting lane. **sti_steve**'s wheels stick before the deciding launch. Out."
+       },
+       {
+        "id": "g.wipe.16",
+        "kind": "wipe",
+        "text": "**cardcorner** raced a Custom Barracuda against a city bus. The bus won. **cardcorner** was standing on the finish line."
+       },
+       {
+        "id": "redline.wipe.3",
+        "kind": "wipe",
+        "text": "**blisterbandit** swore 1968 had seventeen models. The Ripper counted sixteen. **blisterbandit** is out."
+       },
+       {
+        "id": "g.wipe.44",
+        "kind": "wipe",
+        "text": "**peg_queen** pulled a common, loved it anyway and went home happy. Out, but at peace."
+       },
+       {
+        "id": "g.survive.9",
+        "kind": "survive",
+        "text": "**porschepilled** sold a common for profit. Nobody knows how. **porschepilled** doesn't know how either."
+       }
+      ],
+      "alive": 10,
+      "second_chance": null,
+      "mood": "oops",
+      "asset": "emo/rip_surrender.png",
+      "sc_asset": null
+     },
+     {
+      "title": "1971 · Collector Buttons",
+      "events": [
+       {
+        "id": "redline.kill.1",
+        "kind": "kill",
+        "text": "**redline_rex** charged a Sizzler for 90 seconds and lapped **claw_whisperer** until **claw_whisperer** begged for mercy."
+       },
+       {
+        "id": "g.kill.22",
+        "kind": "kill",
+        "text": "**wafflehunter** opened **pegwarmer**'s carded pink Beach Bomb to play with it. **pegwarmer**'s soul left the building."
+       },
+       {
+        "id": "g.wipe.60",
+        "kind": "wipe",
+        "text": "**gulfkid** rode the orange track so many times they became the orange track."
+       },
+       {
+        "id": "x.redline.survive.1",
+        "kind": "survive",
+        "text": "**nitro.nina** turns the early Python over. The Cheetah name underneath earns the Hot Wheels a second, longer inspection."
+       }
+      ],
+      "alive": 8,
+      "second_chance": "**blisterbandit** grabbed the collector button and pinned it on. Back on the orange track.",
+      "mood": "kills",
+      "asset": "emo/rip_lurk.png",
+      "sc_asset": "anim/rip_catch_a.gif"
+     },
+     {
+      "title": "1971 · Sizzlers Desk",
+      "events": [
+       {
+        "id": "redline.wipe.5",
+        "kind": "wipe",
+        "text": "**jdm.ghost** argued for three hours that their Ice Blue was Windex Blue. The lap ended without **jdm.ghost**."
+       },
+       {
+        "id": "g.kill.52",
+        "kind": "kill",
+        "text": "**porschepilled** picked the lock on **redline_rex**'s display case in four seconds. **redline_rex** fainted at three."
+       },
+       {
+        "id": "g.survive.15",
+        "kind": "survive",
+        "text": "**blisterbandit** fell asleep on the shelf and got mistaken for decor. Untouched."
+       }
+      ],
+      "alive": 6,
+      "second_chance": null,
+      "mood": "oops",
+      "asset": "emo/rip_facepalm.png",
+      "sc_asset": null
+     },
+     {
+      "title": "1971 · Rally Case",
+      "events": [
+       {
+        "id": "redline.wipe.1",
+        "kind": "wipe",
+        "text": "**rollcage** fits plain replacement wheels, then misses the inspection deadline while trying to put the red stripes back. Out."
+       },
+       {
+        "id": "redline.wipe.6",
+        "kind": "wipe",
+        "text": "**blisterbandit** sits on the orange track loop until it snaps flat. Their lane fails inspection and their run ends there."
+       },
+       {
+        "id": "g.moment.10",
+        "kind": "moment",
+        "text": "**nitro.nina** and **porschepilled** hid behind the same dump bin and pretended not to see each other."
+       }
+      ],
+      "alive": 4,
+      "second_chance": null,
+      "mood": "oops",
+      "asset": "emo/rip_lost.png",
+      "sc_asset": null
+     },
+     {
+      "title": "1971 · Paint Table",
+      "events": [
+       {
+        "id": "g.wipe.14",
+        "kind": "wipe",
+        "text": "**wafflehunter** spends the deciding heat counting spare change. The starting gate closes without their entry. Out."
+       },
+       {
+        "id": "redline.wipe.7",
+        "kind": "wipe",
+        "text": "**porschepilled** threw away a pink one in 1969. In the 1971 identification heat, they name the wrong colour and lose their final entry."
+       },
+       {
+        "id": "x.redline.survive.0",
+        "kind": "survive",
+        "text": "**mint_mike** moves the Hot Wheels away from the yellow lamp before naming its colour. The argument gets quieter under daylight."
+       },
+       {
+        "id": "redline.revive.0",
+        "kind": "revive",
+        "text": "**rollcage** found a collector button in an old cigar box and rejoined the grid."
+       }
+      ],
+      "alive": 3,
+      "second_chance": null,
+      "mood": "revive",
+      "asset": "st/19_Roof_Jump.webp",
+      "sc_asset": null
+     },
+     {
+      "title": "1971 · Closing Time",
+      "events": [
+       {
+        "id": "g.kill.30",
+        "kind": "kill",
+        "text": "**nitro.nina** swapped **mint_mike**'s glasses for 1:64 scale glasses. **mint_mike** walked straight into a display case."
+       },
+       {
+        "id": "redline.find.1",
+        "kind": "find",
+        "text": "**rollcage** spotted a pink Beach Bomb in a shoebox at a flea market. Paid in pocket change."
+       }
+      ],
+      "alive": 2,
+      "second_chance": null,
+      "mood": "find",
+      "asset": "st/01_W_Pull.webp",
+      "sc_asset": null
+     },
+     {
+      "title": "Final Lap · 1971 Last Launch",
+      "events": [
+       {
+        "id": "story.final.item",
+        "kind": "duel",
+        "text": "**rollcage**'s earlier pink Beach Bomb tips at the final loop. **nitro.nina** crosses first. The final belongs to **nitro.nina**."
+       }
+      ],
+      "alive": 1,
+      "second_chance": null,
+      "mood": "duel",
+      "asset": "emo/rip_driveout.png",
+      "sc_asset": null
+     }
+    ],
+    "win": "The 1971 shop closes. Only **nitro.nina** remains on the orange track.",
+    "total": 7,
+    "lobby_line": "The Ripper opens the 1971 shop. Orange track is ready. Hit Join.",
+    "lobby_asset": "st/03_LFRIP.webp",
+    "win_asset": "anim/rip_party_a.gif"
+   }
+  },
+  {
+   "key": "hunt",
+   "name": "Treasure Hunt",
+   "banner": "TREASURE HUNT",
+   "emoji": "🔎",
+   "tagline": "Pegs, dump bins and one real chase.",
+   "color": "#C9A227",
+   "slots": {
+    "grail": "Super Treasure Hunt",
+    "pack": "fresh case",
+    "models": [
+     "'67 Camaro",
+     "Skyline GT-R R32",
+     "Bone Shaker",
+     "Twin Mill",
+     "Toyota Supra",
+     "Datsun 510",
+     "Civic Type R",
+     "Porsche 911 GT3 RS",
+     "Kool Kombi",
+     "Lancer Evolution",
+     "Mercedes 190E",
+     "Ferrari F40"
+    ]
+   },
+   "laps": [
+    "Lap {n} · 6 AM Store Run",
+    "Lap {n} · Peg Check",
+    "Lap {n} · Dump Bin Dive",
+    "Lap {n} · Case Day",
+    "Lap {n} · Price Check",
+    "Lap {n} · Wrong Aisle",
+    "Lap {n} · The Back Room",
+    "Lap {n} · Restock Truck",
+    "Lap {n} · Scalper Alert",
+    "Lap {n} · Self Checkout",
+    "Lap {n} · Parking Lot Trade",
+    "Lap {n} · Night Shift"
+   ],
+   "final": "Final Lap · The Last Peg",
+   "overtime": "Sudden Death · One Case Left",
+   "sequential": true,
+   "lobby": [
+    "Doors open at 6 AM. The hunt is on. Hit Join before the pegs get cleared.",
+    "Somewhere in this store is a Super Treasure Hunt. Hit Join and start digging.",
+    "Fresh cases hit the floor today. Hunters, hit Join.",
+    "Treasure Hunt is live. Bring a flashlight and low expectations. Hit Join.",
+    "The peg check starts now. Hit Join."
+   ],
+   "second_chance": {
+    "name": "Restock Truck",
+    "title": "🚚 Restock Truck",
+    "button": "Grab a case",
+    "body": "A restock truck pulled up at the back door. The bot selects one eligible fallen ripper to return.",
+    "success": [
+     "{A} grabbed the first fresh case off the truck. Back in the hunt."
+    ],
+    "fail": [
+     "Nobody made it to the truck. The cases went to another store."
+    ]
+   },
+   "exclude": [
+    "onchain",
+    "rc"
+   ],
+   "lines": {
+    "kill": [
+     {
+      "text": "{A} beats {B} to the peg by one second. {B}'s empty hand misses the final identification entry.",
+      "vibe": "col",
+      "tags": [],
+      "id": "hunt.kill.0"
+     },
+     {
+      "text": "{A} told the store employee {B} was a scalper. Security walked {B} out.",
+      "vibe": "heist",
+      "tags": [],
+      "id": "hunt.kill.1"
+     },
+     {
+      "text": "{A} dug to the bottom of the dump bin and buried {B} on the way up.",
+      "vibe": "slap",
+      "tags": [],
+      "id": "hunt.kill.2"
+     },
+     {
+      "text": "{A} restocks the pegs with peg warmers in front of {B}. {B} walks out before the deciding hunt closes.",
+      "vibe": "col",
+      "tags": [],
+      "id": "hunt.kill.3"
+     },
+     {
+      "text": "{A} followed the restock truck. {B} followed {A}. {A} took a sharp turn. {B} took a lake.",
+      "vibe": "race",
+      "tags": [],
+      "id": "hunt.kill.4"
+     },
+     {
+      "text": "{A} held the last case hostage until {B} gave up and went home.",
+      "vibe": "heist",
+      "tags": [],
+      "id": "hunt.kill.5"
+     },
+     {
+      "text": "{A} points {B} to the wrong aisle. {B} is still in Garden Center when their deciding heat ends.",
+      "vibe": "slap",
+      "tags": [],
+      "id": "hunt.kill.6"
+     },
+     {
+      "text": "{A} found the Super Treasure Hunt behind {B}'s back. {B} turned around and fainted.",
+      "vibe": "col",
+      "tags": [],
+      "id": "hunt.kill.7"
+     }
+    ],
+    "wipe": [
+     {
+      "text": "{A} checked every store in the city before sunrise, got home and found a Super Treasure Hunt on their own shelf. Collapsed.",
+      "vibe": "col",
+      "tags": [],
+      "id": "hunt.wipe.0"
+     },
+     {
+      "text": "{A} follows the stock trolley into the warehouse. Security closes the door behind them. The deciding hunt ends outside.",
+      "vibe": "slap",
+      "tags": [],
+      "id": "hunt.wipe.1"
+     },
+     {
+      "text": "{A} asked an employee when the truck comes. The employee said 'what truck'. {A} dissolved.",
+      "vibe": "col",
+      "tags": [],
+      "id": "hunt.wipe.2"
+     },
+     {
+      "text": "{A} mistook a regular for a Super Treasure Hunt and screamed in public. Never recovered.",
+      "vibe": "col",
+      "tags": [],
+      "id": "hunt.wipe.3"
+     },
+     {
+      "text": "{A} bought every case in the store and found nothing. Out of money, out of hope.",
+      "vibe": "col",
+      "tags": [],
+      "id": "hunt.wipe.4"
+     },
+     {
+      "text": "{A} slept in the Hot Wheels aisle to be first in the morning. The night shift mopped {A} up.",
+      "vibe": "slap",
+      "tags": [],
+      "id": "hunt.wipe.5"
+     },
+     {
+      "text": "{A} posted the store location online. Scalpers arrived. {A} got trampled.",
+      "vibe": "meta",
+      "tags": [],
+      "id": "hunt.wipe.6"
+     },
+     {
+      "text": "{A} checked the same peg 30 times in one hour. The peg won.",
+      "vibe": "slap",
+      "tags": [],
+      "id": "hunt.wipe.7"
+     }
+    ],
+    "hazard": [
+     {
+      "text": "A scalper clears every peg in the city. {names} go home empty-handed.",
+      "vibe": "col",
+      "tags": [],
+      "id": "hunt.hazard.0"
+     },
+     {
+      "text": "The store opens late. {names} freeze in the parking lot.",
+      "vibe": "slap",
+      "tags": [],
+      "id": "hunt.hazard.1"
+     },
+     {
+      "text": "Security escorts {names} out for diving into the dump bin.",
+      "vibe": "slap",
+      "tags": [],
+      "id": "hunt.hazard.2"
+     },
+     {
+      "text": "The employee says 'no more cases today'. {names} collapse on the spot.",
+      "vibe": "col",
+      "tags": [],
+      "id": "hunt.hazard.3"
+     }
+    ],
+    "survive": [
+     {
+      "text": "{A} blended into the peg wall wearing a cardboard costume. Nobody looked twice.",
+      "vibe": "slap",
+      "tags": [],
+      "id": "hunt.survive.0"
+     },
+     {
+      "text": "{A} spent the lap reciting all twelve 1995 Treasure Hunts in order. Nobody interrupted.",
+      "vibe": "col",
+      "tags": [],
+      "id": "hunt.survive.1"
+     }
+    ],
+    "moment": [
+     {
+      "text": "{A} found two of the same chase and gave one to {B}. The hunt has heroes.",
+      "vibe": "warm",
+      "tags": [],
+      "id": "hunt.moment.0"
+     }
+    ],
+    "find": [
+     {
+      "text": "{A} found a {grail} hiding behind a row of peg warmers. Stayed calm. Screamed inside.",
+      "vibe": "col",
+      "tags": [],
+      "holds": "grail",
+      "id": "hunt.find.0"
+     },
+     {
+      "text": "{A} finds a {model} behind the cereal boxes and puts it in their basket for the next heat.",
+      "vibe": "col",
+      "tags": [],
+      "holds": "model",
+      "id": "hunt.find.1"
+     },
+     {
+      "text": "{A} found a {grail} in a fresh case before the employee opened it. Nobody saw. Hopefully.",
+      "vibe": "heist",
+      "tags": [],
+      "holds": "grail",
+      "id": "hunt.find.2"
+     }
+    ],
+    "revive": [
+     {
+      "text": "A fresh case hit the floor. {A} smelled it from the parking lot and came back.",
+      "vibe": "col",
+      "tags": [],
+      "id": "hunt.revive.0"
+     },
+     {
+      "text": "A reserve entry opens at the restock desk. {A} takes the confirmed place and rejoins the hunt.",
+      "vibe": "col",
+      "tags": [],
+      "id": "hunt.revive.1"
+     },
+     {
+      "text": "An employee waved {A} into the back room. Second chance granted.",
+      "vibe": "warm",
+      "tags": [],
+      "id": "hunt.revive.2"
+     }
+    ],
+    "duel": [
+     {
+      "text": "Last two hunters. One peg. One Super Treasure Hunt. {A} grabs it. {B} grabs air.",
+      "vibe": "col",
+      "tags": [],
+      "id": "hunt.duel.0"
+     }
+    ],
+    "ambient": [
+     {
+      "text": "The fluorescent lights buzz over aisle 9.",
+      "vibe": "cine",
+      "tags": [],
+      "id": "hunt.ambient.0"
+     },
+     {
+      "text": "A cart with one squeaky wheel rolls past the pegs.",
+      "vibe": "slap",
+      "tags": [],
+      "id": "hunt.ambient.1"
+     },
+     {
+      "text": "An employee wheels out a case, then wheels it back.",
+      "vibe": "col",
+      "tags": [],
+      "id": "hunt.ambient.2"
+     },
+     {
+      "text": "Someone in the next aisle gasps. False alarm.",
+      "vibe": "col",
+      "tags": [],
+      "id": "hunt.ambient.3"
+     },
+     {
+      "text": "The dump bin settles with a soft rattle.",
+      "vibe": "cine",
+      "tags": [],
+      "id": "hunt.ambient.4"
+     }
+    ],
+    "win": [
+     {
+      "text": "{A} walks out of the store with the Super Treasure Hunt. The hunt is over.",
+      "vibe": "col",
+      "tags": [],
+      "id": "hunt.win.0"
+     },
+     {
+      "text": "{A} cleared the pegs, the bins and every hunter in here. Winner.",
+      "vibe": "slap",
+      "tags": [],
+      "id": "hunt.win.1"
+     }
+    ]
+   },
+   "expansion_lines": {
+    "survive": [
+     {
+      "text": "{A} checks the copyright date, then the release reference. The Hot Wheels is newer than the number underneath it suggests.",
+      "vibe": "col",
+      "tags": [],
+      "source_id": "T01",
+      "id": "x.hunt.survive.0"
+     },
+     {
+      "text": "{A} finds a blue AMX and asks where the Ed Shaver decal sheet went. The model name is only half the question.",
+      "vibe": "col",
+      "tags": [],
+      "source_id": "T09",
+      "id": "x.hunt.survive.1"
+     },
+     {
+      "text": "{A} finds a Hot Wheels without its usual graphics and checks for repainting before describing it as a factory error.",
+      "vibe": "col",
+      "tags": [],
+      "source_id": "T15",
+      "id": "x.hunt.survive.2"
+     }
+    ],
+    "wipe": [
+     {
+      "text": "At the deciding identification desk, {A} uses the wrong year's checklist. Their submitted entry fails, ending the hunt.",
+      "vibe": "col",
+      "tags": [],
+      "source_id": "T17",
+      "id": "x.hunt.wipe.0"
+     }
+    ],
+    "kill": [
+     {
+      "text": "{B} picks the brighter paint. {A} checks the release details and selects the correct Hot Wheels. {B} loses the deciding round.",
+      "vibe": "col",
+      "tags": [],
+      "source_id": "T04",
+      "id": "x.hunt.kill.0"
+     }
+    ],
+    "duel": [
+     {
+      "text": "{B} matches the casting but misses the decoration. {A} submits the requested release and takes the final place.",
+      "vibe": "col",
+      "tags": [],
+      "source_id": "T18",
+      "id": "x.hunt.duel.0"
+     }
+    ]
+   },
+   "pool_sizes": {
+    "kill": 73,
+    "wipe": 68,
+    "multi": 14,
+    "double": 9,
+    "find": 23,
+    "call": 24,
+    "transfer": 9,
+    "survive": 23,
+    "moment": 15,
+    "revive": 16,
+    "duel": 13,
+    "win": 9,
+    "hazard": 15,
+    "ambient": 11
+   },
+   "facts": [
+    "Treasure Hunt began in 1995 with 12 models, about 10,000 each",
+    "Super Treasure Hunt since 2007: Spectraflame paint and Real Riders"
+   ],
+   "sample": {
+    "rounds": [
+     {
+      "title": "Lap 1 · 6 AM Store Run",
+      "events": [
+       {
+        "id": "g.kill.44",
+        "kind": "kill",
+        "text": "**peg_queen** makes the tyre stop. **mint_mike** stays out until a puncture ends their race."
+       },
+       {
+        "id": "g.kill.59",
+        "kind": "kill",
+        "text": "**jdm.ghost** and **gulfkid** hunted the last Super Treasure Hunt at the same store. The cashier picked **jdm.ghost**. **gulfkid** is out."
+       },
+       {
+        "id": "g.kill.36",
+        "kind": "kill",
+        "text": "**claw_whisperer** faked a Super Treasure Hunt restock in general chat. **cardcorner** sprinted to the store and hit the doors before they opened."
+       },
+       {
+        "id": "hunt.kill.4",
+        "kind": "kill",
+        "text": "**redline_rex** followed the restock truck. **rollcage** followed **redline_rex**. **redline_rex** took a sharp turn. **rollcage** took a lake."
+       },
+       {
+        "id": "g.kill.49",
+        "kind": "kill",
+        "text": "**nitro.nina** switches the finish flag to the correct lane. **pegwarmer** celebrates at the wrong line and misses the real finish. Out."
+       },
+       {
+        "id": "g.survive.1",
+        "kind": "survive",
+        "text": "**sti_steve** hid in a dump bin all lap. Survived. Smells like cardboard now."
+       }
+      ],
+      "alive": 9,
+      "second_chance": null,
+      "mood": "kills",
+      "asset": "anim/rip_lurk_a.gif",
+      "sc_asset": null
+     },
+     {
+      "title": "Lap 2 · Peg Check",
+      "events": [
+       {
+        "id": "g.wipe.18",
+        "kind": "wipe",
+        "text": "**jdm.ghost** pulled the same common 40 times in a row and retired to a farm."
+       },
+       {
+        "id": "g.double.8",
+        "kind": "double",
+        "text": "**nitro.nina** and **claw_whisperer** fell asleep in the same dump bin. Shipped back to the warehouse together."
+       },
+       {
+        "id": "g.survive.0",
+        "kind": "survive",
+        "text": "**wafflehunter** spent the whole lap staring at a Twin Mill through the blister. Still alive. Barely."
+       }
+      ],
+      "alive": 6,
+      "second_chance": null,
+      "mood": "oops",
+      "asset": "emo/rip_lost.png",
+      "sc_asset": null
+     },
+     {
+      "title": "Lap 3 · Price Check",
+      "events": [
+       {
+        "id": "g.wipe.69",
+        "kind": "wipe",
+        "text": "The music stops. The lights dim. **sti_steve** is gone, and only the Twin Mill remains."
+       },
+       {
+        "id": "hunt.find.1",
+        "kind": "find",
+        "text": "**wafflehunter** finds a Lancer Evolution behind the cereal boxes and puts it in their basket for the next heat."
+       }
+      ],
+      "alive": 5,
+      "second_chance": null,
+      "mood": "find",
+      "asset": "st/01_W_Pull.webp",
+      "sc_asset": null
+     },
+     {
+      "title": "Lap 4 · Wrong Aisle",
+      "events": [
+       {
+        "id": "g.wipe.39",
+        "kind": "wipe",
+        "text": "**blisterbandit** opened a fresh case and found a smaller fresh case inside. Then a smaller one. **blisterbandit** is still opening."
+       },
+       {
+        "id": "hunt.kill.3",
+        "kind": "kill",
+        "text": "**peg_queen** restocks the pegs with peg warmers in front of **porschepilled**. **porschepilled** walks out before the deciding hunt closes."
+       },
+       {
+        "id": "hunt.survive.0",
+        "kind": "survive",
+        "text": "**wafflehunter** blended into the peg wall wearing a cardboard costume. Nobody looked twice."
+       }
+      ],
+      "alive": 3,
+      "second_chance": null,
+      "mood": "oops",
+      "asset": "st/24_Lost.webp",
+      "sc_asset": null
+     },
+     {
+      "title": "Lap 5 · Scalper Alert",
+      "events": [
+       {
+        "id": "g.call.19",
+        "kind": "call",
+        "text": "**wafflehunter** still won't stop talking about the Lancer Evolution. **peg_queen** left the server to get some peace."
+       },
+       {
+        "id": "x.hunt.survive.2",
+        "kind": "survive",
+        "text": "**redline_rex** finds a Hot Wheels without its usual graphics and checks for repainting before describing it as a factory error."
+       }
+      ],
+      "alive": 2,
+      "second_chance": null,
+      "mood": "callback",
+      "asset": "emo/rip_guard.png",
+      "sc_asset": null
+     },
+     {
+      "title": "Final Lap · The Last Peg",
+      "events": [
+       {
+        "id": "hunt.ambient.2",
+        "kind": "ambient",
+        "text": "An employee wheels out a case, then wheels it back."
+       },
+       {
+        "id": "story.final.item",
+        "kind": "duel",
+        "text": "**wafflehunter** launches the earlier Lancer Evolution through the final loop. **redline_rex**'s entry stops short. **wafflehunter** wins."
+       }
+      ],
+      "alive": 1,
+      "second_chance": null,
+      "mood": "duel",
+      "asset": "st/13_Vroom.webp",
+      "sc_asset": null
+     }
+    ],
+    "win": "**wafflehunter** cleared the pegs, the bins and every hunter in here. Winner.",
+    "total": 6,
+    "lobby_line": "Doors open at 6 AM. The hunt is on. Hit Join before the pegs get cleared.",
+    "lobby_asset": "st/21_Search.webp",
+    "win_asset": "st/03_LFRIP.webp"
+   }
+  },
+  {
+   "key": "nft",
+   "name": "NFT Garage",
+   "banner": "NFT GARAGE",
+   "emoji": "🪙",
+   "tagline": "Mint it, hold it, redeem it. One ripper drives out.",
+   "color": "#A7A9AC",
+   "slots": {
+    "grail": "Series 1 redeemable",
+    "pack": "NFT Garage pack",
+    "models": [
+     "NFT Garage Aventador",
+     "NFT Garage Bluebird Wagon",
+     "NFT Garage Porsche 935"
+    ]
+   },
+   "laps": [
+    "Lap {n} · Wallet Connect",
+    "Lap {n} · Mint Day",
+    "Lap {n} · Gas War",
+    "Lap {n} · Reveal Day",
+    "Lap {n} · Floor Check",
+    "Lap {n} · Paper Hands",
+    "Lap {n} · Diamond Hands",
+    "Lap {n} · Rug Watch",
+    "Lap {n} · Airdrop Season",
+    "Lap {n} · Snapshot",
+    "Lap {n} · Roadmap Delay",
+    "Lap {n} · Redeem Window"
+   ],
+   "final": "Final Lap · Redeem or Rekt",
+   "overtime": "Sudden Death · Last Block",
+   "sequential": true,
+   "lobby": [
+    "Mint window is open. Hit Join and connect your nerves.",
+    "NFT Garage rumble is live. Diamond hands only. Hit Join.",
+    "The chain is warm, the floor is shaky. Hit Join.",
+    "Wen rumble. Now rumble. Hit Join.",
+    "Series 1 vibes, 2021 energy. Hit Join."
+   ],
+   "second_chance": {
+    "name": "Re-mint Window",
+    "title": "♻️ Re-mint Window",
+    "button": "Sign the re-mint",
+    "body": "A re-mint window opened for one block. The bot selects one eligible fallen ripper to return.",
+    "success": [
+     "{A} signed. Re-minted and back in."
+    ],
+    "fail": [
+     "Nobody signed in time. The window closed."
+    ]
+   },
+   "exclude": [],
+   "lines": {
+    "kill": [
+     {
+      "text": "{A} minted the last {grail} one block before {B}. {B} got the sold-out screen forever.",
+      "vibe": "degen",
+      "tags": [
+       "onchain"
+      ],
+      "id": "nft.kill.0"
+     },
+     {
+      "text": "{A} sent {B} a fake redeem link. {B} redeemed nothing and lost everything.",
+      "vibe": "degen",
+      "tags": [
+       "onchain"
+      ],
+      "id": "nft.kill.1"
+     },
+     {
+      "text": "{A} swept the floor right under {B}'s feet. {B} fell through.",
+      "vibe": "degen",
+      "tags": [
+       "onchain"
+      ],
+      "id": "nft.kill.2"
+     },
+     {
+      "text": "{A} sniped {B}'s listing at a typo price. {B} is out and offline.",
+      "vibe": "degen",
+      "tags": [
+       "onchain"
+      ],
+      "id": "nft.kill.3"
+     },
+     {
+      "text": "{A} told {B} the reveal was tomorrow. It was today. {B} missed it and rage-quit the server.",
+      "vibe": "degen",
+      "tags": [
+       "onchain"
+      ],
+      "id": "nft.kill.4"
+     },
+     {
+      "text": "{A} out-gassed {B} in the mint war. {B}'s transaction is still pending in another life.",
+      "vibe": "degen",
+      "tags": [
+       "onchain"
+      ],
+      "id": "nft.kill.5"
+     },
+     {
+      "text": "{A} redeemed the physical and threw it at {B}. Digital meets physical.",
+      "vibe": "slap",
+      "tags": [
+       "onchain"
+      ],
+      "id": "nft.kill.6"
+     },
+     {
+      "text": "{A} matches the requested edition. {B} submits a lookalike from another series and leaves the exhibit round.",
+      "vibe": "degen",
+      "tags": [
+       "onchain"
+      ],
+      "id": "nft.kill.7"
+     }
+    ],
+    "wipe": [
+     {
+      "text": "{A} screenshotted the {grail} instead of minting it. Owns a PNG. Out.",
+      "vibe": "degen",
+      "tags": [
+       "onchain"
+      ],
+      "id": "nft.wipe.0"
+     },
+     {
+      "text": "{A} sold at the floor, then watched it 10x. Left the server to stare at a wall.",
+      "vibe": "degen",
+      "tags": [
+       "onchain"
+      ],
+      "id": "nft.wipe.1"
+     },
+     {
+      "text": "{A} kept the redeemable in a wallet so long they forgot which wallet.",
+      "vibe": "degen",
+      "tags": [
+       "onchain"
+      ],
+      "id": "nft.wipe.2"
+     },
+     {
+      "text": "{A} connected to the wrong site on mint day. Rugged before breakfast.",
+      "vibe": "degen",
+      "tags": [
+       "onchain"
+      ],
+      "id": "nft.wipe.3"
+     },
+     {
+      "text": "{A} paper-handed at the first dip. Gone.",
+      "vibe": "degen",
+      "tags": [
+       "onchain"
+      ],
+      "id": "nft.wipe.4"
+     },
+     {
+      "text": "{A} spent all the gas on a failed transaction. Still paying for it.",
+      "vibe": "degen",
+      "tags": [
+       "onchain"
+      ],
+      "id": "nft.wipe.5"
+     },
+     {
+      "text": "{A} submits the wrong edition record at the deciding desk. The fictional exhibit rejects the entry. Out.",
+      "vibe": "slap",
+      "tags": [
+       "onchain"
+      ],
+      "id": "nft.wipe.6"
+     },
+     {
+      "text": "{A} explained NFTs to the family at dinner. Did not survive the dinner.",
+      "vibe": "warm",
+      "tags": [
+       "onchain"
+      ],
+      "id": "nft.wipe.7"
+     }
+    ],
+    "hazard": [
+     {
+      "text": "The site crashes on mint day. {names} never get through.",
+      "vibe": "degen",
+      "tags": [
+       "onchain"
+      ],
+      "id": "nft.hazard.0"
+     },
+     {
+      "text": "A fake mint link hits the chat. {names} sign it. Rugged.",
+      "vibe": "degen",
+      "tags": [
+       "onchain"
+      ],
+      "id": "nft.hazard.1"
+     },
+     {
+      "text": "The floor dumps. {names} panic-sell and log off.",
+      "vibe": "degen",
+      "tags": [
+       "onchain"
+      ],
+      "id": "nft.hazard.2"
+     },
+     {
+      "text": "Gas spikes. {names} get priced out of the rumble.",
+      "vibe": "degen",
+      "tags": [
+       "onchain"
+      ],
+      "id": "nft.hazard.3"
+     }
+    ],
+    "survive": [
+     {
+      "text": "{A} turned off notifications and touched grass all lap. Untouchable.",
+      "vibe": "warm",
+      "tags": [
+       "onchain"
+      ],
+      "id": "nft.survive.0"
+     }
+    ],
+    "moment": [
+     {
+      "text": "{A} and {B} both held through the dip. Diamond hands, mutual respect.",
+      "vibe": "degen",
+      "tags": [
+       "onchain"
+      ],
+      "id": "nft.moment.0"
+     }
+    ],
+    "find": [
+     {
+      "text": "{A} found a {grail} in an old wallet from 2021. Forgot it was there.",
+      "vibe": "degen",
+      "tags": [
+       "onchain"
+      ],
+      "holds": "grail",
+      "id": "nft.find.0"
+     },
+     {
+      "text": "{A} won a {model} in a Discord raffle and redeemed the physical on the spot.",
+      "vibe": "meta",
+      "tags": [
+       "onchain"
+      ],
+      "holds": "model",
+      "id": "nft.find.1"
+     }
+    ],
+    "revive": [
+     {
+      "text": "{A} got re-minted from a backup wallet. Fresh token, same ripper.",
+      "vibe": "degen",
+      "tags": [
+       "onchain"
+      ],
+      "id": "nft.revive.0"
+     },
+     {
+      "text": "{A} found the seed phrase taped behind a picture frame. Back in.",
+      "vibe": "degen",
+      "tags": [
+       "onchain"
+      ],
+      "id": "nft.revive.1"
+     },
+     {
+      "text": "A surprise airdrop landed in {A}'s wallet. Revived.",
+      "vibe": "degen",
+      "tags": [
+       "onchain"
+      ],
+      "id": "nft.revive.2"
+     }
+    ],
+    "duel": [
+     {
+      "text": "Final two, one block left. {A}'s transaction confirms. {B}'s fails.",
+      "vibe": "degen",
+      "tags": [
+       "onchain"
+      ],
+      "id": "nft.duel.0"
+     }
+    ],
+    "ambient": [
+     {
+      "text": "The mint counter ticks up by one.",
+      "vibe": "degen",
+      "tags": [
+       "onchain"
+      ],
+      "id": "nft.ambient.0"
+     },
+     {
+      "text": "Gas fees blink red, then green.",
+      "vibe": "degen",
+      "tags": [
+       "onchain"
+      ],
+      "id": "nft.ambient.1"
+     },
+     {
+      "text": "A wallet notification pings. Everyone checks their phone.",
+      "vibe": "degen",
+      "tags": [
+       "onchain"
+      ],
+      "id": "nft.ambient.2"
+     },
+     {
+      "text": "The floor price flickers.",
+      "vibe": "degen",
+      "tags": [
+       "onchain"
+      ],
+      "id": "nft.ambient.3"
+     },
+     {
+      "text": "A new wallet joins the server and says nothing.",
+      "vibe": "degen",
+      "tags": [
+       "onchain"
+      ],
+      "id": "nft.ambient.4"
+     }
+    ],
+    "win": [
+     {
+      "text": "{A} holds the last token standing. Diamond hands. Winner.",
+      "vibe": "degen",
+      "tags": [
+       "onchain"
+      ],
+      "id": "nft.win.0"
+     },
+     {
+      "text": "{A} minted, held and redeemed the win. Digital and physical champion.",
+      "vibe": "degen",
+      "tags": [
+       "onchain"
+      ],
+      "id": "nft.win.1"
+     }
+    ]
+   },
+   "expansion_lines": {
+    "survive": [
+     {
+      "text": "{A} checks the edition before copying a rarity label from another release of the same famous casting.",
+      "vibe": "col",
+      "tags": [],
+      "source_id": "N11",
+      "id": "x.nft.survive.0"
+     },
+     {
+      "text": "{A} moves from the WAX archive shelf to the later Flow exhibit and keeps the two collection histories separately labelled.",
+      "vibe": "col",
+      "tags": [],
+      "source_id": "N12",
+      "id": "x.nft.survive.1"
+     },
+     {
+      "text": "{A} enlarges the Hot Wheels preview across the whole wall. The display grows, while the labelled die-cast scale stays the same.",
+      "vibe": "col",
+      "tags": [],
+      "source_id": "N17",
+      "id": "x.nft.survive.2"
+     }
+    ],
+    "wipe": [
+     {
+      "text": "{A} submits a screenshot to the ownership desk. The matching entry belongs to another avatar. {A} is out.",
+      "vibe": "col",
+      "tags": [],
+      "source_id": "N03",
+      "id": "x.nft.wipe.0"
+     }
+    ],
+    "kill": [
+     {
+      "text": "{B} selects the right model name but the wrong edition. {A} matches the full record and wins the deciding comparison.",
+      "vibe": "col",
+      "tags": [],
+      "source_id": "N04",
+      "id": "x.nft.kill.0"
+     }
+    ],
+    "duel": [
+     {
+      "text": "{A}'s rendered racer clears the final bend. {B}'s Hot Wheels slides into the display barrier, ending their virtual-track run.",
+      "vibe": "col",
+      "tags": [],
+      "source_id": "N18",
+      "id": "x.nft.duel.0"
+     }
+    ],
+    "moment": [
+     {
+      "text": "{A} and {B} compare matching Hot Wheels images, then notice the different edition numbers in their exhibit records.",
+      "vibe": "col",
+      "tags": [],
+      "source_id": "N09",
+      "id": "x.nft.moment.0"
+     }
+    ]
+   },
+   "pool_sizes": {
+    "kill": 84,
+    "wipe": 79,
+    "multi": 17,
+    "double": 10,
+    "find": 25,
+    "call": 26,
+    "transfer": 10,
+    "survive": 26,
+    "moment": 16,
+    "revive": 21,
+    "duel": 14,
+    "win": 14,
+    "hazard": 16,
+    "ambient": 13
+   },
+   "facts": [
+    "NFT Garage Series 1 dropped 16 Nov 2021 on WAX, with redeemable Hot Wheels"
+   ],
+   "sample": {
+    "rounds": [
+     {
+      "title": "Lap 1 · Wallet Connect",
+      "events": [
+       {
+        "id": "g.wipe.32",
+        "kind": "wipe",
+        "text": "**porschepilled** won the auction for a Series 1 redeemable, then saw the shipping cost. Collapsed."
+       },
+       {
+        "id": "g.double.0",
+        "kind": "double",
+        "text": "**nitro.nina** and **mint_mike** grabbed the same pack and bonked heads. Both out."
+       },
+       {
+        "id": "g.wipe.24",
+        "kind": "wipe",
+        "text": "**redline_rex** stepped on a loose NFT Garage Bluebird Wagon barefoot at 3 AM. Screamed so loud they left the rumble."
+       },
+       {
+        "id": "nft.wipe.5",
+        "kind": "wipe",
+        "text": "**peg_queen** spent all the gas on a failed transaction. Still paying for it."
+       },
+       {
+        "id": "nft.moment.0",
+        "kind": "moment",
+        "text": "**jdm.ghost** and **gulfkid** both held through the dip. Diamond hands, mutual respect."
+       }
+      ],
+      "alive": 9,
+      "second_chance": null,
+      "mood": "oops",
+      "asset": "emo/rip_facepalm.png",
+      "sc_asset": null
+     },
+     {
+      "title": "Lap 2 · Gas War",
+      "events": [
+       {
+        "id": "g.wipe.9",
+        "kind": "wipe",
+        "text": "**blisterbandit** looked up the price of a Series 1 redeemable and fainted. Never woke up."
+       },
+       {
+        "id": "nft.kill.1",
+        "kind": "kill",
+        "text": "**cardcorner** sent **gulfkid** a fake redeem link. **gulfkid** redeemed nothing and lost everything."
+       },
+       {
+        "id": "x.nft.survive.2",
+        "kind": "survive",
+        "text": "**claw_whisperer** enlarges the Hot Wheels preview across the whole wall. The display grows, while the labelled die-cast scale stays the same."
+       }
+      ],
+      "alive": 7,
+      "second_chance": null,
+      "mood": "oops",
+      "asset": "emo/rip_surrender.png",
+      "sc_asset": null
+     },
+     {
+      "title": "Lap 3 · Reveal Day",
+      "events": [
+       {
+        "id": "nft.kill.5",
+        "kind": "kill",
+        "text": "**pegwarmer** out-gassed **cardcorner** in the mint war. **cardcorner**'s transaction is still pending in another life."
+       },
+       {
+        "id": "nft.kill.3",
+        "kind": "kill",
+        "text": "**claw_whisperer** sniped **wafflehunter**'s listing at a typo price. **wafflehunter** is out and offline."
+       },
+       {
+        "id": "g.survive.10",
+        "kind": "survive",
+        "text": "**rollcage** hid behind the Series 1 redeemable display case. Armored glass. Lucky **rollcage**."
+       }
+      ],
+      "alive": 5,
+      "second_chance": null,
+      "mood": "kills",
+      "asset": "anim/rip_lurk_a.gif",
+      "sc_asset": null
+     },
+     {
+      "title": "Lap 4 · Floor Check",
+      "events": [
+       {
+        "id": "g.kill.67",
+        "kind": "kill",
+        "text": "**claw_whisperer** told **rollcage** the floor only goes up. **rollcage** believed it. **rollcage** is out."
+       },
+       {
+        "id": "g.kill.8",
+        "kind": "kill",
+        "text": "**sti_steve** sneezed on **jdm.ghost**'s mint card. **jdm.ghost** fainted and never woke up."
+       },
+       {
+        "id": "nft.survive.0",
+        "kind": "survive",
+        "text": "**pegwarmer** turned off notifications and touched grass all lap. Untouchable."
+       }
+      ],
+      "alive": 3,
+      "second_chance": null,
+      "mood": "kills",
+      "asset": "st/04_Come_On.webp",
+      "sc_asset": null
+     },
+     {
+      "title": "Lap 5 · Roadmap Delay",
+      "events": [
+       {
+        "id": "nft.wipe.2",
+        "kind": "wipe",
+        "text": "**pegwarmer** kept the redeemable in a wallet so long they forgot which wallet."
+       },
+       {
+        "id": "g.survive.1",
+        "kind": "survive",
+        "text": "**claw_whisperer** hid in a dump bin all lap. Survived. Smells like cardboard now."
+       }
+      ],
+      "alive": 2,
+      "second_chance": null,
+      "mood": "oops",
+      "asset": "emo/rip_facepalm.png",
+      "sc_asset": null
+     },
+     {
+      "title": "Final Lap · Redeem or Rekt",
+      "events": [
+       {
+        "id": "g.duel.0",
+        "kind": "duel",
+        "text": "Final two. **claw_whisperer** and **sti_steve** line up. Green flag. **claw_whisperer** gets the launch. **sti_steve** gets the dust."
+       }
+      ],
+      "alive": 1,
+      "second_chance": null,
+      "mood": "duel",
+      "asset": "anim/rip_vroom_a.gif",
+      "sc_asset": null
+     }
+    ],
+    "win": "**claw_whisperer** takes the rumble. Somewhere, a Series 1 redeemable feels proud.",
+    "total": 6,
+    "lobby_line": "Mint window is open. Hit Join and connect your nerves.",
+    "lobby_asset": "st/25_Gaming.webp",
+    "win_asset": "st/28_Trophy.webp"
+   }
+  },
+  {
+   "key": "gulf",
+   "name": "Gulf",
+   "banner": "GULF · BLUE AND ORANGE",
+   "emoji": "🟦",
+   "tagline": "Endurance rumble. Powder blue, orange stripe, no mercy.",
+   "color": "#6CACE4",
+   "slots": {
+    "grail": "Gulf Porsche 993 GT2",
+    "pack": "Gulf box",
+    "models": [
+     "Gulf VW Drag Beetle",
+     "Gulf Rocket Oil",
+     "Gulf Ford Raptor"
+    ]
+   },
+   "laps": [
+    "Lap {n} · Green Flag",
+    "Lap {n} · Hour 3",
+    "Lap {n} · Night Stint",
+    "Lap {n} · Rain Tyres",
+    "Lap {n} · Driver Change",
+    "Lap {n} · Hour 12",
+    "Lap {n} · Safety Car",
+    "Lap {n} · Fuel Saving",
+    "Lap {n} · Sunrise",
+    "Lap {n} · Pit Wall Drama",
+    "Lap {n} · Hour 20",
+    "Lap {n} · Last Stint"
+   ],
+   "final": "Final Lap · Hour 24",
+   "overtime": "Sudden Death · Photo Finish",
+   "sequential": true,
+   "lobby": [
+    "Powder blue, orange stripe. The Gulf rumble is starting. Hit Join.",
+    "Endurance race about to start. The endurance grid is open. The bot runs every stint. Hit Join.",
+    "The pit wall is set, the livery is fresh. Hit Join.",
+    "Gulf colors only. Hit Join and look fast.",
+    "Night stint ahead. Coffee is mandatory. Hit Join."
+   ],
+   "second_chance": {
+    "name": "Driver Change",
+    "title": "🔄 Driver Change",
+    "button": "Jump in the seat",
+    "body": "The pit wall is calling a driver change. The bot selects one eligible fallen ripper to return.",
+    "success": [
+     "{A} jumped in the seat. Back on track."
+    ],
+    "fail": [
+     "Nobody made the swap. The car stays in the garage."
+    ]
+   },
+   "exclude": [
+    "onchain",
+    "rc"
+   ],
+   "lines": {
+    "kill": [
+     {
+      "text": "{A} stayed flat out down the long straight. {B} choked on the orange exhaust and retired.",
+      "vibe": "race",
+      "tags": [],
+      "id": "gulf.kill.0"
+     },
+     {
+      "text": "{A} out-braked {B} into the chicane at 3 AM. {B} is asleep in the gravel.",
+      "vibe": "race",
+      "tags": [],
+      "id": "gulf.kill.1"
+     },
+     {
+      "text": "{A} stole {B}'s stint at the driver change. {B} is still buckled into the pit wall.",
+      "vibe": "race",
+      "tags": [],
+      "id": "gulf.kill.2"
+     },
+     {
+      "text": "{A} makes the fuel stop. {B} passes the pits and runs dry before the next timing line. Their race is over.",
+      "vibe": "race",
+      "tags": [],
+      "id": "gulf.kill.3"
+     },
+     {
+      "text": "{A} throws powder-blue paint across {B}'s visor. {B} pulls into the pits and retires with no clear view of the track.",
+      "vibe": "slap",
+      "tags": [],
+      "id": "gulf.kill.4"
+     },
+     {
+      "text": "{A} opened packs until a Porsche showed up. It was a Gulf 993 GT2. {A} used it to end {B}.",
+      "vibe": "col",
+      "tags": [],
+      "id": "gulf.kill.5"
+     },
+     {
+      "text": "{A} flashed the headlights at {B} on the night stint. {B} moved over and off the track.",
+      "vibe": "race",
+      "tags": [],
+      "id": "gulf.kill.6"
+     },
+     {
+      "text": "{A} sipped coffee in the pits while {B} ran out of fuel on the back straight.",
+      "vibe": "race",
+      "tags": [],
+      "id": "gulf.kill.7"
+     }
+    ],
+    "wipe": [
+     {
+      "text": "{A} fell asleep during the night stint. Woke up in the next race.",
+      "vibe": "race",
+      "tags": [],
+      "id": "gulf.wipe.0"
+     },
+     {
+      "text": "{A} stayed out on slicks when the rain came. Swim team now.",
+      "vibe": "race",
+      "tags": [],
+      "id": "gulf.wipe.1"
+     },
+     {
+      "text": "{A} repainted a {model} in Gulf colors with a highlighter. Looks wrong. Feels wrong. Out.",
+      "vibe": "col",
+      "tags": [],
+      "id": "gulf.wipe.2"
+     },
+     {
+      "text": "{A} misses the driver-change signal. Fatigue sends them into the gravel, and the crew retires the entry.",
+      "vibe": "race",
+      "tags": [],
+      "id": "gulf.wipe.3"
+     },
+     {
+      "text": "{A} spilled orange paint on the powder blue. The purists removed {A}.",
+      "vibe": "col",
+      "tags": [],
+      "id": "gulf.wipe.4"
+     },
+     {
+      "text": "{A} called the livery baby blue and orange. Escorted out by enthusiasts.",
+      "vibe": "col",
+      "tags": [],
+      "id": "gulf.wipe.5"
+     },
+     {
+      "text": "{A} ran out of fuel in pit lane. So close. So out.",
+      "vibe": "race",
+      "tags": [],
+      "id": "gulf.wipe.6"
+     },
+     {
+      "text": "{A} kept staring at the Gulf 993 GT2 in the pits and missed every lap.",
+      "vibe": "col",
+      "tags": [],
+      "id": "gulf.wipe.7"
+     }
+    ],
+    "hazard": [
+     {
+      "text": "Rain sweeps across the current sector. {names} aquaplane into the gravel and retire.",
+      "vibe": "race",
+      "tags": [],
+      "id": "gulf.hazard.0"
+     },
+     {
+      "text": "Fog rolls in on the night stint. {names} miss the braking point.",
+      "vibe": "race",
+      "tags": [],
+      "id": "gulf.hazard.1"
+     },
+     {
+      "text": "Fresh livery paint drips off the pit roof. {names} get painted orange and disqualified.",
+      "vibe": "slap",
+      "tags": [],
+      "id": "gulf.hazard.2"
+     },
+     {
+      "text": "The safety car comes out and {names} crash into each other behind it.",
+      "vibe": "race",
+      "tags": [
+       "real_vehicle"
+      ],
+      "id": "gulf.hazard.3"
+     }
+    ],
+    "survive": [
+     {
+      "text": "{A} stayed in the garage polishing the livery all lap. Safe and shiny.",
+      "vibe": "col",
+      "tags": [],
+      "id": "gulf.survive.0"
+     }
+    ],
+    "moment": [
+     {
+      "text": "{A} handed {B} a coffee during the night stint. Endurance racing builds friendships.",
+      "vibe": "warm",
+      "tags": [],
+      "id": "gulf.moment.0"
+     }
+    ],
+    "find": [
+     {
+      "text": "{A} found a {grail} in the back of the team truck. One of 6,000. Now one of {A}'s.",
+      "vibe": "col",
+      "tags": [],
+      "holds": "grail",
+      "id": "gulf.find.0"
+     },
+     {
+      "text": "{A} won a {model} from the pit crew in a tyre-change race.",
+      "vibe": "race",
+      "tags": [],
+      "holds": "model",
+      "id": "gulf.find.1"
+     }
+    ],
+    "revive": [
+     {
+      "text": "The pit wall called a driver change. {A} jumped back in the seat.",
+      "vibe": "race",
+      "tags": [],
+      "id": "gulf.revive.0"
+     },
+     {
+      "text": "{A} pushed the car back to the pits and rejoined after repairs.",
+      "vibe": "race",
+      "tags": [
+       "real_vehicle"
+      ],
+      "id": "gulf.revive.1"
+     },
+     {
+      "text": "The stewards reviewed the crash. Not {A}'s fault. Back on track.",
+      "vibe": "race",
+      "tags": [],
+      "id": "gulf.revive.2"
+     }
+    ],
+    "duel": [
+     {
+      "text": "Hour 24. Final lap. {A} and {B} side by side in powder blue. {A} crosses first by a nose.",
+      "vibe": "race",
+      "tags": [],
+      "id": "gulf.duel.0"
+     }
+    ],
+    "ambient": [
+     {
+      "text": "Headlights sweep across pit lane.",
+      "vibe": "race",
+      "tags": [],
+      "id": "gulf.ambient.0"
+     },
+     {
+      "text": "The rain radar turns orange.",
+      "vibe": "race",
+      "tags": [],
+      "id": "gulf.ambient.1"
+     },
+     {
+      "text": "A powder blue blur flashes past the pit wall.",
+      "vibe": "race",
+      "tags": [],
+      "id": "gulf.ambient.2"
+     },
+     {
+      "text": "The coffee machine in the garage gives up.",
+      "vibe": "slap",
+      "tags": [],
+      "id": "gulf.ambient.3"
+     },
+     {
+      "text": "The clock ticks toward hour 24.",
+      "vibe": "cine",
+      "tags": [],
+      "id": "gulf.ambient.4"
+     }
+    ],
+    "win": [
+     {
+      "text": "{A} wins the 24-hour rumble in Gulf colors. Champagne on the podium.",
+      "vibe": "race",
+      "tags": [],
+      "id": "gulf.win.0"
+     },
+     {
+      "text": "{A} takes the endurance crown. Blue, orange and first across the line.",
+      "vibe": "race",
+      "tags": [],
+      "id": "gulf.win.1"
+     }
+    ]
+   },
+   "expansion_lines": {
+    "survive": [
+     {
+      "text": "{A} stops at the wrong blue-and-orange pit board. The crew points one garage down before anyone touches the race car.",
+      "vibe": "race",
+      "tags": [
+       "real_vehicle"
+      ],
+      "source_id": "F06",
+      "id": "x.gulf.survive.0"
+     },
+     {
+      "text": "{A} notices a new vibration and brings the race car into the pits before attempting another full-speed lap.",
+      "vibe": "race",
+      "tags": [
+       "real_vehicle"
+      ],
+      "source_id": "F14",
+      "id": "x.gulf.survive.1"
+     },
+     {
+      "text": "{A} spots the service-road sign before turning off the circuit and stays on the marked race route.",
+      "vibe": "race",
+      "tags": [],
+      "source_id": "F18",
+      "id": "x.gulf.survive.2"
+     }
+    ],
+    "wipe": [
+     {
+      "text": "{A}'s oil pressure falls on the straight. They stop behind the barrier, and the crew retires the race car.",
+      "vibe": "race",
+      "tags": [
+       "real_vehicle"
+      ],
+      "source_id": "F03",
+      "id": "x.gulf.wipe.0"
+     },
+     {
+      "text": "Loose bodywork folds into {A}'s front tyre on the straight. They stop safely, but the damaged wheel ends their race.",
+      "vibe": "race",
+      "tags": [],
+      "source_id": "F15",
+      "id": "x.gulf.wipe.1"
+     }
+    ],
+    "kill": [
+     {
+      "text": "{A} holds the inside line through the final corner. {B} finishes behind them and loses the elimination duel.",
+      "vibe": "race",
+      "tags": [],
+      "source_id": "F04",
+      "id": "x.gulf.kill.0"
+     }
+    ],
+    "duel": [
+     {
+      "text": "{A} exits the final bend ahead. {B} finishes safely behind them and loses the deciding duel.",
+      "vibe": "race",
+      "tags": [],
+      "source_id": "F17",
+      "id": "x.gulf.duel.0"
+     }
+    ]
+   },
+   "pool_sizes": {
+    "kill": 73,
+    "wipe": 69,
+    "multi": 14,
+    "double": 9,
+    "find": 22,
+    "call": 24,
+    "transfer": 9,
+    "survive": 22,
+    "moment": 15,
+    "revive": 16,
+    "duel": 13,
+    "win": 9,
+    "hazard": 15,
+    "ambient": 11
+   },
+   "facts": [
+    "Gulf Porsche 993 GT2: HotWheelsCollectors.com 2016 Special Edition, 6,000 made",
+    "Gulf VW Drag Beetle, Gulf Rocket Oil and Gulf Ford Raptor are from SobiX's reference list"
+   ],
+   "sample": {
+    "rounds": [
+     {
+      "title": "Lap 1 · Green Flag",
+      "events": [
+       {
+        "id": "g.kill.44",
+        "kind": "kill",
+        "text": "**peg_queen** makes the tyre stop. **mint_mike** stays out until a puncture ends their race."
+       },
+       {
+        "id": "g.kill.55",
+        "kind": "kill",
+        "text": "**jdm.ghost** pointed out a tiny scratch on **gulfkid**'s mint card. **gulfkid** has not slept since. **gulfkid** is out."
+       },
+       {
+        "id": "g.kill.39",
+        "kind": "kill",
+        "text": "**claw_whisperer** put a 'FREE Gulf Porsche 993 GT2' sign on a trapdoor. **cardcorner** stepped right on it."
+       },
+       {
+        "id": "gulf.kill.3",
+        "kind": "kill",
+        "text": "**redline_rex** makes the fuel stop. **rollcage** passes the pits and runs dry before the next timing line. Their race is over."
+       },
+       {
+        "id": "g.kill.43",
+        "kind": "kill",
+        "text": "**nitro.nina** brake-checked **pegwarmer** on the main straight. **pegwarmer** is a wall decoration now."
+       },
+       {
+        "id": "g.survive.0",
+        "kind": "survive",
+        "text": "**sti_steve** spent the whole lap staring at a Gulf VW Drag Beetle through the blister. Still alive. Barely."
+       }
+      ],
+      "alive": 9,
+      "second_chance": null,
+      "mood": "kills",
+      "asset": "anim/rip_lurk_a.gif",
+      "sc_asset": null
+     },
+     {
+      "title": "Lap 2 · Hour 3",
+      "events": [
+       {
+        "id": "x.gulf.kill.0",
+        "kind": "kill",
+        "text": "**peg_queen** holds the inside line through the final corner. **claw_whisperer** finishes behind them and loses the elimination duel."
+       },
+       {
+        "id": "gulf.wipe.7",
+        "kind": "wipe",
+        "text": "**jdm.ghost** kept staring at the Gulf 993 GT2 in the pits and missed every lap."
+       },
+       {
+        "id": "g.kill.36",
+        "kind": "kill",
+        "text": "**nitro.nina** faked a Gulf Porsche 993 GT2 restock in general chat. **wafflehunter** sprinted to the store and hit the doors before they opened."
+       },
+       {
+        "id": "gulf.kill.1",
+        "kind": "kill",
+        "text": "**sti_steve** out-braked **porschepilled** into the chicane at 3 AM. **porschepilled** is asleep in the gravel."
+       },
+       {
+        "id": "gulf.survive.0",
+        "kind": "survive",
+        "text": "**redline_rex** stayed in the garage polishing the livery all lap. Safe and shiny."
+       },
+       {
+        "id": "gulf.revive.1",
+        "kind": "revive",
+        "text": "**mint_mike** pushed the car back to the pits and rejoined after repairs."
+       }
+      ],
+      "alive": 6,
+      "second_chance": null,
+      "mood": "revive",
+      "asset": "anim/rip_wave_a.gif",
+      "sc_asset": null
+     },
+     {
+      "title": "Lap 3 · Driver Change",
+      "events": [
+       {
+        "id": "gulf.wipe.0",
+        "kind": "wipe",
+        "text": "**peg_queen** fell asleep during the night stint. Woke up in the next race."
+       },
+       {
+        "id": "g.kill.27",
+        "kind": "kill",
+        "text": "**blisterbandit** tied **mint_mike**'s shoelaces to the track launcher and hit the switch."
+       },
+       {
+        "id": "g.moment.6",
+        "kind": "moment",
+        "text": "**redline_rex** showed **nitro.nina** their pull. **nitro.nina** said W. Pure respect."
+       }
+      ],
+      "alive": 4,
+      "second_chance": null,
+      "mood": "oops",
+      "asset": "st/24_Lost.webp",
+      "sc_asset": null
+     },
+     {
+      "title": "Lap 4 · Hour 12",
+      "events": [
+       {
+        "id": "gulf.ambient.4",
+        "kind": "ambient",
+        "text": "The clock ticks toward hour 24."
+       },
+       {
+        "id": "gulf.kill.0",
+        "kind": "kill",
+        "text": "**nitro.nina** stayed flat out down the long straight. **blisterbandit** choked on the orange exhaust and retired."
+       },
+       {
+        "id": "g.find.3",
+        "kind": "find",
+        "text": "**sti_steve** found a Gulf Ford Raptor at the bottom of a cereal box. Ate the cereal. Kept the Gulf Ford Raptor."
+       }
+      ],
+      "alive": 3,
+      "second_chance": null,
+      "mood": "find",
+      "asset": "anim/rip_wpull_a.gif",
+      "sc_asset": null
+     },
+     {
+      "title": "Lap 5 · Sunrise",
+      "events": [
+       {
+        "id": "g.wipe.3",
+        "kind": "wipe",
+        "text": "**nitro.nina** opened a Gulf box sure it held a Gulf Porsche 993 GT2. The Gulf box was fake. **nitro.nina** burst into flames from grief."
+       },
+       {
+        "id": "g.transfer.1",
+        "kind": "transfer",
+        "text": "**redline_rex** won the Gulf Ford Raptor off **sti_steve** in a coin flip. Best of three. Then best of five."
+       }
+      ],
+      "alive": 2,
+      "second_chance": null,
+      "mood": "callback",
+      "asset": "emo/rip_guard.png",
+      "sc_asset": null
+     },
+     {
+      "title": "Final Lap · Hour 24",
+      "events": [
+       {
+        "id": "gulf.ambient.3",
+        "kind": "ambient",
+        "text": "The coffee machine in the garage gives up."
+       },
+       {
+        "id": "story.final.item",
+        "kind": "duel",
+        "text": "The earlier Gulf Ford Raptor sits on **redline_rex**'s pit display as **sti_steve** crosses the finish first. **redline_rex** leaves in second place."
+       }
+      ],
+      "alive": 1,
+      "second_chance": null,
+      "mood": "duel",
+      "asset": "anim/rip_vroom_a.gif",
+      "sc_asset": null
+     }
+    ],
+    "win": "**sti_steve** wins the rumble and the bragging rights. The Hot Wheels in this story stay fictional.",
+    "total": 6,
+    "lobby_line": "Powder blue, orange stripe. The Gulf rumble is starting. Hit Join.",
+    "lobby_asset": "st/13_Vroom.webp",
+    "win_asset": "anim/rip_party_a.gif"
+   }
+  },
+  {
+   "key": "convention",
+   "name": "Convention Night",
+   "banner": "CONVENTION NIGHT",
+   "emoji": "🎟️",
+   "tagline": "Badges on, bags open. One collector walks out with everything.",
+   "color": "#9E1B32",
+   "slots": {
+    "grail": "convention exclusive",
+    "pack": "goodie bag",
+    "models": [
+     "'55 Chevy Bel Air Gasser",
+     "Datsun Bluebird 510",
+     "'64 Prince Skyline GT",
+     "Shelby Cobra 427 S/C",
+     "Mercedes-Benz 300 SL",
+     "Lancia Stratos Zero",
+     "Ferrari F50",
+     "Audi Sport Quattro S1",
+     "'62 Corvette",
+     "Porsche 935"
+    ]
+   },
+   "laps": [
+    "Lap {n} · Doors Open",
+    "Lap {n} · Badge Pickup",
+    "Lap {n} · Dealer Room",
+    "Lap {n} · Raffle Time",
+    "Lap {n} · Room Trading",
+    "Lap {n} · Custom Contest",
+    "Lap {n} · Swap Table",
+    "Lap {n} · Food Court",
+    "Lap {n} · Lost and Found",
+    "Lap {n} · Panel Talk",
+    "Lap {n} · Exclusive Drop",
+    "Lap {n} · After Hours"
+   ],
+   "final": "Final Lap · Last Call",
+   "overtime": "Sudden Death · Lights Out",
+   "sequential": true,
+   "lobby": [
+    "Doors are about to open. Badges on. Hit Join.",
+    "Convention Night is live. Dealer room, raffles and chaos. Hit Join.",
+    "The line wraps around the building twice. Hit Join to skip it.",
+    "Lanyards out, wallets ready. Hit Join.",
+    "Room trading starts tonight. Hit Join."
+   ],
+   "second_chance": {
+    "name": "Re-entry Stamp",
+    "title": "🎟️ Re-entry Stamp",
+    "button": "Get stamped",
+    "body": "Security is stamping hands at the side door. The bot selects one eligible fallen ripper to return.",
+    "success": [
+     "{A} got the stamp. Back inside Convention Night."
+    ],
+    "fail": [
+     "The side door closed. Nobody got back in."
+    ]
+   },
+   "exclude": [
+    "onchain",
+    "rc"
+   ],
+   "lines": {
+    "kill": [
+     {
+      "text": "{A} cut the line at the doors. {B} has been waiting since Tuesday and gave up.",
+      "vibe": "col",
+      "tags": [],
+      "id": "convention.kill.0"
+     },
+     {
+      "text": "{A} won the raffle {B} entered 40 times. {B} fainted into the snack table.",
+      "vibe": "col",
+      "tags": [],
+      "id": "convention.kill.1"
+     },
+     {
+      "text": "{A} traded {B} a custom with rare paint. It was nail polish. {B} is out.",
+      "vibe": "heist",
+      "tags": [],
+      "id": "convention.kill.2"
+     },
+     {
+      "text": "{A} out-haggled {B} at the dealer table. {B} went home with a lanyard and nothing else.",
+      "vibe": "col",
+      "tags": [],
+      "id": "convention.kill.3"
+     },
+     {
+      "text": "{A} borrowed {B}'s badge for one minute. {B} is locked outside now.",
+      "vibe": "heist",
+      "tags": [],
+      "id": "convention.kill.4"
+     },
+     {
+      "text": "{A} knocked on {B}'s hotel room at 2 AM with a better deal. {B} sold everything and left.",
+      "vibe": "col",
+      "tags": [],
+      "id": "convention.kill.5"
+     },
+     {
+      "text": "{A} won the custom contest. {B}'s custom lost a wheel on stage and {B} left the building in tears.",
+      "vibe": "col",
+      "tags": [],
+      "id": "convention.kill.6"
+     },
+     {
+      "text": "{A} grabs the last {grail} for the identification heat. {B} stops for a photo and misses the entry deadline.",
+      "vibe": "heist",
+      "tags": [],
+      "id": "convention.kill.7"
+     }
+    ],
+    "wipe": [
+     {
+      "text": "{A} lost their badge and spent the night arguing with security.",
+      "vibe": "slap",
+      "tags": [],
+      "id": "convention.wipe.0"
+     },
+     {
+      "text": "{A}'s haul bag splits on the hotel stairs. Their registered entry rolls through the steps and out of reach. Their heat ends without it.",
+      "vibe": "slap",
+      "tags": [],
+      "id": "convention.wipe.1"
+     },
+     {
+      "text": "{A} spent the whole budget in the first five minutes. Out of cash, out of the rumble.",
+      "vibe": "col",
+      "tags": [],
+      "id": "convention.wipe.2"
+     },
+     {
+      "text": "{A} slept in the dealer room to be first tomorrow. Got mopped up at midnight.",
+      "vibe": "slap",
+      "tags": [],
+      "id": "convention.wipe.3"
+     },
+     {
+      "text": "{A} got lost between hotel rooms and is still knocking on doors.",
+      "vibe": "slap",
+      "tags": [],
+      "id": "convention.wipe.4"
+     },
+     {
+      "text": "{A} eats the food court nachos. The deciding race starts while they are still in the bathroom queue.",
+      "vibe": "slap",
+      "tags": [],
+      "id": "convention.wipe.5"
+     },
+     {
+      "text": "{A} took 800 photos of one {model}. Phone died. Then {A} did.",
+      "vibe": "meta",
+      "tags": [],
+      "id": "convention.wipe.6"
+     },
+     {
+      "text": "{A} sat through a two-hour panel about wheel variations. Fell asleep and never woke up.",
+      "vibe": "col",
+      "tags": [],
+      "id": "convention.wipe.7"
+     }
+    ],
+    "hazard": [
+     {
+      "text": "Doors open. The stampede takes out {names}.",
+      "vibe": "slap",
+      "tags": [],
+      "id": "convention.hazard.0"
+     },
+     {
+      "text": "The raffle draws one name. {names} collapse from grief.",
+      "vibe": "col",
+      "tags": [],
+      "id": "convention.hazard.1"
+     },
+     {
+      "text": "The hotel elevator gets stuck with {names} and 400 Hot Wheels inside.",
+      "vibe": "slap",
+      "tags": [],
+      "id": "convention.hazard.2"
+     },
+     {
+      "text": "The fire alarm goes off. {names} refuse to leave their tables and get carried out.",
+      "vibe": "col",
+      "tags": [],
+      "id": "convention.hazard.3"
+     }
+    ],
+    "survive": [
+     {
+      "text": "{A} hid behind the tallest display case in the room. Camouflage master.",
+      "vibe": "slap",
+      "tags": [],
+      "id": "convention.survive.0"
+     }
+    ],
+    "moment": [
+     {
+      "text": "{A} and {B} traded business cards and a {model}. Collector friends for life.",
+      "vibe": "warm",
+      "tags": [],
+      "id": "convention.moment.0"
+     }
+    ],
+    "find": [
+     {
+      "text": "{A} found a {grail} in the lost and found. Nobody claimed it. Now {A} did.",
+      "vibe": "heist",
+      "tags": [],
+      "holds": "grail",
+      "id": "convention.find.0"
+     },
+     {
+      "text": "{A} pulled a {model} out of the goodie bag and screamed loud enough to stop the panel.",
+      "vibe": "col",
+      "tags": [],
+      "holds": "model",
+      "id": "convention.find.1"
+     }
+    ],
+    "revive": [
+     {
+      "text": "Security stamped {A}'s hand at the side door. Back inside.",
+      "vibe": "warm",
+      "tags": [],
+      "id": "convention.revive.0"
+     },
+     {
+      "text": "{A} found their lost badge under the nacho tray. Back in.",
+      "vibe": "slap",
+      "tags": [],
+      "id": "convention.revive.1"
+     },
+     {
+      "text": "{A} won a re-entry pass at the raffle. Back in the game.",
+      "vibe": "col",
+      "tags": [],
+      "id": "convention.revive.2"
+     }
+    ],
+    "duel": [
+     {
+      "text": "Last call. Two collectors, one exclusive. {A} pays. {B} pays the price.",
+      "vibe": "col",
+      "tags": [],
+      "id": "convention.duel.0"
+     }
+    ],
+    "ambient": [
+     {
+      "text": "The PA system crackles: raffle in 10 minutes.",
+      "vibe": "col",
+      "tags": [],
+      "id": "convention.ambient.0"
+     },
+     {
+      "text": "A rolling suitcase full of Hot Wheels thunders past.",
+      "vibe": "slap",
+      "tags": [],
+      "id": "convention.ambient.1"
+     },
+     {
+      "text": "Somebody yells that room 412 has deals.",
+      "vibe": "col",
+      "tags": [],
+      "id": "convention.ambient.2"
+     },
+     {
+      "text": "The dealer room smells like cardboard and coffee.",
+      "vibe": "warm",
+      "tags": [],
+      "id": "convention.ambient.3"
+     },
+     {
+      "text": "A lanyard drops on the floor. Nobody picks it up.",
+      "vibe": "cine",
+      "tags": [],
+      "id": "convention.ambient.4"
+     }
+    ],
+    "win": [
+     {
+      "text": "{A} walks out of Convention Night with the exclusive and every bragging right in the building.",
+      "vibe": "col",
+      "tags": [],
+      "id": "convention.win.0"
+     },
+     {
+      "text": "{A} leaves the hotel with the trophy and a suitcase that no longer closes.",
+      "vibe": "col",
+      "tags": [],
+      "id": "convention.win.1"
+     }
+    ]
+   },
+   "expansion_lines": {
+    "survive": [
+     {
+      "text": "{A} wins the auction lot and opens the box. One display sign, no Hot Wheels. They read the lot description this time.",
+      "vibe": "col",
+      "tags": [],
+      "source_id": "C06",
+      "id": "x.convention.survive.0"
+     },
+     {
+      "text": "{A} finds their convention badge inside the display-case pocket and gets through the door without borrowing anyone else's name.",
+      "vibe": "col",
+      "tags": [],
+      "source_id": "C14",
+      "id": "x.convention.survive.1"
+     },
+     {
+      "text": "{A} examines the Candy Striper's numbered package, then returns it to the owner's display case.",
+      "vibe": "col",
+      "tags": [],
+      "source_id": "C16",
+      "id": "x.convention.survive.2"
+     }
+    ],
+    "wipe": [
+     {
+      "text": "{A} negotiates over one final colour variation until the race desk closes. Their empty lane costs them the heat. They're out.",
+      "vibe": "col",
+      "tags": [],
+      "source_id": "C04",
+      "id": "x.convention.wipe.0"
+     },
+     {
+      "text": "A display trolley jolts into {A}'s loose race Hot Wheels. One bent axle later, {A} has no entry for the deciding heat.",
+      "vibe": "col",
+      "tags": [],
+      "source_id": "C07",
+      "id": "x.convention.wipe.1"
+     }
+    ],
+    "kill": [
+     {
+      "text": "{A}'s stock racer wins by its front wheels. {B} finishes the run, but their convention tournament ends there.",
+      "vibe": "col",
+      "tags": [],
+      "source_id": "C17",
+      "id": "x.convention.kill.0"
+     }
+    ],
+    "duel": [
+     {
+      "text": "{A} and {B} receive fresh stock Hot Wheels at the race desk. {A} wins the deciding run. {B} leaves the bracket.",
+      "vibe": "col",
+      "tags": [],
+      "source_id": "C13",
+      "id": "x.convention.duel.0"
+     }
+    ],
+    "moment": [
+     {
+      "text": "{A} takes the stairs while {B} waits with three collectors and six display cases for the elevator.",
+      "vibe": "col",
+      "tags": [],
+      "source_id": "C02",
+      "id": "x.convention.moment.0"
+     },
+     {
+      "text": "{A} and {B} move the disputed colour variation under the neutral inspection lamp. The hotel lighting stops deciding the argument.",
+      "vibe": "col",
+      "tags": [],
+      "source_id": "C12",
+      "id": "x.convention.moment.1"
+     }
+    ]
+   },
+   "pool_sizes": {
+    "kill": 73,
+    "wipe": 69,
+    "multi": 14,
+    "double": 9,
+    "find": 22,
+    "call": 24,
+    "transfer": 9,
+    "survive": 22,
+    "moment": 17,
+    "revive": 16,
+    "duel": 13,
+    "win": 9,
+    "hazard": 15,
+    "ambient": 11
+   },
+   "facts": [
+    "Models are from SobiX's reference list; convention scenes are generic culture, not dated facts"
+   ],
+   "sample": {
+    "rounds": [
+     {
+      "title": "Lap 1 · Doors Open",
+      "events": [
+       {
+        "id": "g.kill.10",
+        "kind": "kill",
+        "text": "**gulfkid** left a Ferrari F50 on **porschepilled**'s chair. **porschepilled** sat down, shot through the ceiling and left the rumble."
+       },
+       {
+        "id": "convention.kill.3",
+        "kind": "kill",
+        "text": "**redline_rex** out-haggled **pegwarmer** at the dealer table. **pegwarmer** went home with a lanyard and nothing else."
+       },
+       {
+        "id": "convention.wipe.6",
+        "kind": "wipe",
+        "text": "**blisterbandit** took 800 photos of one Ferrari F50. Phone died. Then **blisterbandit** did."
+       },
+       {
+        "id": "convention.kill.7",
+        "kind": "kill",
+        "text": "**mint_mike** grabs the last convention exclusive for the identification heat. **nitro.nina** stops for a photo and misses the entry deadline."
+       },
+       {
+        "id": "convention.find.0",
+        "kind": "find",
+        "text": "**jdm.ghost** found a convention exclusive in the lost and found. Nobody claimed it. Now **jdm.ghost** did."
+       }
+      ],
+      "alive": 10,
+      "second_chance": null,
+      "mood": "find",
+      "asset": "anim/rip_wpull_a.gif",
+      "sc_asset": null
+     },
+     {
+      "title": "Lap 2 · Dealer Room",
+      "events": [
+       {
+        "id": "g.kill.20",
+        "kind": "kill",
+        "text": "**rollcage** mailed **gulfkid** to a collector in a bubble mailer. Tracking says delivered. **gulfkid** says help."
+       },
+       {
+        "id": "convention.kill.2",
+        "kind": "kill",
+        "text": "**redline_rex** traded **sti_steve** a custom with rare paint. It was nail polish. **sti_steve** is out."
+       },
+       {
+        "id": "g.kill.74",
+        "kind": "kill",
+        "text": "**cardcorner** looked **wafflehunter** in the eye, said 'nothing personal' and launched **wafflehunter** into orbit."
+       },
+       {
+        "id": "g.call.20",
+        "kind": "call",
+        "text": "**claw_whisperer** tried to swap **jdm.ghost**'s convention exclusive for a fake. **jdm.ghost** spotted the wrong wheels and sent **claw_whisperer** home."
+       },
+       {
+        "id": "x.convention.survive.1",
+        "kind": "survive",
+        "text": "**mint_mike** finds their convention badge inside the display-case pocket and gets through the door without borrowing anyone else's name."
+       }
+      ],
+      "alive": 7,
+      "second_chance": "**sti_steve** got the stamp. Back inside Convention Night.",
+      "mood": "callback",
+      "asset": "st/15_Mine.webp",
+      "sc_asset": "st/07_Catch.webp"
+     },
+     {
+      "title": "Lap 3 · Raffle Time",
+      "events": [
+       {
+        "id": "convention.kill.1",
+        "kind": "kill",
+        "text": "**redline_rex** won the raffle **rollcage** entered 40 times. **rollcage** fainted into the snack table."
+       },
+       {
+        "id": "convention.kill.4",
+        "kind": "kill",
+        "text": "**cardcorner** borrowed **peg_queen**'s badge for one minute. **peg_queen** is locked outside now."
+       },
+       {
+        "id": "x.convention.survive.2",
+        "kind": "survive",
+        "text": "**mint_mike** examines the Candy Striper's numbered package, then returns it to the owner's display case."
+       }
+      ],
+      "alive": 5,
+      "second_chance": null,
+      "mood": "kills",
+      "asset": "st/04_Come_On.webp",
+      "sc_asset": null
+     },
+     {
+      "title": "Lap 4 · Swap Table",
+      "events": [
+       {
+        "id": "g.call.6",
+        "kind": "call",
+        "text": "**jdm.ghost** refused to let go of the convention exclusive during a pit stop. The crew changed **jdm.ghost** instead of the tyres."
+       },
+       {
+        "id": "g.moment.5",
+        "kind": "moment",
+        "text": "**redline_rex** and **mint_mike** argued about the best casting ever. Nobody won. Everyone lived."
+       }
+      ],
+      "alive": 4,
+      "second_chance": null,
+      "mood": "callback",
+      "asset": "emo/rip_guard.png",
+      "sc_asset": null
+     },
+     {
+      "title": "Lap 5 · Food Court",
+      "events": [
+       {
+        "id": "x.convention.wipe.0",
+        "kind": "wipe",
+        "text": "**redline_rex** negotiates over one final colour variation until the race desk closes. Their empty lane costs them the heat. They're out."
+       },
+       {
+        "id": "x.convention.moment.1",
+        "kind": "moment",
+        "text": "**mint_mike** and **cardcorner** move the disputed colour variation under the neutral inspection lamp. The hotel lighting stops deciding the argument."
+       }
+      ],
+      "alive": 3,
+      "second_chance": null,
+      "mood": "oops",
+      "asset": "anim/rip_oops_a.gif",
+      "sc_asset": null
+     },
+     {
+      "title": "Lap 6 · Lost and Found",
+      "events": [
+       {
+        "id": "g.ambient.4",
+        "kind": "ambient",
+        "text": "Engines idle. Hands hover over packs. Nobody blinks."
+       },
+       {
+        "id": "convention.kill.0",
+        "kind": "kill",
+        "text": "**sti_steve** cut the line at the doors. **cardcorner** has been waiting since Tuesday and gave up."
+       },
+       {
+        "id": "x.convention.survive.0",
+        "kind": "survive",
+        "text": "**mint_mike** wins the auction lot and opens the box. One display sign, no Hot Wheels. They read the lot description this time."
+       }
+      ],
+      "alive": 2,
+      "second_chance": null,
+      "mood": "kills",
+      "asset": "st/06_Tug.webp",
+      "sc_asset": null
+     },
+     {
+      "title": "Final Lap · Last Call",
+      "events": [
+       {
+        "id": "g.duel.11",
+        "kind": "duel",
+        "text": "**mint_mike** and **sti_steve** flip a coin for the win. It lands on its edge. **mint_mike** pushes it over."
+       }
+      ],
+      "alive": 1,
+      "second_chance": null,
+      "mood": "duel",
+      "asset": "st/13_Vroom.webp",
+      "sc_asset": null
+     }
+    ],
+    "win": "Every engine went quiet except **mint_mike**'s. That's the win.",
+    "total": 7,
+    "lobby_line": "Doors are about to open. Badges on. Hit Join.",
+    "lobby_asset": "st/18_Haul.webp",
+    "win_asset": "st/03_LFRIP.webp"
+   }
+  }
+ ],
+ "moods": {
+  "carnage": [
+   "anim/rip_mindblown_a.gif",
+   "st/20_Shake.webp",
+   "emo/rip_mindblown.png",
+   "st/02_Broke.webp"
+  ],
+  "oops": [
+   "anim/rip_oops_a.gif",
+   "emo/rip_facepalm.png",
+   "st/24_Lost.webp",
+   "emo/rip_surrender.png",
+   "emo/rip_lost.png",
+   "emo/rip_emptypockets.png"
+  ],
+  "kills": [
+   "st/06_Tug.webp",
+   "st/04_Come_On.webp",
+   "emo/rip_lurk.png",
+   "anim/rip_lurk_a.gif",
+   "emo/rip_guard.png",
+   "emo/rip_peek.png"
+  ],
+  "find": [
+   "st/14_Got_One.webp",
+   "anim/rip_wpull_a.gif",
+   "st/01_W_Pull.webp",
+   "emo/rip_jackpot.png",
+   "emo/rip_gotone.png",
+   "st/16_Reveal.webp",
+   "emo/rip_reveal.png"
+  ],
+  "callback": [
+   "st/15_Mine.webp",
+   "emo/rip_guard.png",
+   "emo/rip_secret.png",
+   "emo/rip_hush.png",
+   "st/22_Shade.webp"
+  ],
+  "revive": [
+   "st/19_Roof_Jump.webp",
+   "emo/rip_jumpin.png",
+   "anim/rip_wave_a.gif",
+   "emo/rip_magic.png"
+  ],
+  "quiet": [
+   "st/26_Popcorn.webp",
+   "st/23_Zen.webp",
+   "emo/rip_lounge.png",
+   "emo/rip_nap.png",
+   "st/11_News.webp",
+   "emo/rip_relax.png",
+   "emo/rip_vibing.png"
+  ],
+  "duel": [
+   "anim/rip_vroom_a.gif",
+   "st/13_Vroom.webp",
+   "emo/rip_vroom.png",
+   "emo/rip_driveout.png"
+  ],
+  "winner": [
+   "st/28_Trophy.webp",
+   "anim/rip_gg_a.gif",
+   "anim/rip_party_a.gif",
+   "st/12_GG.webp",
+   "emo/rip_trophy.png",
+   "st/03_LFRIP.webp"
+  ],
+  "second_chance": [
+   "st/07_Catch.webp",
+   "anim/rip_catch_a.gif"
+  ],
+  "cancel": [
+   "st/10_Rainy_Day.webp",
+   "anim/rip_rain_a.gif",
+   "emo/rip_late.png"
+  ],
+  "stopped": [
+   "emo/rip_surrender.png",
+   "emo/rip_facepalm.png"
+  ],
+  "leaderboard": [
+   "st/28_Trophy.webp",
+   "st/35_Ripper_Fam.webp"
+  ],
+  "panel": [
+   "anim/rip_logoverified_a.gif",
+   "emo/rip_logo.png"
+  ],
+  "lobby": [
+   "anim/rip_announce_a.gif"
+  ],
+  "start": [
+   "anim/rip_lfrip_a.gif",
+   "st/31_LFRIP.webp"
+  ]
+ }
+}

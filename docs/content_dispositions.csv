@@ -1,0 +1,544 @@
+original_id,decision,eligibility,original_text,published_text
+g.kill.0,retain,,"{A} hit {B} with a {model}. Die-cast, full swing. Goodnight, {B}.","{A} hit {B} with a {model}. Die-cast, full swing. Goodnight, {B}."
+g.kill.1,retain,,{A} pushed {B} into the gacha garage. The claw kept {B} as a prize.,{A} pushed {B} into the gacha garage. The claw kept {B} as a prize.
+g.kill.2,retain,period-filtered,{A} sold {B} a fake {grail}. {B} found out in front of the whole server and evaporated.,{A} sold {B} a fake {grail}. {B} found out in front of the whole server and evaporated.
+g.kill.3,retain,,{A} told {B} the {grail} restock was live. {B} ran out the door and is still running.,{A} told {B} the {grail} restock was live. {B} ran out the door and is still running.
+g.kill.4,retain,,{A} pulled a {grail} right next to {B}. {B}'s heart stopped from pure envy.,{A} pulled a {grail} right next to {B}. {B}'s heart stopped from pure envy.
+g.kill.5,retain,,{A} hid a {model} in {B}'s cereal. Crunch. {B} is out.,{A} hid a {model} in {B}'s cereal. Crunch. {B} is out.
+g.kill.6,retain,,{A} launched {B} off the top of a track loop. {B} has not landed yet.,{A} launched {B} off the top of a track loop. {B} has not landed yet.
+g.kill.7,retain,,{A} sealed {B} in a blister and put {B} on a supermarket peg. {B} is still waiting for someone to buy them.,{A} sealed {B} in a blister and put {B} on a supermarket peg. {B} is still waiting for someone to buy them.
+g.kill.8,retain,,{A} sneezed on {B}'s mint card. {B} fainted and never woke up.,{A} sneezed on {B}'s mint card. {B} fainted and never woke up.
+g.kill.9,retain,,{A} outbid {B} by one dollar. {B} turned to dust.,{A} outbid {B} by one dollar. {B} turned to dust.
+g.kill.10,retain,,"{A} left a {model} on {B}'s chair. {B} sat down, shot through the ceiling and left the rumble.","{A} left a {model} on {B}'s chair. {B} sat down, shot through the ceiling and left the rumble."
+g.kill.11,rewrite,,{A} swapped {B}'s {grail} for a common while {B} blinked. {B} has not stopped blinking since.,{A} rolls a decoy {model} down the exit ramp. {B} follows it through the shutter and misses the restart. Out.
+g.kill.12,retain,,{A} rolled a {model} under {B}'s foot at the top of the stairs. Gravity did the rest.,{A} rolled a {model} under {B}'s foot at the top of the stairs. Gravity did the rest.
+g.kill.13,retain,period-filtered,{A} paid the claw to grab {B}. The claw dropped {B} in a different server.,{A} paid the claw to grab {B}. The claw dropped {B} in a different server.
+g.kill.14,retain,,{A} and {B} reached for the last {model} on the peg. {A} left with it. {B} left in an ambulance.,{A} and {B} reached for the last {model} on the peg. {A} left with it. {B} left in an ambulance.
+g.kill.15,retain,,{A} told {B} their {grail} was a reproduction. {B} crumbled like an old card.,{A} told {B} their {grail} was a reproduction. {B} crumbled like an old card.
+g.kill.16,retain,,{A} rolled the gacha garage downhill. {B} was standing at the bottom.,{A} rolled the gacha garage downhill. {B} was standing at the bottom.
+g.kill.17,retain,,{A} threw a 50-pack at {B}. Direct hit. {B} is out.,{A} threw a 50-pack at {B}. Direct hit. {B} is out.
+g.kill.18,rewrite,,{A} signed {B} up for every collector newsletter on earth. {B} drowned in emails.,"{A} buries {B} under a stack of collector catalogues. By the time {B} crawls out, their heat is over."
+g.kill.19,retain,,{A} hid {B}'s favorite {model}. {B} is still looking. The rumble moved on.,{A} hid {B}'s favorite {model}. {B} is still looking. The rumble moved on.
+g.kill.20,retain,,{A} mailed {B} to a collector in a bubble mailer. Tracking says delivered. {B} says help.,{A} mailed {B} to a collector in a bubble mailer. Tracking says delivered. {B} says help.
+g.kill.21,retain,,{A} drop-kicked {B} into the dump bin. Lost forever among 400 commons.,{A} drop-kicked {B} into the dump bin. Lost forever among 400 commons.
+g.kill.22,retain,,{A} opened {B}'s carded {grail} to play with it. {B}'s soul left the building.,{A} opened {B}'s carded {grail} to play with it. {B}'s soul left the building.
+g.kill.23,retain,,{A} flicked a {model} across the table and hit {B} right in the forehead. Clean elimination.,{A} flicked a {model} across the table and hit {B} right in the forehead. Clean elimination.
+g.kill.24,retain,period-filtered,{A} pretended to be a mod and banned {B}. Not even a real mod. Still worked.,{A} pretended to be a mod and banned {B}. Not even a real mod. Still worked.
+g.kill.25,retain,,{A} gave {B} a free pack. The pack had teeth. It ate {B}.,{A} gave {B} a free pack. The pack had teeth. It ate {B}.
+g.kill.26,retain,,{A} stuck a magnet on {B}'s belt. The claw grabbed {B} and never let go.,{A} stuck a magnet on {B}'s belt. The claw grabbed {B} and never let go.
+g.kill.27,retain,,{A} tied {B}'s shoelaces to the track launcher and hit the switch.,{A} tied {B}'s shoelaces to the track launcher and hit the switch.
+g.kill.28,retain,,{A} let {B} hold a {grail} for one second. {B} dropped it. The crowd carried {B} away.,{A} let {B} hold a {grail} for one second. {B} dropped it. The crowd carried {B} away.
+g.kill.29,retain,,{A} dared {B} to open a sealed {grail}. {B} did it. The collectors are still chasing {B}.,{A} dared {B} to open a sealed {grail}. {B} did it. The collectors are still chasing {B}.
+g.kill.30,retain,,{A} swapped {B}'s glasses for 1:64 scale glasses. {B} walked straight into a display case.,{A} swapped {B}'s glasses for 1:64 scale glasses. {B} walked straight into a display case.
+g.kill.31,retain,,{A} wrote {B}'s name on the return label. {B} got shipped back to the factory.,{A} wrote {B}'s name on the return label. {B} got shipped back to the factory.
+g.kill.32,retain,,{A} spilled soda on {B}'s card. Soggy corners. {B} is gone.,{A} spilled soda on {B}'s card. Soggy corners. {B} is gone.
+g.kill.33,retain,period-filtered,"{A} beat {B} in a rip battle, 10 pulls to zero. {B} sold the account and moved to the woods.","{A} beat {B} in a rip battle, 10 pulls to zero. {B} sold the account and moved to the woods."
+g.kill.34,retain,,{A} challenged {B} to a staring contest over a {grail}. {B} blinked first and turned to dust.,{A} challenged {B} to a staring contest over a {grail}. {B} blinked first and turned to dust.
+g.kill.35,retain,period-filtered,{A} made {B}'s worst pull the server banner. {B} left and changed their name.,{A} made {B}'s worst pull the server banner. {B} left and changed their name.
+g.kill.36,retain,period-filtered,{A} faked a {grail} restock in general chat. {B} sprinted to the store and hit the doors before they opened.,{A} faked a {grail} restock in general chat. {B} sprinted to the store and hit the doors before they opened.
+g.kill.37,retain,,{A} put {B} in the buyback queue. {B} came out as 90% of a person.,{A} put {B} in the buyback queue. {B} came out as 90% of a person.
+g.kill.38,retain,,{A} told {B} the claw was friendly. {B} tried to pet it.,{A} told {B} the claw was friendly. {B} tried to pet it.
+g.kill.39,retain,,{A} put a 'FREE {grail}' sign on a trapdoor. {B} stepped right on it.,{A} put a 'FREE {grail}' sign on a trapdoor. {B} stepped right on it.
+g.kill.40,retain,,{A} took the inside line at the last corner. {B} took the wall.,{A} took the inside line at the last corner. {B} took the wall.
+g.kill.41,rewrite,period-filtered,"{A} sat in {B}'s slipstream for three laps, pulled out and waved. {B} is still in the dirty air.",{A} pulls out of {B}'s slipstream on the deciding straight. {B} crosses second and leaves the elimination heat.
+g.kill.42,retain,,"Commentary box: '{A} goes for the gap, and {B} is in the gravel!' Unbelievable scenes.","Commentary box: '{A} goes for the gap, and {B} is in the gravel!' Unbelievable scenes."
+g.kill.43,retain,,{A} brake-checked {B} on the main straight. {B} is a wall decoration now.,{A} brake-checked {B} on the main straight. {B} is a wall decoration now.
+g.kill.44,rewrite,,{A} undercut {B} in the pits. {B} came out behind the safety car and never recovered.,{A} makes the tyre stop. {B} stays out until a puncture ends their race.
+g.kill.45,rewrite,,{A}'s crew changed four tyres in two seconds. {B}'s crew is still looking for the jack.,"{A}'s pit crew finishes the stop. {B}'s jack jams, and their entry misses the elimination restart."
+g.kill.46,rewrite,,{A} sent it down the inside from three rows back. {B} paid for it.,{A} sends it down the inside from three rows back. {B} slides into the gravel and retires from the heat.
+g.kill.47,retain,,{A} and {B} went into Turn 1 side by side. Only {A} came out of it.,{A} and {B} went into Turn 1 side by side. Only {A} came out of it.
+g.kill.48,rewrite,,"{A} planned the perfect heist on {B}'s shelf for three weeks. Took the {grail}, left a thank-you note. {B} is out.",{A} wins the shelf-side race by a wheel. {B}'s display entry crosses second and leaves the bracket.
+g.kill.49,rewrite,,{A} swapped {B}'s whole shelf for dollar-store lookalikes. {B} has not noticed. {B} is out anyway.,{A} switches the finish flag to the correct lane. {B} celebrates at the wrong line and misses the real finish. Out.
+g.kill.50,rewrite,,"Lights out. Lights on. {B} is gone, and so is the {model}. {A} is whistling.","Lights out. Lights on. {B} has followed a decoy {model} through the exit. {A} is still at the starting line, whistling."
+g.kill.51,rewrite,,{A} dressed up as a delivery driver and walked out of {B}'s house with the whole shelf. {B} signed for it.,{A} loads {B}'s shelf onto a delivery trolley. {B} follows it through the exit and misses the deciding heat.
+g.kill.52,retain,,{A} picked the lock on {B}'s display case in four seconds. {B} fainted at three.,{A} picked the lock on {B}'s display case in four seconds. {B} fainted at three.
+g.kill.53,rewrite,,{A} rolled a decoy {model} to the left. {B} looked left. {A} went right. {B} is out.,"{A} rolls a decoy {model} toward the exit. {B} chases it out, and the elimination gate closes behind them."
+g.kill.54,rewrite,,{A} replaced {B}'s {grail} with a printed photo of a {grail}. {B} is still admiring the photo.,{A} enters the lane with a {model}. {B} enters a paper cutout. The cutout folds at the launcher. {B} is out.
+g.kill.55,retain,,{A} pointed out a tiny scratch on {B}'s mint card. {B} has not slept since. {B} is out.,{A} pointed out a tiny scratch on {B}'s mint card. {B} has not slept since. {B} is out.
+g.kill.56,retain,,{A} told {B} the {model} they paid big for is a peg warmer. {B} turned to dust.,{A} told {B} the {model} they paid big for is a peg warmer. {B} turned to dust.
+g.kill.57,retain,,{A} showed {B} a cleaner card of the same {model}. {B} retired from collecting.,{A} showed {B} a cleaner card of the same {model}. {B} retired from collecting.
+g.kill.58,rewrite,,{A} asked {B} if it was loose or carded. {B} said loose. The room went silent. {B} is out.,{A}'s loose {model} clears the lane. {B}'s unopened blister jams at the launcher. This heat needs wheels on track. {B} is out.
+g.kill.59,retain,,{A} and {B} hunted the last {grail} at the same store. The cashier picked {A}. {B} is out.,{A} and {B} hunted the last {grail} at the same store. The cashier picked {A}. {B} is out.
+g.kill.60,retain,,{A} found a dent in {B}'s blister with a ruler. {B} left the hobby that night.,{A} found a dent in {B}'s blister with a ruler. {B} left the hobby that night.
+g.kill.61,retain,,{A} offered {B} market price for a {model}. {B} checked the market and fainted.,{A} offered {B} market price for a {model}. {B} checked the market and fainted.
+g.kill.62,rewrite,,{A} out-traded {B} so hard at the swap meet that {B} walked home with one common and a hot dog.,{A} trades {B} down to one common and a hot dog. {B} heads home before their deciding heat. Out.
+g.kill.63,retain,,{A} front-ran {B}'s rip and pulled the {grail} first. {B} is out.,{A} front-ran {B}'s rip and pulled the {grail} first. {B} is out.
+g.kill.64,retain,period-filtered,{A} paid a higher priority fee. {B}'s transaction never landed.,{A} paid a higher priority fee. {B}'s transaction never landed.
+g.kill.65,retain,,{A} sold the top to {B}. {B} is still holding the bag.,{A} sold the top to {B}. {B} is still holding the bag.
+g.kill.66,retain,,{A} airdropped {B} a fake pack. {B} signed it. {B} is gone.,{A} airdropped {B} a fake pack. {B} signed it. {B} is gone.
+g.kill.67,retain,,{A} told {B} the floor only goes up. {B} believed it. {B} is out.,{A} told {B} the floor only goes up. {B} believed it. {B} is out.
+g.kill.68,rewrite,,{A} whispered the {grail}'s true name to {B}. {B} turned into a 1:64 scale version of themselves.,{A} whispers the {grail}'s true name to {B}. {B} shrinks to 1:64 scale and fails to reach the starting gate before it closes.
+g.kill.69,retain,,{A} opened a portal behind the dump bin. {B} walked through it looking for restocks.,{A} opened a portal behind the dump bin. {B} walked through it looking for restocks.
+g.kill.70,retain,,{A} challenged {B} to a duel at high noon. {B} brought a {model}. {A} brought a monster truck.,{A} challenged {B} to a duel at high noon. {B} brought a {model}. {A} brought a monster truck.
+g.kill.71,retain,,{A} folded {B} like a card back and slid {B} into a blister.,{A} folded {B} like a card back and slid {B} into a blister.
+g.kill.72,retain,,Slow motion. {A} turns. {B} reaches for the {grail}. Too slow. {B} is out.,Slow motion. {A} turns. {B} reaches for the {grail}. Too slow. {B} is out.
+g.kill.73,rewrite,,"Movie trailer voice: 'This summer, one ripper betrays another.' {A} eliminates {B}.",{A} flips the track switch. {B} lands in the return bin instead of the finish tray. End of the heat for {B}.
+g.kill.74,retain,,"{A} looked {B} in the eye, said 'nothing personal' and launched {B} into orbit.","{A} looked {B} in the eye, said 'nothing personal' and launched {B} into orbit."
+g.wipe.0,retain,,{A} swallowed a {model} to keep it safe. Choked to death. The {model} is fine.,{A} swallowed a {model} to keep it safe. Choked to death. The {model} is fine.
+g.wipe.1,retain,,{A} climbed into the gacha garage to fix the claw. Got trapped. In there forever now. RIP {A}.,{A} climbed into the gacha garage to fix the claw. Got trapped. In there forever now. RIP {A}.
+g.wipe.2,retain,,"{A} pulled a {grail} on the first rip, screamed and died of happiness.","{A} pulled a {grail} on the first rip, screamed and died of happiness."
+g.wipe.3,retain,,{A} opened a {pack} sure it held a {grail}. The {pack} was fake. {A} burst into flames from grief.,{A} opened a {pack} sure it held a {grail}. The {pack} was fake. {A} burst into flames from grief.
+g.wipe.4,retain,,{A} tried to smell a {model} through the blister and inhaled the blister.,{A} tried to smell a {model} through the blister and inhaled the blister.
+g.wipe.5,retain,,{A} kissed the gacha garage for luck. Their lips are still stuck to it.,{A} kissed the gacha garage for luck. Their lips are still stuck to it.
+g.wipe.6,retain,,{A} built a track loop from the roof to the pool. Rode it. Missed the pool.,{A} built a track loop from the roof to the pool. Rode it. Missed the pool.
+g.wipe.7,retain,,{A} camped outside the store at 5 AM for a {model} restock. Froze solid at 5:20.,{A} camped outside the store at 5 AM for a {model} restock. Froze solid at 5:20.
+g.wipe.8,retain,,{A} tried to rip a {pack} open with their teeth. The {pack} ripped {A} instead.,{A} tried to rip a {pack} open with their teeth. The {pack} ripped {A} instead.
+g.wipe.9,retain,,{A} looked up the price of a {grail} and fainted. Never woke up.,{A} looked up the price of a {grail} and fainted. Never woke up.
+g.wipe.10,retain,period-filtered,{A} told the whole server their {model} was worth millions. Got a price check. Evaporated.,{A} told the whole server their {model} was worth millions. Got a price check. Evaporated.
+g.wipe.11,retain,,{A} fell asleep inside the gacha garage. The claw thought {A} was a prize and shipped {A} to a winner in Ohio.,{A} fell asleep inside the gacha garage. The claw thought {A} was a prize and shipped {A} to a winner in Ohio.
+g.wipe.12,retain,,{A} got shrink-wrapped at the packing station. Mint forever. Unable to move.,{A} got shrink-wrapped at the packing station. Mint forever. Unable to move.
+g.wipe.13,retain,,"{A} found a waffle and ate it. It was a free pull. {A} ate a free pull. Out of pulls, out of the rumble.","{A} found a waffle and ate it. It was a free pull. {A} ate a free pull. Out of pulls, out of the rumble."
+g.wipe.14,rewrite,,{A} bet the rent on one more rip. Pulled a common. Evicted from the rumble.,{A} spends the deciding heat counting spare change. The starting gate closes without their entry. Out.
+g.wipe.15,retain,,"{A} stared at a {grail} too long and turned to stone. Shiny stone, at least.","{A} stared at a {grail} too long and turned to stone. Shiny stone, at least."
+g.wipe.16,retain,,{A} raced a {model} against a city bus. The bus won. {A} was standing on the finish line.,{A} raced a {model} against a city bus. The bus won. {A} was standing on the finish line.
+g.wipe.17,retain,,{A} cleaned the claw with a wet towel. Got zapped. Hair stands straight up forever.,{A} cleaned the claw with a wet towel. Got zapped. Hair stands straight up forever.
+g.wipe.18,retain,,{A} pulled the same common 40 times in a row and retired to a farm.,{A} pulled the same common 40 times in a row and retired to a farm.
+g.wipe.19,retain,,{A} sold a {grail} to buyback by mistake and screamed so hard they left orbit.,{A} sold a {grail} to buyback by mistake and screamed so hard they left orbit.
+g.wipe.20,retain,period-filtered,{A} filmed a slow-motion unboxing. It took three days. The rumble moved on without them.,{A} filmed a slow-motion unboxing. It took three days. The rumble moved on without them.
+g.wipe.21,retain,,{A} broke the house rule and called a Hot Wheels by the wrong name in front of The Ripper. Nobody has seen {A} since.,{A} broke the house rule and called a Hot Wheels by the wrong name in front of The Ripper. Nobody has seen {A} since.
+g.wipe.22,retain,period-filtered,{A} put a {model} in the microwave to see what happens. Now everyone knows. {A} is out.,{A} put a {model} in the microwave to see what happens. Now everyone knows. {A} is out.
+g.wipe.23,retain,period-filtered,{A} unboxed live on stream. Chat roasted {A} until there was nothing left.,{A} unboxed live on stream. Chat roasted {A} until there was nothing left.
+g.wipe.24,retain,,{A} stepped on a loose {model} barefoot at 3 AM. Screamed so loud they left the rumble.,{A} stepped on a loose {model} barefoot at 3 AM. Screamed so loud they left the rumble.
+g.wipe.25,retain,period-filtered,{A} lost the seed phrase. The garage forgot {A} ever existed.,{A} lost the seed phrase. The garage forgot {A} ever existed.
+g.wipe.26,retain,,{A} clicked a 'free {grail}' link. Rugged in four seconds.,{A} clicked a 'free {grail}' link. Rugged in four seconds.
+g.wipe.27,retain,,{A} hugged the gacha garage too hard. The garage hugged back.,{A} hugged the gacha garage too hard. The garage hugged back.
+g.wipe.28,rewrite,,{A} traded the whole collection for one {grail}. It was a sticker of a {grail}.,{A} trades their collection for a {grail} sticker. They spend the deciding heat at the refund desk. Out.
+g.wipe.29,retain,,{A} opened a {pack} so carefully it took a week. Starved halfway through.,{A} opened a {pack} so carefully it took a week. Starved halfway through.
+g.wipe.30,retain,,{A} chased a {model} under the fridge. Got stuck under the fridge. Lives there now.,{A} chased a {model} under the fridge. Got stuck under the fridge. Lives there now.
+g.wipe.31,retain,,"{A} pressed their face on a protector case to see a {grail} up close. Head stuck. Mint, sealed, out.","{A} pressed their face on a protector case to see a {grail} up close. Head stuck. Mint, sealed, out."
+g.wipe.32,retain,,"{A} won the auction for a {grail}, then saw the shipping cost. Collapsed.","{A} won the auction for a {grail}, then saw the shipping cost. Collapsed."
+g.wipe.33,retain,,{A} tried to outrun the claw. The claw does not get tired.,{A} tried to outrun the claw. The claw does not get tired.
+g.wipe.34,retain,,{A} reorganized the shelf one last time. The shelf fell on {A}. Buried in blisters.,{A} reorganized the shelf one last time. The shelf fell on {A}. Buried in blisters.
+g.wipe.35,retain,,{A} yelled LFRIP so loud the roof came down.,{A} yelled LFRIP so loud the roof came down.
+g.wipe.36,retain,,{A} checked a {model} with a magnifying glass in the sun. Set the {model} on fire. Then the table. Then {A}.,{A} checked a {model} with a magnifying glass in the sun. Set the {model} on fire. Then the table. Then {A}.
+g.wipe.37,retain,,{A} squeezed into a display case to feel what a {grail} feels. Fit perfectly. Stuck forever.,{A} squeezed into a display case to feel what a {grail} feels. Fit perfectly. Stuck forever.
+g.wipe.38,retain,period-filtered,{A} pulled a {grail} and texted mom. Mom sold it. {A} is out.,{A} pulled a {grail} and texted mom. Mom sold it. {A} is out.
+g.wipe.39,retain,,{A} opened a {pack} and found a smaller {pack} inside. Then a smaller one. {A} is still opening.,{A} opened a {pack} and found a smaller {pack} inside. Then a smaller one. {A} is still opening.
+g.wipe.40,retain,period-filtered,{A} listed a common at {grail} prices. The server laughed {A} out of the rumble.,{A} listed a common at {grail} prices. The server laughed {A} out of the rumble.
+g.wipe.41,rewrite,,"{A} finally pulled their grail, said 'I'm good' and walked off into the sunset. Retired undefeated.","{A} finally pulled their grail, said 'I'm good' and walked off into the sunset. Retired happy."
+g.wipe.42,retain,,{A} gave their last pack to a new ripper and left with a smile. Legend move.,{A} gave their last pack to a new ripper and left with a smile. Legend move.
+g.wipe.43,retain,,{A} stopped to help someone pick up a dropped collection and missed the rest of the race. Worth it.,{A} stopped to help someone pick up a dropped collection and missed the rest of the race. Worth it.
+g.wipe.44,retain,,"{A} pulled a common, loved it anyway and went home happy. Out, but at peace.","{A} pulled a common, loved it anyway and went home happy. Out, but at peace."
+g.wipe.45,retain,,"{A} got so busy hyping everyone else's pulls that they forgot to play. Out, but beloved.","{A} got so busy hyping everyone else's pulls that they forgot to play. Out, but beloved."
+g.wipe.46,retain,,{A} retired to open a tiny shop for loose commons. Business is slow. Life is good.,{A} retired to open a tiny shop for loose commons. Business is slow. Life is good.
+g.wipe.47,retain,,{A} spent the whole lap sorting by casting year. Got sorted out of the rumble.,{A} spent the whole lap sorting by casting year. Got sorted out of the rumble.
+g.wipe.48,retain,,{A} found a card variation nobody has heard of and left to write a 40-page post about it.,{A} found a card variation nobody has heard of and left to write a 40-page post about it.
+g.wipe.49,retain,,{A} bought a second shelf. Then a third. The floor gave in. {A} lives in the basement now.,{A} bought a second shelf. Then a third. The floor gave in. {A} lives in the basement now.
+g.wipe.50,retain,,{A} opened their own carded {grail} at 3 AM 'to see it once'. Value gone. Soul gone.,{A} opened their own carded {grail} at 3 AM 'to see it once'. Value gone. Soul gone.
+g.wipe.51,retain,period-filtered,{A} refreshed the restock page until the browser gave up. Then {A} gave up too.,{A} refreshed the restock page until the browser gave up. Then {A} gave up too.
+g.wipe.52,retain,,{A} argued about the right shade of red for six hours. Was wrong. Left in silence.,{A} argued about the right shade of red for six hours. Was wrong. Left in silence.
+g.wipe.53,retain,,{A} went full send into the hairpin and forgot brakes exist.,{A} went full send into the hairpin and forgot brakes exist.
+g.wipe.54,retain,,{A} pitted for fuel. The crew filled it with orange soda.,{A} pitted for fuel. The crew filled it with orange soda.
+g.wipe.55,retain,,{A} bounced off the rev limiter for a full lap. The engine quit and took {A} with it.,{A} bounced off the rev limiter for a full lap. The engine quit and took {A} with it.
+g.wipe.56,retain,,{A} ran slicks in the rain. {A} is a boat now.,{A} ran slicks in the rain. {A} is a boat now.
+g.wipe.57,retain,,{A} ran out of fuel ten meters from the line. Pushed. Did not make it.,{A} ran out of fuel ten meters from the line. Pushed. Did not make it.
+g.wipe.58,rewrite,,{A} did a victory burnout before the race started. Tyres gone. {A} gone.,"{A} does a victory burnout before the deciding heat. Tyres gone, entry withdrawn."
+g.wipe.59,rewrite,,{A} blinked and woke up inside a blister on a peg in 1975. Still waiting.,{A} squeezes inside a display blister. The lid clicks shut. The next heat starts without them.
+g.wipe.60,retain,,{A} rode the orange track so many times they became the orange track.,{A} rode the orange track so many times they became the orange track.
+g.wipe.61,retain,,{A} looked straight into a {grail}'s headlights and saw the future. The future did not include {A}.,{A} looked straight into a {grail}'s headlights and saw the future. The future did not include {A}.
+g.wipe.62,retain,,{A} got abducted by aliens looking for a {model}. They were disappointed. {A} stayed up there anyway.,{A} got abducted by aliens looking for a {model}. They were disappointed. {A} stayed up there anyway.
+g.wipe.63,retain,,{A} shrank to 1:64 scale and got lost in the carpet.,{A} shrank to 1:64 scale and got lost in the carpet.
+g.wipe.64,retain,,{A} bridged their pulls to the wrong chain. Gone forever.,{A} bridged their pulls to the wrong chain. Gone forever.
+g.wipe.65,retain,period-filtered,"{A} aped into a pack at 3 AM, woke up, read the receipt and fainted.","{A} aped into a pack at 3 AM, woke up, read the receipt and fainted."
+g.wipe.66,retain,,{A} went all in on a 'guaranteed' {grail}. Nothing is guaranteed. {A} is out.,{A} went all in on a 'guaranteed' {grail}. Nothing is guaranteed. {A} is out.
+g.wipe.67,rewrite,,Thunder. Rain. {A} stands alone in the parking lot holding an empty {pack}. Fade to black.,Thunder. Rain. {A} holds an empty {pack} outside the locked starting gate. Their heat ends inside. Fade to black.
+g.wipe.68,retain,,{A} whispered 'one more rip'. Those were their last words.,{A} whispered 'one more rip'. Those were their last words.
+g.wipe.69,retain,,"The music stops. The lights dim. {A} is gone, and only the {model} remains.","The music stops. The lights dim. {A} is gone, and only the {model} remains."
+g.multi.0,retain,,{A} kicked the gacha garage. The claw went wild and grabbed {B} and {C}.,{A} kicked the gacha garage. The claw went wild and grabbed {B} and {C}.
+g.multi.1,retain,,{A} spilled a box of loose Hot Wheels on the stairs. {B} and {C} took the fast way down.,{A} spilled a box of loose Hot Wheels on the stairs. {B} and {C} took the fast way down.
+g.multi.2,retain,,{A} yelled 'free {grail}' at the back of the room. {B} and {C} crashed into each other at full speed.,{A} yelled 'free {grail}' at the back of the room. {B} and {C} crashed into each other at full speed.
+g.multi.3,retain,,{A} pulled a {grail} in front of {B} and {C}. Both fainted at the same time.,{A} pulled a {grail} in front of {B} and {C}. Both fainted at the same time.
+g.multi.4,retain,,{A} sealed {B} and {C} in a two-pack. Sold as a set.,{A} sealed {B} and {C} in a two-pack. Sold as a set.
+g.multi.5,retain,period-filtered,{A} hit the track launcher too hard. {B} and {C} got fired into the next server.,{A} hit the track launcher too hard. {B} and {C} got fired into the next server.
+g.multi.6,retain,,{A} started a {grail} restock rumor. {B} and {C} camped outside the store until they turned into furniture.,{A} started a {grail} restock rumor. {B} and {C} camped outside the store until they turned into furniture.
+g.multi.7,retain,,{A} bowled a {model} down the hallway. Strike. {B} and {C} are down.,{A} bowled a {model} down the hallway. Strike. {B} and {C} are down.
+g.multi.8,retain,,{A} slammed the shutter down. {B} and {C} were leaning on it.,{A} slammed the shutter down. {B} and {C} were leaning on it.
+g.multi.9,retain,,{A} put {B} and {C} in one protector case to save space. Neither is getting out.,{A} put {B} and {C} in one protector case to save space. Neither is getting out.
+g.multi.10,retain,,{A} knocked the shelf over. {B} and {C} got buried under 300 blisters.,{A} knocked the shelf over. {B} and {C} got buried under 300 blisters.
+g.multi.11,retain,period-filtered,{A} called a fake restock in two group chats. {B} and {C} drove into each other in the parking lot.,{A} called a fake restock in two group chats. {B} and {C} drove into each other in the parking lot.
+g.multi.12,retain,,"Commentary: '{A} goes three wide, and {B} and {C} are both in the barrier!'","Commentary: '{A} goes three wide, and {B} and {C} are both in the barrier!'"
+g.multi.13,retain,,{A} tied {B} and {C} together by their shoelaces at the start. Green flag. Down they went.,{A} tied {B} and {C} together by their shoelaces at the start. Green flag. Down they went.
+g.multi.14,retain,period-filtered,{A} outbid {B} and {C} at the same auction with one click. Both left the internet.,{A} outbid {B} and {C} at the same auction with one click. Both left the internet.
+g.multi.15,rewrite,,{A} sold {B} and {C} the same {grail}. They found out together.,{A} sells {B} and {C} the same {grail}. Both abandon their starting lanes to argue at the returns desk. Their heat ends without them.
+g.multi.16,retain,,{A} hit the jackpot on the gacha garage. The confetti cannon took out {B} and {C}.,{A} hit the jackpot on the gacha garage. The confetti cannon took out {B} and {C}.
+g.double.0,retain,,{A} and {B} grabbed the same pack and bonked heads. Both out.,{A} and {B} grabbed the same pack and bonked heads. Both out.
+g.double.1,retain,,{A} and {B} argued about loose versus carded until both turned to dust.,{A} and {B} argued about loose versus carded until both turned to dust.
+g.double.2,retain,,{A} and {B} raced to the last {model}. Hit the shelf at the same time. The shelf won.,{A} and {B} raced to the last {model}. Hit the shelf at the same time. The shelf won.
+g.double.3,retain,,{A} and {B} tried to share one gacha garage. The claw took them both.,{A} and {B} tried to share one gacha garage. The claw took them both.
+g.double.4,retain,,{A} and {B} high-fived over a {grail} pull and dislocated everything. Both out.,{A} and {B} high-fived over a {grail} pull and dislocated everything. Both out.
+g.double.5,retain,period-filtered,{A} and {B} started a tandem drift and drifted straight out of the server together.,{A} and {B} started a tandem drift and drifted straight out of the server together.
+g.double.6,retain,,{A} and {B} traded the same {model} back and forth for six hours. Both got bored to death.,{A} and {B} traded the same {model} back and forth for six hours. Both got bored to death.
+g.double.7,retain,,{A} and {B} both lied about owning a {grail}. Both got caught. Both out.,{A} and {B} both lied about owning a {grail}. Both got caught. Both out.
+g.double.8,retain,,{A} and {B} fell asleep in the same dump bin. Shipped back to the warehouse together.,{A} and {B} fell asleep in the same dump bin. Shipped back to the warehouse together.
+g.double.9,retain,,{A} and {B} held a staring contest over a {model}. Neither blinked. Both dried out.,{A} and {B} held a staring contest over a {model}. Neither blinked. Both dried out.
+g.find.0,retain,,{A} found a {grail} under the couch cushions. Nobody saw. Keep it that way.,{A} found a {grail} under the couch cushions. Nobody saw. Keep it that way.
+g.find.1,retain,,"{A} pulled a {grail} and hid it in their sock. Walking funny, walking rich.","{A} pulled a {grail} and hid it in their sock. Walking funny, walking rich."
+g.find.2,retain,,{A} traded half a sandwich for a {model}. Worst trade of the year for the other guy.,{A} traded half a sandwich for a {model}. Worst trade of the year for the other guy.
+g.find.3,retain,,{A} found a {model} at the bottom of a cereal box. Ate the cereal. Kept the {model}.,{A} found a {model} at the bottom of a cereal box. Ate the cereal. Kept the {model}.
+g.find.4,retain,,{A} bought a {grail} at a yard sale for one dollar. The seller is crying somewhere.,{A} bought a {grail} at a yard sale for one dollar. The seller is crying somewhere.
+g.find.5,retain,,{A} fished a {model} out of the gacha garage with a coat hanger. Security looked away.,{A} fished a {model} out of the gacha garage with a coat hanger. Security looked away.
+g.find.6,retain,,{A} found a {grail} in grandma's attic. Grandma wants it back. Grandma is not getting it back.,{A} found a {grail} in grandma's attic. Grandma wants it back. Grandma is not getting it back.
+g.find.7,retain,,The claw dropped a {grail} straight into {A}'s lap. The claw has favorites.,The claw dropped a {grail} straight into {A}'s lap. The claw has favorites.
+g.find.8,retain,,{A} found a {model} rolling around pit lane. Finders keepers.,{A} found a {model} rolling around pit lane. Finders keepers.
+g.find.9,retain,period-filtered,{A} pulled a {grail} and posted it in general. Every ripper in the room turned around at once.,{A} pulled a {grail} and posted it in general. Every ripper in the room turned around at once.
+g.find.10,retain,,{A} bought a {model} from a stranger in a parking lot. No questions asked. Several should have been.,{A} bought a {model} from a stranger in a parking lot. No questions asked. Several should have been.
+g.find.11,retain,,{A} found a sealed {grail} in a dumpster behind a collector show. Smells weird. Still mint.,{A} found a sealed {grail} in a dumpster behind a collector show. Smells weird. Still mint.
+g.find.12,retain,,{A} swapped a common for a {grail} while the owner sneezed.,{A} swapped a common for a {grail} while the owner sneezed.
+g.find.13,retain,,{A} won a {grail} in a raffle they never entered.,{A} won a {grail} in a raffle they never entered.
+g.find.14,retain,,{A} found a {model} in the pocket of a used jacket. Good day.,{A} found a {model} in the pocket of a used jacket. Good day.
+g.find.15,retain,period-filtered,{A} found a {model} taped under a park bench with a note: 'you deserve this'.,{A} found a {model} taped under a park bench with a note: 'you deserve this'.
+g.find.16,retain,,{A} pulled a {grail} and told nobody. Smiling a little too much.,{A} pulled a {grail} and told nobody. Smiling a little too much.
+g.find.17,retain,,{A} traded a stack of commons for a {model} with someone who did not check the card.,{A} traded a stack of commons for a {model} with someone who did not check the card.
+g.find.18,retain,,{A} won a {model} in a bet about tyre pressure.,{A} won a {model} in a bet about tyre pressure.
+g.find.19,retain,,{A} found a {grail} on a dusty gas station shelf. The clerk had no idea.,{A} found a {grail} on a dusty gas station shelf. The clerk had no idea.
+g.find.20,retain,,{A} bought a mystery box at a garage sale. Inside: a {grail} and a lot of dust.,{A} bought a mystery box at a garage sale. Inside: a {grail} and a lot of dust.
+g.find.21,retain,,The Ripper tossed {A} a {model} from the roadster and drove off without a word.,The Ripper tossed {A} a {model} from the roadster and drove off without a word.
+g.find.22,retain,,{A} pulled a {grail} on their birthday. The universe owed them one.,{A} pulled a {grail} on their birthday. The universe owed them one.
+g.call.0,rewrite,,{B} waited behind the pit wall all lap to steal {H}'s {item}. {H} saw it coming and threw the {item} right between {B}'s eyes. {B} is out.,"{B} waits behind the pit wall to steal {H}'s {item}. {H} throws it between {B}'s eyes, then picks it up. {B} is out."
+g.call.1,retain,period-filtered,"{B} snatched {H}'s {item} and ran. {H} chased {B} across three servers, got it back and left {B} in the third one.","{B} snatched {H}'s {item} and ran. {H} chased {B} across three servers, got it back and left {B} in the third one."
+g.call.2,retain,,{H} polished the {item} so hard it flashed the sun into {B}'s eyes. {B} drove into a lake.,{H} polished the {item} so hard it flashed the sun into {B}'s eyes. {B} drove into a lake.
+g.call.3,retain,,{H} slept with the {item} under the pillow. It rolled into {H}'s mouth overnight. Choked. RIP {H}.,{H} slept with the {item} under the pillow. It rolled into {H}'s mouth overnight. Choked. RIP {H}.
+g.call.4,retain,,{H} waved the {item} in {B}'s face one time too many. {B} died of jealousy.,{H} waved the {item} in {B}'s face one time too many. {B} died of jealousy.
+g.call.5,retain,,{B} offered {H} three commons for the {item}. {H} laughed for an hour straight. {B} left in shame.,{B} offered {H} three commons for the {item}. {H} laughed for an hour straight. {B} left in shame.
+g.call.6,retain,,{H} refused to let go of the {item} during a pit stop. The crew changed {H} instead of the tyres.,{H} refused to let go of the {item} during a pit stop. The crew changed {H} instead of the tyres.
+g.call.7,rewrite,,{H} used the {item} as a doorstop. {B} tripped over it and fell out of the rumble.,{H} uses the {item} as a doorstop. {B} trips over it and falls out of the rumble. {H} picks it up again.
+g.call.8,rewrite,,{B} and {C} teamed up to rob {H} of the {item}. {H} handed it over. It was the fake one. Both fainted from shame.,{B} and {C} rush the lane to grab {H}'s {item}. {H} keeps it behind the barrier. Both intruders miss their own starts and go out.
+g.call.9,retain,,{H} married the {item}. {B} objected at the wedding and got thrown out of the rumble.,{H} married the {item}. {B} objected at the wedding and got thrown out of the rumble.
+g.call.10,retain,,"{B} grabbed {H}'s {item}, then dropped it. Both dove for it. Only {H} came back up.","{B} grabbed {H}'s {item}, then dropped it. Both dove for it. Only {H} came back up."
+g.call.11,retain,,{H} flexed the {item} in front of the claw. The claw took {H} and left the {item}.,{H} flexed the {item} in front of the claw. The claw took {H} and left the {item}.
+g.call.12,retain,period-filtered,{B} licked {H}'s {item} to call dibs. {H} called the mods. {B} is banned for life.,{B} licked {H}'s {item} to call dibs. {H} called the mods. {B} is banned for life.
+g.call.13,retain,,{B} broke into {H}'s protector case for the {item}. Got stuck inside. Part of the display now.,{B} broke into {H}'s protector case for the {item}. Got stuck inside. Part of the display now.
+g.call.14,retain,,{H} hid the {item} so well that {H} forgot where. Searched until the rumble moved on without them.,{H} hid the {item} so well that {H} forgot where. Searched until the rumble moved on without them.
+g.call.15,rewrite,,{H} tossed the {item} up to flex. It came down on {B}'s head. Die-cast always wins.,"{H} tosses the {item} up to flex. It lands on {B}'s head, ending their run. {H} catches it on the rebound."
+g.call.16,rewrite,period-filtered,{B} challenged {H} to a race for the {item}. {H} brought a real Supra. {B} brought hope.,"{B} challenges {H} to a race for the {item}. {H} brings a real Supra, wins the deciding run, and keeps the Hot Wheels. {B} is out."
+g.call.17,rewrite,,{H} pretended to sell the {item} to {B}. {B} paid with everything they owned. {H} kept the {item}. {B} is out.,{B} challenges {H} for the {item}. {H} keeps it safely on the display. {B}'s entry rolls off the deciding lane. {B} is out.
+g.call.18,retain,,{B} sent {H} a fake 'claim your {item} reward' link. {H} sent it back. {B} clicked it and got rugged.,{B} sent {H} a fake 'claim your {item} reward' link. {H} sent it back. {B} clicked it and got rugged.
+g.call.19,retain,period-filtered,{H} still won't stop talking about the {item}. {B} left the server to get some peace.,{H} still won't stop talking about the {item}. {B} left the server to get some peace.
+g.call.20,retain,,{B} tried to swap {H}'s {item} for a fake. {H} spotted the wrong wheels and sent {B} home.,{B} tried to swap {H}'s {item} for a fake. {H} spotted the wrong wheels and sent {B} home.
+g.call.21,retain,,{H} let {B} hold the {item} for one second. {B} sneezed on it. {H} sent {B} to the shadow dimension.,{H} let {B} hold the {item} for one second. {B} sneezed on it. {H} sent {B} to the shadow dimension.
+g.call.22,rewrite,,{B} offered {H} a lifetime of free coffee for the {item}. {H} said no. {B} left the hobby.,{B} runs toward {H}'s {item} instead of the start line. {H} keeps the Hot Wheels. {B} misses the heat and goes out.
+g.call.23,retain,,{H} carried the {item} as a lucky charm all lap. It worked. Then it rolled under {H}'s foot.,{H} carried the {item} as a lucky charm all lap. It worked. Then it rolled under {H}'s foot.
+g.call.24,retain,period-filtered,{B} filmed a video roasting {H}'s {item}. The comments sided with {H}. {B} is gone.,{B} filmed a video roasting {H}'s {item}. The comments sided with {H}. {B} is gone.
+g.call.25,rewrite,,{B} and {C} both tried to buy {H}'s {item}. {H} started a bidding war. Both went broke.,"{B} and {C} reach across the deciding lanes for {H}'s {item}. Their entries collide. Both out, while {H} keeps the Hot Wheels."
+g.transfer.0,retain,,{H} traded the {item} to {A} for a sandwich. {H} regrets it already.,{H} traded the {item} to {A} for a sandwich. {H} regrets it already.
+g.transfer.1,retain,,{A} won the {item} off {H} in a coin flip. Best of three. Then best of five.,{A} won the {item} off {H} in a coin flip. Best of three. Then best of five.
+g.transfer.2,retain,,{H} dropped the {item} in pit lane. {A} picked it up and kept walking.,{H} dropped the {item} in pit lane. {A} picked it up and kept walking.
+g.transfer.3,retain,,{A} sweet-talked {H} out of the {item}. Nobody knows how.,{A} sweet-talked {H} out of the {item}. Nobody knows how.
+g.transfer.4,retain,period-filtered,{H} gifted the {item} to {A}. A rare act of kindness. The server is shook.,{H} gifted the {item} to {A}. A rare act of kindness. The server is shook.
+g.transfer.5,retain,,{A} found the {item} in {H}'s jacket. {H} was still wearing the jacket.,{A} found the {item} in {H}'s jacket. {H} was still wearing the jacket.
+g.transfer.6,retain,,The claw grabbed the {item} from {H} and dropped it in {A}'s lap. The claw has a sense of humor.,The claw grabbed the {item} from {H} and dropped it in {A}'s lap. The claw has a sense of humor.
+g.transfer.7,retain,,{H} put the {item} up as a bet. {A} won the bet.,{H} put the {item} up as a bet. {A} won the bet.
+g.transfer.8,retain,,{A} swapped a lookalike for {H}'s {item}. {H} has not noticed yet.,{A} swapped a lookalike for {H}'s {item}. {H} has not noticed yet.
+g.transfer.9,retain,,{H} left the {item} on the counter for one second. {A} was faster.,{H} left the {item} on the counter for one second. {A} was faster.
+g.survive.0,retain,,{A} spent the whole lap staring at a {model} through the blister. Still alive. Barely.,{A} spent the whole lap staring at a {model} through the blister. Still alive. Barely.
+g.survive.1,retain,,{A} hid in a dump bin all lap. Survived. Smells like cardboard now.,{A} hid in a dump bin all lap. Survived. Smells like cardboard now.
+g.survive.2,retain,,{A} stood still and pretended to be a display stand. Nobody noticed.,{A} stood still and pretended to be a display stand. Nobody noticed.
+g.survive.3,retain,,"{A} found a {model} on the floor, sniffed it and put it back. Weird, but alive.","{A} found a {model} on the floor, sniffed it and put it back. Weird, but alive."
+g.survive.4,retain,,{A} took a nap in the gacha garage. The claw tucked {A} in.,{A} took a nap in the gacha garage. The claw tucked {A} in.
+g.survive.5,retain,,"{A} tried to open a {pack}, got tired and gave up. Saved by laziness.","{A} tried to open a {pack}, got tired and gave up. Saved by laziness."
+g.survive.6,retain,,{A} dodged the claw three times in a row. The claw is starting to take it personally.,{A} dodged the claw three times in a row. The claw is starting to take it personally.
+g.survive.7,retain,,{A} talked about a {model} for so long that everyone walked away. Survived by being boring.,{A} talked about a {model} for so long that everyone walked away. Survived by being boring.
+g.survive.8,retain,,"{A} wrapped themselves in bubble wrap. Ugly, but unbreakable.","{A} wrapped themselves in bubble wrap. Ugly, but unbreakable."
+g.survive.9,retain,,{A} sold a common for profit. Nobody knows how. {A} doesn't know how either.,{A} sold a common for profit. Nobody knows how. {A} doesn't know how either.
+g.survive.10,retain,,{A} hid behind the {grail} display case. Armored glass. Lucky {A}.,{A} hid behind the {grail} display case. Armored glass. Lucky {A}.
+g.survive.11,retain,period-filtered,{A} said gm to the claw. The claw said gm back. Spared.,{A} said gm to the claw. The claw said gm back. Spared.
+g.survive.12,retain,,{A} sat out the lap eating a hot dog by the track. No notes.,{A} sat out the lap eating a hot dog by the track. No notes.
+g.survive.13,retain,,{A} took a wrong turn and missed all the chaos. Lucky.,{A} took a wrong turn and missed all the chaos. Lucky.
+g.survive.14,rewrite,,{A} spent the lap explaining the difference between two shades of blue to nobody.,{A} starts explaining two shades of blue. The crowd moves the whole table away before the second sentence.
+g.survive.15,retain,,{A} fell asleep on the shelf and got mistaken for decor. Untouched.,{A} fell asleep on the shelf and got mistaken for decor. Untouched.
+g.survive.16,retain,,{A} meditated in pit lane. The chaos went around them.,{A} meditated in pit lane. The chaos went around them.
+g.survive.17,retain,,{A} found a quiet corner and reorganized their pockets. Safe for now.,{A} found a quiet corner and reorganized their pockets. Safe for now.
+g.survive.18,retain,,{A} took a selfie with the gacha garage. The claw photobombed. Nobody got hurt.,{A} took a selfie with the gacha garage. The claw photobombed. Nobody got hurt.
+g.survive.19,retain,,{A} watched the whole lap from behind a stack of boxes with popcorn.,{A} watched the whole lap from behind a stack of boxes with popcorn.
+g.survive.20,retain,,{A} dodged a flying {model} with their eyes closed. Instinct.,{A} dodged a flying {model} with their eyes closed. Instinct.
+g.survive.21,retain,,{A} spent the lap admiring the paint on a {model}. Worth it. Still alive.,{A} spent the lap admiring the paint on a {model}. Worth it. Still alive.
+g.moment.0,retain,,{A} and {B} called a truce to admire a {model} together. Beautiful moment. Truce ends next lap.,{A} and {B} called a truce to admire a {model} together. Beautiful moment. Truce ends next lap.
+g.moment.1,retain,,{A} helped {B} up after a spin. Respect. Back to war in a minute.,{A} helped {B} up after a spin. Respect. Back to war in a minute.
+g.moment.2,retain,,{A} and {B} split a hot dog in the paddock. The rumble will wait.,{A} and {B} split a hot dog in the paddock. The rumble will wait.
+g.moment.3,retain,,{A} and {B} formed an alliance. It lasted 11 seconds.,{A} and {B} formed an alliance. It lasted 11 seconds.
+g.moment.4,retain,,{A} gave {B} a tip about a restock. It was real. Nobody saw that coming.,{A} gave {B} a tip about a restock. It was real. Nobody saw that coming.
+g.moment.5,retain,,{A} and {B} argued about the best casting ever. Nobody won. Everyone lived.,{A} and {B} argued about the best casting ever. Nobody won. Everyone lived.
+g.moment.6,retain,period-filtered,{A} showed {B} their pull. {B} said W. Pure respect.,{A} showed {B} their pull. {B} said W. Pure respect.
+g.moment.7,retain,,{A} and {B} built a track loop together. It worked on the first try. Suspicious.,{A} and {B} built a track loop together. It worked on the first try. Suspicious.
+g.moment.8,retain,,{A} lent {B} a protector case. Friendship is rare in this game.,{A} lent {B} a protector case. Friendship is rare in this game.
+g.moment.9,retain,,{A} and {B} fist-bumped at full speed. Somehow both kept it on the road.,{A} and {B} fist-bumped at full speed. Somehow both kept it on the road.
+g.moment.10,retain,,{A} and {B} hid behind the same dump bin and pretended not to see each other.,{A} and {B} hid behind the same dump bin and pretended not to see each other.
+g.moment.11,retain,,{A} and {B} crashed into the same hay bale and laughed it off.,{A} and {B} crashed into the same hay bale and laughed it off.
+g.moment.12,retain,,{A} caught {B} looking at their {model}. Both nodded. Collector to collector.,{A} caught {B} looking at their {model}. Both nodded. Collector to collector.
+g.moment.13,retain,period-filtered,{A} and {B} said gm at the same time. The server felt that.,{A} and {B} said gm at the same time. The server felt that.
+g.revive.0,retain,,{A} came back from the dead to check one more pack.,{A} came back from the dead to check one more pack.
+g.revive.1,rewrite,,The claw spat {A} back out. Tasted bad.,"The claw lowers {A} onto the return lane, then opens its grip. Back on the grid."
+g.revive.2,retain,,{A} found a waffle in an old jacket and respawned.,{A} found a waffle in an old jacket and respawned.
+g.revive.3,rewrite,,{A} was found alive at the bottom of a dump bin. Slightly scratched. Back in.,"{A} passes the return desk's second inspection. One sticker on the badge, one place back on the grid."
+g.revive.4,rewrite,,{A}'s bubble mailer got returned to sender. Welcome back.,A fresh bubble mailer arrives at the return desk. The marshal opens it and {A} steps out. Back in.
+g.revive.5,retain,,{A} heard a {grail} restock rumor and rose from the grave.,{A} heard a {grail} restock rumor and rose from the grave.
+g.revive.6,retain,,"{A} got re-carded on a fresh blister. Mint again, back again.","{A} got re-carded on a fresh blister. Mint again, back again."
+g.revive.7,retain,period-filtered,{A} found the seed phrase in an old notebook and walked back in.,{A} found the seed phrase in an old notebook and walked back in.
+g.revive.8,retain,period-filtered,{A} was faking it the whole time. Best actor in the server is back.,{A} was faking it the whole time. Best actor in the server is back.
+g.revive.9,rewrite,,"{A} crawled out of the protector case. Scuffed, but back.",{A} arrives at the return lane carrying a cracked protector case. The marshal waves them back onto the grid.
+g.revive.10,retain,,The Ripper owed {A} a favor. {A} is back on track.,The Ripper owed {A} a favor. {A} is back on track.
+g.revive.11,retain,,{A} came back for the {grail}. Still doesn't have it. Still here.,{A} came back for the {grail}. Still doesn't have it. Still here.
+g.revive.12,retain,,{A} kicked the gacha garage on the way out. It spat out a second chance.,{A} kicked the gacha garage on the way out. It spat out a second chance.
+g.revive.13,retain,,{A} filed a protest with the race stewards. Protest accepted. Back on track.,{A} filed a protest with the race stewards. Protest accepted. Back on track.
+g.revive.14,retain,period-filtered,{A} rolled a natural 20 and climbed back in.,{A} rolled a natural 20 and climbed back in.
+g.revive.15,retain,,{A} played a Get Out of Jail Free card nobody knew they had.,{A} played a Get Out of Jail Free card nobody knew they had.
+g.revive.16,rewrite,,{A}'s pull got re-graded. Not a common after all. Back in.,"{A}'s damaged entry is replaced at the reserve desk. Fresh wheels, same ripper. Back in."
+g.revive.17,retain,period-filtered,{A} reloaded the last save and walked back in.,{A} reloaded the last save and walked back in.
+g.duel.0,retain,,Final two. {A} and {B} line up. Green flag. {A} gets the launch. {B} gets the dust.,Final two. {A} and {B} line up. Green flag. {A} gets the launch. {B} gets the dust.
+g.duel.1,retain,,{A} and {B} reach for the last {grail} at the same time. {A}'s fingers are faster.,{A} and {B} reach for the last {grail} at the same time. {A}'s fingers are faster.
+g.duel.2,rewrite,,"One lap, two rippers. {B} blinks. {A} doesn't.",Last launch. {A} clears the loop. {B} lands upside down in the catch tray. The final belongs to {A}.
+g.duel.3,retain,,{B} offers a handshake. {A} offers a {model} to the forehead. Respectfully.,{B} offers a handshake. {A} offers a {model} to the forehead. Respectfully.
+g.duel.4,retain,,Last two in the garage: {A} and {B}. The claw comes down. It picks {B}.,Last two in the garage: {A} and {B}. The claw comes down. It picks {B}.
+g.duel.5,retain,,Photo finish. The stewards check the tape. {A} by a bumper. {B} by a heartbreak.,Photo finish. The stewards check the tape. {A} by a bumper. {B} by a heartbreak.
+g.duel.6,retain,,{A} and {B} stare each other down over a {pack}. {A} rips first. {B} rips nothing.,{A} and {B} stare each other down over a {pack}. {A} rips first. {B} rips nothing.
+g.duel.7,rewrite,,{B} goes for the overtake on the final corner. {A} closes the door.,{B} tries the outside on the final bend. {A} crosses the finish first. {B}'s race ends in second place.
+g.duel.8,retain,,{A} and {B} play rock paper scissors for the title. {A} throws a {model}. Not a valid move. Still wins.,{A} and {B} play rock paper scissors for the title. {A} throws a {model}. Not a valid move. Still wins.
+g.duel.9,rewrite,,{B} drops their best pull on the final lap. {A} picks it up and wins with it.,{A}'s {model} crosses the final line first. {B} arrives a wheel later. The trophy title goes to {A}.
+g.duel.10,rewrite,,The crowd counts down. {A} rips. {B} watches. Over.,The crowd counts down. {A} lands in the finish tray. {B} lands in the packing box. The final is over.
+g.duel.11,retain,,{A} and {B} flip a coin for the win. It lands on its edge. {A} pushes it over.,{A} and {B} flip a coin for the win. It lands on its edge. {A} pushes it over.
+g.win.0,rewrite,,"{A} is the last ripper standing. Mint, carded, unbeaten.","{A} is the last ripper standing. Scuffed edges, winning finish."
+g.win.1,retain,,"{A} survived the claw, the fakes and every ripper in here. RIP to the rest. LFRIP 🏎️","{A} survived the claw, the fakes and every ripper in here. RIP to the rest. LFRIP 🏎️"
+g.win.2,rewrite,,{A} wins and takes a {grail} home as a trophy. Everyone else is a common now.,{A} wins the rumble and the bragging rights. The Hot Wheels in this story stay fictional.
+g.win.3,retain,,Only {A} is left. The claw bows.,Only {A} is left. The claw bows.
+g.win.4,retain,,{A} wins the rumble. Screenshot it. Frame it. Never stop talking about it.,{A} wins the rumble. Screenshot it. Frame it. Never stop talking about it.
+g.win.5,retain,,{A} is the last one rolling. One of one.,{A} is the last one rolling. One of one.
+g.win.6,retain,,{A} wins. The gacha garage opens its shutter for one ripper only.,{A} wins. The gacha garage opens its shutter for one ripper only.
+g.win.7,retain,,"{A} outlived everyone, the claw included.","{A} outlived everyone, the claw included."
+g.win.8,retain,,{A} drives out of the garage alone. The shutter rolls down behind them. Champion.,{A} drives out of the garage alone. The shutter rolls down behind them. Champion.
+g.win.9,retain,,"{A} takes the rumble. Somewhere, a {grail} feels proud.","{A} takes the rumble. Somewhere, a {grail} feels proud."
+g.win.10,retain,period-filtered,"{A} won. Mods, give this ripper a crown.","{A} won. Mods, give this ripper a crown."
+g.win.11,retain,,Every engine went quiet except {A}'s. That's the win.,Every engine went quiet except {A}'s. That's the win.
+g.hazard.0,retain,,The big shelf collapses. {names} are buried under blisters.,The big shelf collapses. {names} are buried under blisters.
+g.hazard.1,retain,,A restock rumor spreads. {names} sprint out the door and never come back.,A restock rumor spreads. {names} sprint out the door and never come back.
+g.hazard.2,retain,,A sudden rainstorm hits the track. {names} spin out.,A sudden rainstorm hits the track. {names} spin out.
+g.hazard.3,retain,,The claw goes berserk and drags {names} into the machine.,The claw goes berserk and drags {names} into the machine.
+g.hazard.4,retain,,A flash flood rolls through the parking lot. {names} float away on their cardboard.,A flash flood rolls through the parking lot. {names} float away on their cardboard.
+g.hazard.5,retain,,"The power goes out. When the lights come back, {names} are gone.","The power goes out. When the lights come back, {names} are gone."
+g.hazard.6,retain,,A runaway shopping cart plows through the crowd. {names} go down like bowling pins.,A runaway shopping cart plows through the crowd. {names} go down like bowling pins.
+g.hazard.7,retain,,Somebody shouts 'free packs outside'. {names} sprint out and the door locks behind them.,Somebody shouts 'free packs outside'. {names} sprint out and the door locks behind them.
+g.hazard.8,retain,,The floor opens like a trapdoor. {names} drop into the basement storage.,The floor opens like a trapdoor. {names} drop into the basement storage.
+g.hazard.9,retain,,A tornado of loose Hot Wheels spins through the room. {names} get swept up.,A tornado of loose Hot Wheels spins through the room. {names} get swept up.
+g.hazard.10,retain,,"A strange fog rolls in. When it clears, {names} are nowhere to be found.","A strange fog rolls in. When it clears, {names} are nowhere to be found."
+g.hazard.11,retain,period-filtered,The mods start a surprise cleanup. {names} get swept out with the trash.,The mods start a surprise cleanup. {names} get swept out with the trash.
+g.ambient.0,retain,,A lone {model} rolls across the floor. Nobody claims it.,A lone {model} rolls across the floor. Nobody claims it.
+g.ambient.1,retain,,"Somewhere, a blister pops. Everyone flinches.","Somewhere, a blister pops. Everyone flinches."
+g.ambient.2,retain,,The crowd goes quiet. Even the claw is watching.,The crowd goes quiet. Even the claw is watching.
+g.ambient.3,retain,period-filtered,A rumor of a {grail} restock ripples through the server.,A rumor of a {grail} restock ripples through the server.
+g.ambient.4,retain,,Engines idle. Hands hover over packs. Nobody blinks.,Engines idle. Hands hover over packs. Nobody blinks.
+g.ambient.5,retain,,A tumbleweed of bubble wrap drifts across the track.,A tumbleweed of bubble wrap drifts across the track.
+g.ambient.6,retain,,The Ripper checks the clock and says nothing.,The Ripper checks the clock and says nothing.
+g.ambient.7,rewrite,,Somebody in chat types 'wen'. Nobody answers.,A loose wheel rolls across the desk. Three collectors reach for it. Nobody admits needing a spare.
+garage.kill.0,retain,,{A} pulled a Porsche on the first rip and drove it straight through {B}.,{A} pulled a Porsche on the first rip and drove it straight through {B}.
+garage.kill.1,retain,,{A} stole {B}'s waffle. {B} had nothing left to rip and logged off.,{A} stole {B}'s waffle. {B} had nothing left to rip and logged off.
+garage.kill.2,retain,,{A} pulled the shutter down on {B}. The Garage is closed for {B}.,{A} pulled the shutter down on {B}. The Garage is closed for {B}.
+garage.kill.3,retain,,{A} yelled LFRIP and ripped {B} right off the leaderboard.,{A} yelled LFRIP and ripped {B} right off the leaderboard.
+garage.kill.4,rewrite,,The Ripper tossed {A} the roadster keys. {B} never saw it coming.,The Ripper tosses {A} the roadster keys. {A} crosses the lane first while {B} runs for cover and misses the deciding heat.
+garage.kill.5,retain,,{A} and {B} chased the same pull. It landed in {A}'s garage. {B} landed in the ditch.,{A} and {B} chased the same pull. It landed in {A}'s garage. {B} landed in the ditch.
+garage.kill.6,retain,,"{A} hit buyback, cashed out and ran {B} over on the way to the exit.","{A} hit buyback, cashed out and ran {B} over on the way to the exit."
+garage.kill.7,rewrite,,{A} told {B} the Nitro packs were back. {B} is still refreshing.,{A} tells {B} the Nitro packs are back. {B} refreshes the page through the entire deciding heat and loses their place.
+garage.wipe.0,retain,,{A} ripped 40 packs chasing a Porsche and ran out of gas.,{A} ripped 40 packs chasing a Porsche and ran out of gas.
+garage.wipe.1,retain,,{A} tried to high-five the claw. The claw does not do high-fives. It does grabs. {A} is gone.,{A} tried to high-five the claw. The claw does not do high-fives. It does grabs. {A} is gone.
+garage.wipe.2,retain,,{A} forgot to claim their waffle and starved.,{A} forgot to claim their waffle and starved.
+garage.wipe.3,retain,,{A} tried to rip with an empty wallet. Eliminated by math.,{A} tried to rip with an empty wallet. Eliminated by math.
+garage.wipe.4,retain,,"{A} pulled a Bone Shaker, did a victory lap around the Garage and ran into the shutter.","{A} pulled a Bone Shaker, did a victory lap around the Garage and ran into the shutter."
+garage.wipe.5,retain,,{A} asked The Ripper to take off the mask. The Ripper said no. {A} is gone.,{A} asked The Ripper to take off the mask. The Ripper said no. {A} is gone.
+garage.wipe.6,retain,,"{A} sat on the gacha garage roof for a better view. The roof is not a seat. {A} fell through it, into the claw.","{A} sat on the gacha garage roof for a better view. The roof is not a seat. {A} fell through it, into the claw."
+garage.wipe.7,retain,,{A} tried to tip the claw. The claw kept the tip and {A}.,{A} tried to tip the claw. The claw kept the tip and {A}.
+garage.hazard.0,retain,,The claw goes into frenzy mode and hauls {names} into the machine.,The claw goes into frenzy mode and hauls {names} into the machine.
+garage.hazard.1,retain,,The shutter slams down. {names} were standing in the doorway.,The shutter slams down. {names} were standing in the doorway.
+garage.hazard.2,retain,,The Nitro packs sell out in seconds. {names} faint at the checkout.,The Nitro packs sell out in seconds. {names} faint at the checkout.
+garage.hazard.3,retain,,A waffle drop hits the server. {names} trample each other for it and nobody gets it.,A waffle drop hits the server. {names} trample each other for it and nobody gets it.
+garage.survive.0,retain,,{A} hid in the roadster's trunk all lap. Cozy.,{A} hid in the roadster's trunk all lap. Cozy.
+garage.moment.0,retain,,{A} and {B} shared a waffle. Half a free pull each. Wholesome.,{A} and {B} shared a waffle. Half a free pull each. Wholesome.
+garage.find.0,retain,,{A} pulled a {grail} from the gacha garage. W pull.,{A} pulled a {grail} from the gacha garage. W pull.
+garage.revive.0,retain,,A waffle fell from the sky. {A} caught it and respawned.,A waffle fell from the sky. {A} caught it and respawned.
+garage.revive.1,retain,,{A} hit buyback on their own elimination. 90% of {A} is back.,{A} hit buyback on their own elimination. 90% of {A} is back.
+garage.revive.2,retain,,The Ripper honked twice. {A} climbed back out of the claw.,The Ripper honked twice. {A} climbed back out of the claw.
+garage.duel.0,retain,,Final two inside the Garage. The shutter starts to drop. {A} slides under. {B} does not.,Final two inside the Garage. The shutter starts to drop. {A} slides under. {B} does not.
+garage.ambient.0,retain,,The claw twitches. Nobody moves.,The claw twitches. Nobody moves.
+garage.ambient.1,retain,,The shutter rattles in the wind.,The shutter rattles in the wind.
+garage.ambient.2,retain,,A waffle icon blinks somewhere in the server.,A waffle icon blinks somewhere in the server.
+garage.ambient.3,retain,,"The Ripper revs the roadster once, for drama.","The Ripper revs the roadster once, for drama."
+garage.ambient.4,retain,,The gacha garage hums a little louder than usual.,The gacha garage hums a little louder than usual.
+garage.win.0,retain,,{A} is the last ripper in the Garage. W pull. LFRIP 🏎️,{A} is the last ripper in the Garage. W pull. LFRIP 🏎️
+garage.win.1,retain,,{A} drives out of the Garage in The Ripper's roadster. Champion of the claw.,{A} drives out of the Garage in The Ripper's roadster. Champion of the claw.
+redline.kill.0,retain,,{A} unclipped the Deora's surfboards and smacked {B} into next week.,{A} unclipped the Deora's surfboards and smacked {B} into next week.
+redline.kill.1,retain,,{A} charged a Sizzler for 90 seconds and lapped {B} until {B} begged for mercy.,{A} charged a Sizzler for 90 seconds and lapped {B} until {B} begged for mercy.
+redline.kill.2,rewrite,,{A} told {B} the Python is called the Cheetah now. {B} lost the argument and the will to live.,{A} shows the early Cheetah stamp beneath a Python. {B} submits the wrong shop label in the deciding identification heat. Out.
+redline.kill.3,retain,,{A} sent a Heavyweights cement mixer down the track. {B} was the speed bump.,{A} sent a Heavyweights cement mixer down the track. {B} was the speed bump.
+redline.kill.4,retain,,{A} popped a wheelie on a Rrrumbler and landed it on {B}. The plastic rider waved goodbye.,{A} popped a wheelie on a Rrrumbler and landed it on {B}. The plastic rider waved goodbye.
+redline.kill.5,retain,,"{A} pocketed the collector button from {B}'s blister. No button, no {B}.","{A} pocketed the collector button from {B}'s blister. No button, no {B}."
+redline.kill.6,rewrite,,"{A} switched {B}'s Spectraflame to enamel. Welcome to 1973, {B}. You're out.",{A} tips the paint tray onto {B}'s starting lane. {B}'s wheels stick before the deciding launch. Out.
+redline.kill.7,rewrite,,"{A} rolled out the Custom Camaro, the first Hot Wheels ever sold, and made {B} the first ripper out.",{A}'s Custom Camaro crosses the deciding finish. {B}'s entry stalls at the loop and leaves the bracket.
+redline.kill.8,retain,,{A} fired up the Super Charger and fed {B} through the foam wheels.,{A} fired up the Super Charger and fed {B} through the foam wheels.
+redline.wipe.0,retain,,"{A} cleaned a Redline with a kitchen scrubber. Spectraflame gone, {A} gone.","{A} cleaned a Redline with a kitchen scrubber. Spectraflame gone, {A} gone."
+redline.wipe.1,rewrite,,{A} painted red stripes on blackwall wheels with a marker. Caught in seconds. Disqualified.,"{A} fits plain replacement wheels, then misses the inspection deadline while trying to put the red stripes back. Out."
+redline.wipe.2,retain,,{A} forgot to charge the Sizzler and stalled before the first corner.,{A} forgot to charge the Sizzler and stalled before the first corner.
+redline.wipe.3,retain,,{A} swore 1968 had seventeen models. The Ripper counted sixteen. {A} is out.,{A} swore 1968 had seventeen models. The Ripper counted sixteen. {A} is out.
+redline.wipe.4,rewrite,,"{A} waited until 1978 to buy redlines. They were gone, and so was {A}.",{A} arrives at the shop after the deciding heat closes. The empty lane ends their run.
+redline.wipe.5,retain,,{A} argued for three hours that their Ice Blue was Windex Blue. The lap ended without {A}.,{A} argued for three hours that their Ice Blue was Windex Blue. The lap ended without {A}.
+redline.wipe.6,rewrite,,{A} sat on the orange track loop until it snapped flat.,{A} sits on the orange track loop until it snaps flat. Their lane fails inspection and their run ends there.
+redline.wipe.7,rewrite,,{A} tossed a pink one in 1969 because pink would never sell. {A} regrets everything.,"{A} threw away a pink one in 1969. In the 1971 identification heat, they name the wrong colour and lose their final entry."
+redline.hazard.0,rewrite,,1973 hits. Enamel replaces Spectraflame. {names} lose their shine and drop out.,The shop display tips across the starting lanes. {names} lose their entries under the fallen shelves and leave the heat.
+redline.hazard.1,retain,,The Super Charger overheats and launches {names} off the orange track.,The Super Charger overheats and launches {names} off the orange track.
+redline.hazard.2,retain,,Spring cleaning. Mom boxes up {names} for the garage sale.,Spring cleaning. Mom boxes up {names} for the garage sale.
+redline.hazard.3,rewrite,,1972: the buttons are gone from the blister. {names} panic and quit.,The orange track separates at the last join. {names} land in the catch box and leave the deciding heat.
+redline.survive.0,retain,,{A} hid inside a Rally Case all lap. Snug fit.,{A} hid inside a Rally Case all lap. Snug fit.
+redline.survive.1,retain,,{A} polished their Spectraflame all lap. Blinding. Nobody came close.,{A} polished their Spectraflame all lap. Blinding. Nobody came close.
+redline.moment.0,retain,,{A} and {B} traded collector buttons. Fair deal. Rare these days.,{A} and {B} traded collector buttons. Fair deal. Rare these days.
+redline.find.0,rewrite,,{A} found a {model} still in its 1968 blister at a garage sale. Button and all.,{A} finds a {model} in a period blister at the shop. Button and all.
+redline.find.1,retain,,{A} spotted a {grail} in a shoebox at a flea market. Paid in pocket change.,{A} spotted a {grail} in a shoebox at a flea market. Paid in pocket change.
+redline.revive.0,retain,,{A} found a collector button in an old cigar box and rejoined the grid.,{A} found a collector button in an old cigar box and rejoined the grid.
+redline.revive.1,retain,,{A} recharged on the Juice Machine and rolled back in.,{A} recharged on the Juice Machine and rolled back in.
+redline.revive.2,rewrite,,"{A} got reissued in 1973. Different paint, same attitude. Back in.","{A} returns from the repair desk with straightened axles. Same 1971 heat, second run."
+redline.duel.0,rewrite,,Final two on the orange track. {A} hits the Super Charger first. {B} hits the floor.,Final two on the orange track. {A} hits the Super Charger. {B} hits the floor.
+redline.ambient.0,retain,,A Sizzler whines somewhere under the couch.,A Sizzler whines somewhere under the couch.
+redline.ambient.1,retain,,The orange track creaks at the loop.,The orange track creaks at the loop.
+redline.ambient.2,retain,,Spectraflame catches the light. Everyone squints.,Spectraflame catches the light. Everyone squints.
+redline.ambient.3,retain,,A collector button rolls under the radiator.,A collector button rolls under the radiator.
+redline.ambient.4,retain,,"The Super Charger foam wheels spin up, then down.","The Super Charger foam wheels spin up, then down."
+redline.win.0,retain,,"{A} is the Last Redline. Spectraflame, clean stripes, button on.","{A} is the Last Redline. Spectraflame, clean stripes, button on."
+redline.win.1,rewrite,,1977 is over. The red stripes are gone and only {A} is still rolling.,The 1971 shop closes. Only {A} remains on the orange track.
+redline.win.2,rewrite,,"{A} wins the Redline rumble. Mint, carded, button intact.",{A} wins the Redline rumble. The collector button goes beside the finish line.
+hunt.kill.0,rewrite,,{A} beat {B} to the peg by one second. {B} is still standing there with an open hand.,{A} beats {B} to the peg by one second. {B}'s empty hand misses the final identification entry.
+hunt.kill.1,retain,,{A} told the store employee {B} was a scalper. Security walked {B} out.,{A} told the store employee {B} was a scalper. Security walked {B} out.
+hunt.kill.2,retain,,{A} dug to the bottom of the dump bin and buried {B} on the way up.,{A} dug to the bottom of the dump bin and buried {B} on the way up.
+hunt.kill.3,rewrite,,{A} restocked the pegs with peg warmers right in front of {B}. {B} lost all hope.,{A} restocks the pegs with peg warmers in front of {B}. {B} walks out before the deciding hunt closes.
+hunt.kill.4,retain,,{A} followed the restock truck. {B} followed {A}. {A} took a sharp turn. {B} took a lake.,{A} followed the restock truck. {B} followed {A}. {A} took a sharp turn. {B} took a lake.
+hunt.kill.5,retain,,{A} held the last case hostage until {B} gave up and went home.,{A} held the last case hostage until {B} gave up and went home.
+hunt.kill.6,rewrite,,{A} pointed {B} to the wrong aisle. {B} is still lost in Garden Center.,{A} points {B} to the wrong aisle. {B} is still in Garden Center when their deciding heat ends.
+hunt.kill.7,retain,,{A} found the Super Treasure Hunt behind {B}'s back. {B} turned around and fainted.,{A} found the Super Treasure Hunt behind {B}'s back. {B} turned around and fainted.
+hunt.wipe.0,retain,,"{A} checked every store in the city before sunrise, got home and found a Super Treasure Hunt on their own shelf. Collapsed.","{A} checked every store in the city before sunrise, got home and found a Super Treasure Hunt on their own shelf. Collapsed."
+hunt.wipe.1,rewrite,,{A} dug so deep into the dump bin they reached the warehouse.,{A} follows the stock trolley into the warehouse. Security closes the door behind them. The deciding hunt ends outside.
+hunt.wipe.2,retain,,{A} asked an employee when the truck comes. The employee said 'what truck'. {A} dissolved.,{A} asked an employee when the truck comes. The employee said 'what truck'. {A} dissolved.
+hunt.wipe.3,retain,,{A} mistook a regular for a Super Treasure Hunt and screamed in public. Never recovered.,{A} mistook a regular for a Super Treasure Hunt and screamed in public. Never recovered.
+hunt.wipe.4,retain,,"{A} bought every case in the store and found nothing. Out of money, out of hope.","{A} bought every case in the store and found nothing. Out of money, out of hope."
+hunt.wipe.5,retain,,{A} slept in the Hot Wheels aisle to be first in the morning. The night shift mopped {A} up.,{A} slept in the Hot Wheels aisle to be first in the morning. The night shift mopped {A} up.
+hunt.wipe.6,retain,,{A} posted the store location online. Scalpers arrived. {A} got trampled.,{A} posted the store location online. Scalpers arrived. {A} got trampled.
+hunt.wipe.7,retain,,{A} checked the same peg 30 times in one hour. The peg won.,{A} checked the same peg 30 times in one hour. The peg won.
+hunt.hazard.0,retain,,A scalper clears every peg in the city. {names} go home empty-handed.,A scalper clears every peg in the city. {names} go home empty-handed.
+hunt.hazard.1,retain,,The store opens late. {names} freeze in the parking lot.,The store opens late. {names} freeze in the parking lot.
+hunt.hazard.2,retain,,Security escorts {names} out for diving into the dump bin.,Security escorts {names} out for diving into the dump bin.
+hunt.hazard.3,retain,,The employee says 'no more cases today'. {names} collapse on the spot.,The employee says 'no more cases today'. {names} collapse on the spot.
+hunt.survive.0,retain,,{A} blended into the peg wall wearing a cardboard costume. Nobody looked twice.,{A} blended into the peg wall wearing a cardboard costume. Nobody looked twice.
+hunt.survive.1,retain,,{A} spent the lap reciting all twelve 1995 Treasure Hunts in order. Nobody interrupted.,{A} spent the lap reciting all twelve 1995 Treasure Hunts in order. Nobody interrupted.
+hunt.moment.0,retain,,{A} found two of the same chase and gave one to {B}. The hunt has heroes.,{A} found two of the same chase and gave one to {B}. The hunt has heroes.
+hunt.find.0,retain,,{A} found a {grail} hiding behind a row of peg warmers. Stayed calm. Screamed inside.,{A} found a {grail} hiding behind a row of peg warmers. Stayed calm. Screamed inside.
+hunt.find.1,rewrite,,{A} spotted a {model} in the wrong peg row and took it home.,{A} finds a {model} behind the cereal boxes and puts it in their basket for the next heat.
+hunt.find.2,retain,,{A} found a {grail} in a fresh case before the employee opened it. Nobody saw. Hopefully.,{A} found a {grail} in a fresh case before the employee opened it. Nobody saw. Hopefully.
+hunt.revive.0,retain,,A fresh case hit the floor. {A} smelled it from the parking lot and came back.,A fresh case hit the floor. {A} smelled it from the parking lot and came back.
+hunt.revive.1,rewrite,,{A} found a receipt for a Super Treasure Hunt in an old jacket. Back in the hunt.,A reserve entry opens at the restock desk. {A} takes the confirmed place and rejoins the hunt.
+hunt.revive.2,retain,,An employee waved {A} into the back room. Second chance granted.,An employee waved {A} into the back room. Second chance granted.
+hunt.duel.0,retain,,Last two hunters. One peg. One Super Treasure Hunt. {A} grabs it. {B} grabs air.,Last two hunters. One peg. One Super Treasure Hunt. {A} grabs it. {B} grabs air.
+hunt.ambient.0,retain,,The fluorescent lights buzz over aisle 9.,The fluorescent lights buzz over aisle 9.
+hunt.ambient.1,retain,,A cart with one squeaky wheel rolls past the pegs.,A cart with one squeaky wheel rolls past the pegs.
+hunt.ambient.2,retain,,"An employee wheels out a case, then wheels it back.","An employee wheels out a case, then wheels it back."
+hunt.ambient.3,retain,,Someone in the next aisle gasps. False alarm.,Someone in the next aisle gasps. False alarm.
+hunt.ambient.4,retain,,The dump bin settles with a soft rattle.,The dump bin settles with a soft rattle.
+hunt.win.0,retain,,{A} walks out of the store with the Super Treasure Hunt. The hunt is over.,{A} walks out of the store with the Super Treasure Hunt. The hunt is over.
+hunt.win.1,retain,,"{A} cleared the pegs, the bins and every hunter in here. Winner.","{A} cleared the pegs, the bins and every hunter in here. Winner."
+nft.kill.0,retain,,{A} minted the last {grail} one block before {B}. {B} got the sold-out screen forever.,{A} minted the last {grail} one block before {B}. {B} got the sold-out screen forever.
+nft.kill.1,retain,,{A} sent {B} a fake redeem link. {B} redeemed nothing and lost everything.,{A} sent {B} a fake redeem link. {B} redeemed nothing and lost everything.
+nft.kill.2,retain,,{A} swept the floor right under {B}'s feet. {B} fell through.,{A} swept the floor right under {B}'s feet. {B} fell through.
+nft.kill.3,retain,,{A} sniped {B}'s listing at a typo price. {B} is out and offline.,{A} sniped {B}'s listing at a typo price. {B} is out and offline.
+nft.kill.4,retain,,{A} told {B} the reveal was tomorrow. It was today. {B} missed it and rage-quit the server.,{A} told {B} the reveal was tomorrow. It was today. {B} missed it and rage-quit the server.
+nft.kill.5,retain,,{A} out-gassed {B} in the mint war. {B}'s transaction is still pending in another life.,{A} out-gassed {B} in the mint war. {B}'s transaction is still pending in another life.
+nft.kill.6,retain,,{A} redeemed the physical and threw it at {B}. Digital meets physical.,{A} redeemed the physical and threw it at {B}. Digital meets physical.
+nft.kill.7,rewrite,,{A} posted gm with a fake mint link. {B} clicked. {B} is gone.,{A} matches the requested edition. {B} submits a lookalike from another series and leaves the exhibit round.
+nft.wipe.0,retain,,{A} screenshotted the {grail} instead of minting it. Owns a PNG. Out.,{A} screenshotted the {grail} instead of minting it. Owns a PNG. Out.
+nft.wipe.1,retain,,"{A} sold at the floor, then watched it 10x. Left the server to stare at a wall.","{A} sold at the floor, then watched it 10x. Left the server to stare at a wall."
+nft.wipe.2,retain,,{A} kept the redeemable in a wallet so long they forgot which wallet.,{A} kept the redeemable in a wallet so long they forgot which wallet.
+nft.wipe.3,retain,,{A} connected to the wrong site on mint day. Rugged before breakfast.,{A} connected to the wrong site on mint day. Rugged before breakfast.
+nft.wipe.4,retain,,{A} paper-handed at the first dip. Gone.,{A} paper-handed at the first dip. Gone.
+nft.wipe.5,retain,,{A} spent all the gas on a failed transaction. Still paying for it.,{A} spent all the gas on a failed transaction. Still paying for it.
+nft.wipe.6,rewrite,,{A} tattooed their wallet address on their arm. Typo in it. Out.,{A} submits the wrong edition record at the deciding desk. The fictional exhibit rejects the entry. Out.
+nft.wipe.7,retain,,{A} explained NFTs to the family at dinner. Did not survive the dinner.,{A} explained NFTs to the family at dinner. Did not survive the dinner.
+nft.hazard.0,retain,,The site crashes on mint day. {names} never get through.,The site crashes on mint day. {names} never get through.
+nft.hazard.1,retain,,A fake mint link hits the chat. {names} sign it. Rugged.,A fake mint link hits the chat. {names} sign it. Rugged.
+nft.hazard.2,retain,,The floor dumps. {names} panic-sell and log off.,The floor dumps. {names} panic-sell and log off.
+nft.hazard.3,retain,,Gas spikes. {names} get priced out of the rumble.,Gas spikes. {names} get priced out of the rumble.
+nft.survive.0,retain,,{A} turned off notifications and touched grass all lap. Untouchable.,{A} turned off notifications and touched grass all lap. Untouchable.
+nft.moment.0,retain,,"{A} and {B} both held through the dip. Diamond hands, mutual respect.","{A} and {B} both held through the dip. Diamond hands, mutual respect."
+nft.find.0,retain,,{A} found a {grail} in an old wallet from 2021. Forgot it was there.,{A} found a {grail} in an old wallet from 2021. Forgot it was there.
+nft.find.1,retain,,{A} won a {model} in a Discord raffle and redeemed the physical on the spot.,{A} won a {model} in a Discord raffle and redeemed the physical on the spot.
+nft.revive.0,retain,,"{A} got re-minted from a backup wallet. Fresh token, same ripper.","{A} got re-minted from a backup wallet. Fresh token, same ripper."
+nft.revive.1,retain,,{A} found the seed phrase taped behind a picture frame. Back in.,{A} found the seed phrase taped behind a picture frame. Back in.
+nft.revive.2,retain,,A surprise airdrop landed in {A}'s wallet. Revived.,A surprise airdrop landed in {A}'s wallet. Revived.
+nft.duel.0,retain,,"Final two, one block left. {A}'s transaction confirms. {B}'s fails.","Final two, one block left. {A}'s transaction confirms. {B}'s fails."
+nft.ambient.0,retain,,The mint counter ticks up by one.,The mint counter ticks up by one.
+nft.ambient.1,retain,,"Gas fees blink red, then green.","Gas fees blink red, then green."
+nft.ambient.2,retain,,A wallet notification pings. Everyone checks their phone.,A wallet notification pings. Everyone checks their phone.
+nft.ambient.3,retain,,The floor price flickers.,The floor price flickers.
+nft.ambient.4,retain,,A new wallet joins the server and says nothing.,A new wallet joins the server and says nothing.
+nft.win.0,retain,,{A} holds the last token standing. Diamond hands. Winner.,{A} holds the last token standing. Diamond hands. Winner.
+nft.win.1,retain,,"{A} minted, held and redeemed the win. Digital and physical champion.","{A} minted, held and redeemed the win. Digital and physical champion."
+gulf.kill.0,retain,,{A} stayed flat out down the long straight. {B} choked on the orange exhaust and retired.,{A} stayed flat out down the long straight. {B} choked on the orange exhaust and retired.
+gulf.kill.1,retain,,{A} out-braked {B} into the chicane at 3 AM. {B} is asleep in the gravel.,{A} out-braked {B} into the chicane at 3 AM. {B} is asleep in the gravel.
+gulf.kill.2,retain,,{A} stole {B}'s stint at the driver change. {B} is still buckled into the pit wall.,{A} stole {B}'s stint at the driver change. {B} is still buckled into the pit wall.
+gulf.kill.3,rewrite,,{A} pitted under the safety car. {B} did not. Game over for {B}.,{A} makes the fuel stop. {B} passes the pits and runs dry before the next timing line. Their race is over.
+gulf.kill.4,rewrite,,{A} threw powder blue paint at {B}. {B} is a livery now.,{A} throws powder-blue paint across {B}'s visor. {B} pulls into the pits and retires with no clear view of the track.
+gulf.kill.5,retain,,{A} opened packs until a Porsche showed up. It was a Gulf 993 GT2. {A} used it to end {B}.,{A} opened packs until a Porsche showed up. It was a Gulf 993 GT2. {A} used it to end {B}.
+gulf.kill.6,retain,,{A} flashed the headlights at {B} on the night stint. {B} moved over and off the track.,{A} flashed the headlights at {B} on the night stint. {B} moved over and off the track.
+gulf.kill.7,retain,,{A} sipped coffee in the pits while {B} ran out of fuel on the back straight.,{A} sipped coffee in the pits while {B} ran out of fuel on the back straight.
+gulf.wipe.0,retain,,{A} fell asleep during the night stint. Woke up in the next race.,{A} fell asleep during the night stint. Woke up in the next race.
+gulf.wipe.1,retain,,{A} stayed out on slicks when the rain came. Swim team now.,{A} stayed out on slicks when the rain came. Swim team now.
+gulf.wipe.2,retain,,{A} repainted a {model} in Gulf colors with a highlighter. Looks wrong. Feels wrong. Out.,{A} repainted a {model} in Gulf colors with a highlighter. Looks wrong. Feels wrong. Out.
+gulf.wipe.3,rewrite,,{A} skipped the driver change and drove all 24 hours alone. Fell asleep at hour 23.,"{A} misses the driver-change signal. Fatigue sends them into the gravel, and the crew retires the entry."
+gulf.wipe.4,retain,,{A} spilled orange paint on the powder blue. The purists removed {A}.,{A} spilled orange paint on the powder blue. The purists removed {A}.
+gulf.wipe.5,retain,,{A} called the livery baby blue and orange. Escorted out by enthusiasts.,{A} called the livery baby blue and orange. Escorted out by enthusiasts.
+gulf.wipe.6,retain,,{A} ran out of fuel in pit lane. So close. So out.,{A} ran out of fuel in pit lane. So close. So out.
+gulf.wipe.7,retain,,{A} kept staring at the Gulf 993 GT2 in the pits and missed every lap.,{A} kept staring at the Gulf 993 GT2 in the pits and missed every lap.
+gulf.hazard.0,rewrite,,Rain hits at hour 9. {names} aquaplane into the gravel.,Rain sweeps across the current sector. {names} aquaplane into the gravel and retire.
+gulf.hazard.1,retain,,Fog rolls in on the night stint. {names} miss the braking point.,Fog rolls in on the night stint. {names} miss the braking point.
+gulf.hazard.2,retain,,Fresh livery paint drips off the pit roof. {names} get painted orange and disqualified.,Fresh livery paint drips off the pit roof. {names} get painted orange and disqualified.
+gulf.hazard.3,retain,real-vehicle-context,The safety car comes out and {names} crash into each other behind it.,The safety car comes out and {names} crash into each other behind it.
+gulf.survive.0,retain,,{A} stayed in the garage polishing the livery all lap. Safe and shiny.,{A} stayed in the garage polishing the livery all lap. Safe and shiny.
+gulf.moment.0,retain,,{A} handed {B} a coffee during the night stint. Endurance racing builds friendships.,{A} handed {B} a coffee during the night stint. Endurance racing builds friendships.
+gulf.find.0,retain,,"{A} found a {grail} in the back of the team truck. One of 6,000. Now one of {A}'s.","{A} found a {grail} in the back of the team truck. One of 6,000. Now one of {A}'s."
+gulf.find.1,retain,,{A} won a {model} from the pit crew in a tyre-change race.,{A} won a {model} from the pit crew in a tyre-change race.
+gulf.revive.0,retain,,The pit wall called a driver change. {A} jumped back in the seat.,The pit wall called a driver change. {A} jumped back in the seat.
+gulf.revive.1,retain,real-vehicle-context,{A} pushed the car back to the pits and rejoined after repairs.,{A} pushed the car back to the pits and rejoined after repairs.
+gulf.revive.2,retain,,The stewards reviewed the crash. Not {A}'s fault. Back on track.,The stewards reviewed the crash. Not {A}'s fault. Back on track.
+gulf.duel.0,retain,,Hour 24. Final lap. {A} and {B} side by side in powder blue. {A} crosses first by a nose.,Hour 24. Final lap. {A} and {B} side by side in powder blue. {A} crosses first by a nose.
+gulf.ambient.0,retain,,Headlights sweep across pit lane.,Headlights sweep across pit lane.
+gulf.ambient.1,retain,,The rain radar turns orange.,The rain radar turns orange.
+gulf.ambient.2,retain,,A powder blue blur flashes past the pit wall.,A powder blue blur flashes past the pit wall.
+gulf.ambient.3,retain,,The coffee machine in the garage gives up.,The coffee machine in the garage gives up.
+gulf.ambient.4,retain,,The clock ticks toward hour 24.,The clock ticks toward hour 24.
+gulf.win.0,retain,,{A} wins the 24-hour rumble in Gulf colors. Champagne on the podium.,{A} wins the 24-hour rumble in Gulf colors. Champagne on the podium.
+gulf.win.1,rewrite,,"{A} takes the endurance crown. Blue, orange and undefeated.","{A} takes the endurance crown. Blue, orange and first across the line."
+convention.kill.0,retain,,{A} cut the line at the doors. {B} has been waiting since Tuesday and gave up.,{A} cut the line at the doors. {B} has been waiting since Tuesday and gave up.
+convention.kill.1,retain,,{A} won the raffle {B} entered 40 times. {B} fainted into the snack table.,{A} won the raffle {B} entered 40 times. {B} fainted into the snack table.
+convention.kill.2,retain,,{A} traded {B} a custom with rare paint. It was nail polish. {B} is out.,{A} traded {B} a custom with rare paint. It was nail polish. {B} is out.
+convention.kill.3,retain,,{A} out-haggled {B} at the dealer table. {B} went home with a lanyard and nothing else.,{A} out-haggled {B} at the dealer table. {B} went home with a lanyard and nothing else.
+convention.kill.4,retain,,{A} borrowed {B}'s badge for one minute. {B} is locked outside now.,{A} borrowed {B}'s badge for one minute. {B} is locked outside now.
+convention.kill.5,retain,,{A} knocked on {B}'s hotel room at 2 AM with a better deal. {B} sold everything and left.,{A} knocked on {B}'s hotel room at 2 AM with a better deal. {B} sold everything and left.
+convention.kill.6,retain,,{A} won the custom contest. {B}'s custom lost a wheel on stage and {B} left the building in tears.,{A} won the custom contest. {B}'s custom lost a wheel on stage and {B} left the building in tears.
+convention.kill.7,rewrite,,{A} grabbed the last {grail} from the table while {B} was taking a photo of it.,{A} grabs the last {grail} for the identification heat. {B} stops for a photo and misses the entry deadline.
+convention.wipe.0,retain,,{A} lost their badge and spent the night arguing with security.,{A} lost their badge and spent the night arguing with security.
+convention.wipe.1,rewrite,,{A} carried 300 Hot Wheels in one bag. The bag gave out on the escalator.,{A}'s haul bag splits on the hotel stairs. Their registered entry rolls through the steps and out of reach. Their heat ends without it.
+convention.wipe.2,retain,,"{A} spent the whole budget in the first five minutes. Out of cash, out of the rumble.","{A} spent the whole budget in the first five minutes. Out of cash, out of the rumble."
+convention.wipe.3,retain,,{A} slept in the dealer room to be first tomorrow. Got mopped up at midnight.,{A} slept in the dealer room to be first tomorrow. Got mopped up at midnight.
+convention.wipe.4,retain,,{A} got lost between hotel rooms and is still knocking on doors.,{A} got lost between hotel rooms and is still knocking on doors.
+convention.wipe.5,rewrite,,{A} ate the food court nachos. Tactical mistake.,{A} eats the food court nachos. The deciding race starts while they are still in the bathroom queue.
+convention.wipe.6,retain,,{A} took 800 photos of one {model}. Phone died. Then {A} did.,{A} took 800 photos of one {model}. Phone died. Then {A} did.
+convention.wipe.7,retain,,{A} sat through a two-hour panel about wheel variations. Fell asleep and never woke up.,{A} sat through a two-hour panel about wheel variations. Fell asleep and never woke up.
+convention.hazard.0,retain,,Doors open. The stampede takes out {names}.,Doors open. The stampede takes out {names}.
+convention.hazard.1,retain,,The raffle draws one name. {names} collapse from grief.,The raffle draws one name. {names} collapse from grief.
+convention.hazard.2,retain,,The hotel elevator gets stuck with {names} and 400 Hot Wheels inside.,The hotel elevator gets stuck with {names} and 400 Hot Wheels inside.
+convention.hazard.3,retain,,The fire alarm goes off. {names} refuse to leave their tables and get carried out.,The fire alarm goes off. {names} refuse to leave their tables and get carried out.
+convention.survive.0,retain,,{A} hid behind the tallest display case in the room. Camouflage master.,{A} hid behind the tallest display case in the room. Camouflage master.
+convention.moment.0,retain,,{A} and {B} traded business cards and a {model}. Collector friends for life.,{A} and {B} traded business cards and a {model}. Collector friends for life.
+convention.find.0,retain,,{A} found a {grail} in the lost and found. Nobody claimed it. Now {A} did.,{A} found a {grail} in the lost and found. Nobody claimed it. Now {A} did.
+convention.find.1,retain,,{A} pulled a {model} out of the goodie bag and screamed loud enough to stop the panel.,{A} pulled a {model} out of the goodie bag and screamed loud enough to stop the panel.
+convention.revive.0,retain,,Security stamped {A}'s hand at the side door. Back inside.,Security stamped {A}'s hand at the side door. Back inside.
+convention.revive.1,retain,,{A} found their lost badge under the nacho tray. Back in.,{A} found their lost badge under the nacho tray. Back in.
+convention.revive.2,retain,,{A} won a re-entry pass at the raffle. Back in the game.,{A} won a re-entry pass at the raffle. Back in the game.
+convention.duel.0,rewrite,,"Last call. Two collectors, one exclusive. {A} pays first. {B} pays the price.","Last call. Two collectors, one exclusive. {A} pays. {B} pays the price."
+convention.ambient.0,retain,,The PA system crackles: raffle in 10 minutes.,The PA system crackles: raffle in 10 minutes.
+convention.ambient.1,retain,,A rolling suitcase full of Hot Wheels thunders past.,A rolling suitcase full of Hot Wheels thunders past.
+convention.ambient.2,retain,,Somebody yells that room 412 has deals.,Somebody yells that room 412 has deals.
+convention.ambient.3,retain,,The dealer room smells like cardboard and coffee.,The dealer room smells like cardboard and coffee.
+convention.ambient.4,retain,,A lanyard drops on the floor. Nobody picks it up.,A lanyard drops on the floor. Nobody picks it up.
+convention.win.0,retain,,{A} walks out of Convention Night with the exclusive and every bragging right in the building.,{A} walks out of Convention Night with the exclusive and every bragging right in the building.
+convention.win.1,rewrite,,"{A} is the last collector standing. Badge on, bag full, unbeaten.",{A} leaves the hotel with the trophy and a suitcase that no longer closes.

@@ -1,0 +1,49 @@
+world,kind,runtime_id,source_id,published_text
+garage,survive,x.garage.survive.0,G01,{A} finds a magnifying glass beneath the workbench. The tiny wheel markings finally stop looking identical.
+garage,survive,x.garage.survive.1,G11,"{A} photographs a full-size Bone Shaker display, then returns to the table with the tiny racer that fits their lane."
+garage,survive,x.garage.survive.2,adapted-G-C,"{A}'s capsule visits the 1968 package artwork, then the 2008 Custom Otto display. They return with a catalogue note, leaving the models behind."
+garage,wipe,x.garage.wipe.0,G03,{A} tightens the new wheel until it rubs against the body. Their Hot Wheels stops halfway down the elimination track. They're out.
+garage,wipe,x.garage.wipe.1,G07,{A}'s registered racer rolls off the tilted workbench. A snapped front axle ends their run before the next heat.
+garage,kill,x.garage.kill.0,G04,{A}'s chipped mainline rolls past {B}'s display Hot Wheels in the deciding heat. {B} leaves with the nicer paint and no place in the race.
+garage,duel,x.garage.duel.0,G18,{A}'s Hot Wheels clears the workbench straight first. {B} reaches the finish a wheel behind and leaves the elimination bracket.
+garage,moment,x.garage.moment.0,G06,{A} announces a rare factory error. {B} removes a crumb from the wheel. The mystery is over.
+garage,moment,x.garage.moment.1,G14,{A} tests the empty lane while {B} checks the table. A folded catalogue under one leg levels the track.
+garage,find,x.garage.find.0,adapted-G-E,The Ripper slides a {model} across the workbench to {A}. A red ribbon marks this Hot Wheels for the next heat.
+garage,call,x.garage.call.0,adapted-G-B,"{H} sends the earlier {item} down the deciding lane. {B}'s entry stalls at the loop. {B} is out, and {H} retrieves the Hot Wheels."
+garage,transfer,x.garage.transfer.0,adapted-G-E,{H} gifts the {item} to {A}. The same Hot Wheels leaves one display and joins the other.
+hunt,survive,x.hunt.survive.0,T01,"{A} checks the copyright date, then the release reference. The Hot Wheels is newer than the number underneath it suggests."
+hunt,survive,x.hunt.survive.1,T09,{A} finds a blue AMX and asks where the Ed Shaver decal sheet went. The model name is only half the question.
+hunt,survive,x.hunt.survive.2,T15,{A} finds a Hot Wheels without its usual graphics and checks for repainting before describing it as a factory error.
+hunt,wipe,x.hunt.wipe.0,T17,"At the deciding identification desk, {A} uses the wrong year's checklist. Their submitted entry fails, ending the hunt."
+hunt,kill,x.hunt.kill.0,T04,{B} picks the brighter paint. {A} checks the release details and selects the correct Hot Wheels. {B} loses the deciding round.
+hunt,duel,x.hunt.duel.0,T18,{B} matches the casting but misses the decoration. {A} submits the requested release and takes the final place.
+convention,survive,x.convention.survive.0,C06,"{A} wins the auction lot and opens the box. One display sign, no Hot Wheels. They read the lot description this time."
+convention,survive,x.convention.survive.1,C14,{A} finds their convention badge inside the display-case pocket and gets through the door without borrowing anyone else's name.
+convention,survive,x.convention.survive.2,C16,"{A} examines the Candy Striper's numbered package, then returns it to the owner's display case."
+convention,wipe,x.convention.wipe.0,C04,{A} negotiates over one final colour variation until the race desk closes. Their empty lane costs them the heat. They're out.
+convention,wipe,x.convention.wipe.1,C07,"A display trolley jolts into {A}'s loose race Hot Wheels. One bent axle later, {A} has no entry for the deciding heat."
+convention,kill,x.convention.kill.0,C17,"{A}'s stock racer wins by its front wheels. {B} finishes the run, but their convention tournament ends there."
+convention,duel,x.convention.duel.0,C13,{A} and {B} receive fresh stock Hot Wheels at the race desk. {A} wins the deciding run. {B} leaves the bracket.
+convention,moment,x.convention.moment.0,C02,{A} takes the stairs while {B} waits with three collectors and six display cases for the elevator.
+convention,moment,x.convention.moment.1,C12,{A} and {B} move the disputed colour variation under the neutral inspection lamp. The hotel lighting stops deciding the argument.
+redline,survive,x.redline.survive.0,R02,{A} moves the Hot Wheels away from the yellow lamp before naming its colour. The argument gets quieter under daylight.
+redline,survive,x.redline.survive.1,R06,"{A} turns the early Python over. The Cheetah name underneath earns the Hot Wheels a second, longer inspection."
+redline,survive,x.redline.survive.2,R12,"{A} studies the resin body under the desk lamp. It belongs to the design table, away from the elimination slope."
+redline,wipe,x.redline.wipe.0,R03,{A} sends their registered Hot Wheels down the test slope with a bent axle. It scrapes to a halt and fails the elimination run.
+redline,wipe,x.redline.wipe.1,R07,"{A}'s racer hits the booster off-centre, clears the table, and lands on its front axle. Their race ends there."
+redline,kill,x.redline.kill.0,R04,{A}'s Twin Mill crosses first in the deciding downhill run. {B} picks up their Hot Wheels and leaves the bracket.
+redline,duel,x.redline.duel.0,R20,"{A}'s period racer stays straight through the last bend. {B}'s Hot Wheels leaves the lane, and their elimination run ends."
+gulf,survive,x.gulf.survive.0,F06,{A} stops at the wrong blue-and-orange pit board. The crew points one garage down before anyone touches the race car.
+gulf,survive,x.gulf.survive.1,F14,{A} notices a new vibration and brings the race car into the pits before attempting another full-speed lap.
+gulf,survive,x.gulf.survive.2,F18,{A} spots the service-road sign before turning off the circuit and stays on the marked race route.
+gulf,wipe,x.gulf.wipe.0,F03,"{A}'s oil pressure falls on the straight. They stop behind the barrier, and the crew retires the race car."
+gulf,wipe,x.gulf.wipe.1,F15,"Loose bodywork folds into {A}'s front tyre on the straight. They stop safely, but the damaged wheel ends their race."
+gulf,kill,x.gulf.kill.0,F04,{A} holds the inside line through the final corner. {B} finishes behind them and loses the elimination duel.
+gulf,duel,x.gulf.duel.0,F17,{A} exits the final bend ahead. {B} finishes safely behind them and loses the deciding duel.
+nft,survive,x.nft.survive.0,N11,{A} checks the edition before copying a rarity label from another release of the same famous casting.
+nft,survive,x.nft.survive.1,N12,{A} moves from the WAX archive shelf to the later Flow exhibit and keeps the two collection histories separately labelled.
+nft,survive,x.nft.survive.2,N17,"{A} enlarges the Hot Wheels preview across the whole wall. The display grows, while the labelled die-cast scale stays the same."
+nft,wipe,x.nft.wipe.0,N03,{A} submits a screenshot to the ownership desk. The matching entry belongs to another avatar. {A} is out.
+nft,kill,x.nft.kill.0,N04,{B} selects the right model name but the wrong edition. {A} matches the full record and wins the deciding comparison.
+nft,duel,x.nft.duel.0,N18,"{A}'s rendered racer clears the final bend. {B}'s Hot Wheels slides into the display barrier, ending their virtual-track run."
+nft,moment,x.nft.moment.0,N09,"{A} and {B} compare matching Hot Wheels images, then notice the different edition numbers in their exhibit records."

@@ -1,0 +1,44 @@
+id,old_text,new_text,old_tags,new_tags
+g.kill.46,{A} sent it down the inside from three rows back. {B} paid for it.,{A} sends it down the inside from three rows back. {B} slides into the gravel and retires from the heat.,,
+g.kill.50,"Lights out. Lights on. {B} is gone, and so is the {model}. {A} is whistling.","Lights out. Lights on. {B} has followed a decoy {model} through the exit. {A} is still at the starting line, whistling.",,
+g.kill.51,{A} dressed up as a delivery driver and walked out of {B}'s house with the whole shelf. {B} signed for it.,{A} loads {B}'s shelf onto a delivery trolley. {B} follows it through the exit and misses the deciding heat.,,
+g.kill.62,{A} out-traded {B} so hard at the swap meet that {B} walked home with one common and a hot dog.,{A} trades {B} down to one common and a hot dog. {B} heads home before their deciding heat. Out.,,
+g.kill.68,{A} whispered the {grail}'s true name to {B}. {B} turned into a 1:64 scale version of themselves.,{A} whispers the {grail}'s true name to {B}. {B} shrinks to 1:64 scale and fails to reach the starting gate before it closes.,,
+g.wipe.28,{A} traded the whole collection for one {grail}. It was a sticker of a {grail}.,{A} trades their collection for a {grail} sticker. They spend the deciding heat at the refund desk. Out.,,
+g.wipe.38,{A} pulled a {grail} and texted mom. Mom sold it. {A} is out.,{A} pulled a {grail} and texted mom. Mom sold it. {A} is out.,,modern
+g.wipe.41,"{A} finally pulled their grail, said 'I'm good' and walked off into the sunset. Retired undefeated.","{A} finally pulled their grail, said 'I'm good' and walked off into the sunset. Retired happy.",,
+g.wipe.67,Thunder. Rain. {A} stands alone in the parking lot holding an empty {pack}. Fade to black.,Thunder. Rain. {A} holds an empty {pack} outside the locked starting gate. Their heat ends inside. Fade to black.,,
+g.multi.15,{A} sold {B} and {C} the same {grail}. They found out together.,{A} sells {B} and {C} the same {grail}. Both abandon their starting lanes to argue at the returns desk. Their heat ends without them.,,
+g.call.0,{B} waited behind the pit wall all lap to steal {H}'s {item}. {H} saw it coming and threw the {item} right between {B}'s eyes. {B} is out.,"{B} waits behind the pit wall to steal {H}'s {item}. {H} throws it between {B}'s eyes, then picks it up. {B} is out.",,
+g.call.7,{H} used the {item} as a doorstop. {B} tripped over it and fell out of the rumble.,{H} uses the {item} as a doorstop. {B} trips over it and falls out of the rumble. {H} picks it up again.,,
+g.call.15,{H} tossed the {item} up to flex. It came down on {B}'s head. Die-cast always wins.,"{H} tosses the {item} up to flex. It lands on {B}'s head, ending their run. {H} catches it on the rebound.",,
+g.call.16,{B} challenged {H} to a race for the {item}. {H} brought a real Supra. {B} brought hope.,"{B} challenges {H} to a race for the {item}. {H} brings a real Supra, wins the deciding run, and keeps the Hot Wheels. {B} is out.",modern,modern
+g.revive.1,The claw spat {A} back out. Tasted bad.,"The claw lowers {A} onto the return lane, then opens its grip. Back on the grid.",rc,rc
+g.revive.3,{A} was found alive at the bottom of a dump bin. Slightly scratched. Back in.,"{A} passes the return desk's second inspection. One sticker on the badge, one place back on the grid.",,
+g.revive.4,{A}'s bubble mailer got returned to sender. Welcome back.,A fresh bubble mailer arrives at the return desk. The marshal opens it and {A} steps out. Back in.,,
+g.revive.9,"{A} crawled out of the protector case. Scuffed, but back.",{A} arrives at the return lane carrying a cracked protector case. The marshal waves them back onto the grid.,,
+g.win.0,"{A} is the last ripper standing. Mint, carded, unbeaten.","{A} is the last ripper standing. Scuffed edges, winning finish.",,
+garage.kill.4,The Ripper tossed {A} the roadster keys. {B} never saw it coming.,The Ripper tosses {A} the roadster keys. {A} crosses the lane first while {B} runs for cover and misses the deciding heat.,rc,rc
+garage.kill.7,{A} told {B} the Nitro packs were back. {B} is still refreshing.,{A} tells {B} the Nitro packs are back. {B} refreshes the page through the entire deciding heat and loses their place.,rc,rc
+redline.kill.2,{A} told {B} the Python is called the Cheetah now. {B} lost the argument and the will to live.,{A} shows the early Cheetah stamp beneath a Python. {B} submits the wrong shop label in the deciding identification heat. Out.,,
+redline.wipe.1,{A} painted red stripes on blackwall wheels with a marker. Caught in seconds. Disqualified.,"{A} fits plain replacement wheels, then misses the inspection deadline while trying to put the red stripes back. Out.",,
+redline.wipe.6,{A} sat on the orange track loop until it snapped flat.,{A} sits on the orange track loop until it snaps flat. Their lane fails inspection and their run ends there.,,
+redline.wipe.7,{A} tossed a pink one in 1969 because pink would never sell. {A} regrets everything.,"{A} threw away a pink one in 1969. In the 1971 identification heat, they name the wrong colour and lose their final entry.",,
+redline.revive.2,"{A} got reissued in 1973. Different paint, same attitude. Back in.","{A} returns from the repair desk with straightened axles. Same 1971 heat, second run.",,
+redline.win.2,"{A} wins the Redline rumble. Mint, carded, button intact.",{A} wins the Redline rumble. The collector button goes beside the finish line.,,
+hunt.kill.0,{A} beat {B} to the peg by one second. {B} is still standing there with an open hand.,{A} beats {B} to the peg by one second. {B}'s empty hand misses the final identification entry.,,
+hunt.kill.3,{A} restocked the pegs with peg warmers right in front of {B}. {B} lost all hope.,{A} restocks the pegs with peg warmers in front of {B}. {B} walks out before the deciding hunt closes.,,
+hunt.kill.6,{A} pointed {B} to the wrong aisle. {B} is still lost in Garden Center.,{A} points {B} to the wrong aisle. {B} is still in Garden Center when their deciding heat ends.,,
+hunt.wipe.1,{A} dug so deep into the dump bin they reached the warehouse.,{A} follows the stock trolley into the warehouse. Security closes the door behind them. The deciding hunt ends outside.,,
+hunt.find.1,{A} spotted a {model} in the wrong peg row and took it home.,{A} finds a {model} behind the cereal boxes and puts it in their basket for the next heat.,,
+gulf.kill.4,{A} threw powder blue paint at {B}. {B} is a livery now.,{A} throws powder-blue paint across {B}'s visor. {B} pulls into the pits and retires with no clear view of the track.,,
+gulf.hazard.3,The safety car comes out and {names} crash into each other behind it.,The safety car comes out and {names} crash into each other behind it.,,real_vehicle
+gulf.revive.1,{A} pushed the car back to the pits and rejoined after repairs.,{A} pushed the car back to the pits and rejoined after repairs.,,real_vehicle
+gulf.win.1,"{A} takes the endurance crown. Blue, orange and undefeated.","{A} takes the endurance crown. Blue, orange and first across the line.",,
+convention.kill.7,{A} grabbed the last {grail} from the table while {B} was taking a photo of it.,{A} grabs the last {grail} for the identification heat. {B} stops for a photo and misses the entry deadline.,,
+convention.wipe.1,{A} carried 300 Hot Wheels in one bag. The bag gave out on the escalator.,{A}'s haul bag splits on the hotel stairs. Their registered entry rolls through the steps and out of reach. Their heat ends without it.,,
+convention.wipe.5,{A} ate the food court nachos. Tactical mistake.,{A} eats the food court nachos. The deciding race starts while they are still in the bathroom queue.,,
+convention.win.1,"{A} is the last collector standing. Badge on, bag full, unbeaten.",{A} leaves the hotel with the trophy and a suitcase that no longer closes.,,
+x.gulf.survive.0,{A} stops at the wrong blue-and-orange pit board. The crew points one garage down before anyone touches the Hot Wheels.,{A} stops at the wrong blue-and-orange pit board. The crew points one garage down before anyone touches the race car.,,real_vehicle
+x.gulf.survive.1,{A} notices a new vibration and brings the Hot Wheels into the pits before attempting another full-speed lap.,{A} notices a new vibration and brings the race car into the pits before attempting another full-speed lap.,,real_vehicle
+x.gulf.wipe.0,"{A}'s oil pressure falls on the straight. They stop behind the barrier, and the crew retires the Hot Wheels.","{A}'s oil pressure falls on the straight. They stop behind the barrier, and the crew retires the race car.",,real_vehicle
