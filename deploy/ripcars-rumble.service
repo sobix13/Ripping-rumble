@@ -1,0 +1,35 @@
+[Unit]
+Description=RipCars Rumble Discord bot
+After=network-online.target
+Wants=network-online.target
+StartLimitIntervalSec=300
+StartLimitBurst=5
+
+[Service]
+Type=notify
+NotifyAccess=main
+User=rumble
+Group=rumble
+WorkingDirectory=/opt/ripcars-rumble/current
+EnvironmentFile=/opt/ripcars-rumble/shared/.env
+Environment=RUMBLE_BASE=/opt/ripcars-rumble
+ExecStart=/opt/ripcars-rumble/current/.venv/bin/python /opt/ripcars-rumble/current/scripts/run.py
+Restart=on-failure
+RestartSec=5
+WatchdogSec=90
+TimeoutStartSec=120
+TimeoutStopSec=120
+MemoryMax=512M
+TasksMax=128
+UMask=0077
+NoNewPrivileges=true
+PrivateTmp=true
+ProtectSystem=strict
+ProtectHome=true
+PrivateDevices=true
+RestrictSUIDSGID=true
+LockPersonality=true
+ReadWritePaths=/opt/ripcars-rumble/shared/data /opt/ripcars-rumble/shared/logs /opt/ripcars-rumble/shared/backups
+
+[Install]
+WantedBy=multi-user.target

@@ -1,0 +1,11 @@
+[Unit]
+Description=Daily RipCars Rumble backup
+
+[Timer]
+OnCalendar=*-*-* 03:15:00 UTC
+Persistent=true
+RandomizedDelaySec=300
+Unit=ripcars-rumble-backup.service
+
+[Install]
+WantedBy=timers.target
